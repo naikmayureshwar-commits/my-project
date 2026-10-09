@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,City,Product,Category,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Channel,Payment_Method,Customer_Segment,Month,Month_Number,Quarter,Profit_Margin
+476,2025-01-01,CUST1034,Customer 1079,East,Bhubaneswar,Printer,Electronics,2,8116.61,0.1,14609.9,12361.71,2248.19,Store,UPI,Consumer,Jan,1,Q1,0.15388127228796913
+222,2025-01-01,CUST1247,Customer 1128,South,Hyderabad,Desk,Furniture,4,4045.81,0.0,16183.24,12790.8,3392.44,Online,Debit Card,Corporate,Jan,1,Q1,0.20962674964963754
+835,2025-01-01,CUST1217,Customer 1034,East,Patna,Laptop,Electronics,2,73738.99,0.02,144528.42,116899.79,27628.63,Online,Credit Card,Home Office,Jan,1,Q1,0.19116399390514335
+585,2025-01-02,CUST1243,Customer 1297,South,Chennai,Water Bottle,Lifestyle,1,1122.78,0.02,1100.32,767.24,333.08,Online,Debit Card,Consumer,Jan,1,Q1,0.30271193834520865
+306,2025-01-02,CUST1022,Customer 1007,West,Ahmedabad,Water Bottle,Lifestyle,2,1338.35,0.1,2409.03,2094.54,314.49,Store,Debit Card,Corporate,Jan,1,Q1,0.1305463194729829
+371,2025-01-02,CUST1246,Customer 1210,East,Kolkata,Office Chair,Furniture,2,5083.66,0.0,10167.32,8160.77,2006.55,Online,UPI,Corporate,Jan,1,Q1,0.19735289142074805
+554,2025-01-04,CUST1138,Customer 1231,East,Kolkata,Notebook,Stationery,1,234.74,0.15,199.53,178.79,20.74,Store,UPI,Corporate,Jan,1,Q1,0.10394426903222573
+36,2025-01-04,CUST1016,Customer 1280,West,Ahmedabad,Backpack,Lifestyle,1,2527.24,0.0,2527.24,1921.3,605.94,Store,Credit Card,Consumer,Jan,1,Q1,0.23976353650622817
+108,2025-01-04,CUST1210,Customer 1161,South,Hyderabad,Keyboard,Accessories,1,2231.72,0.1,2008.55,1715.82,292.73,Store,Net Banking,Corporate,Jan,1,Q1,0.14574195315028254
+555,2025-01-04,CUST1152,Customer 1259,East,Kolkata,Backpack,Lifestyle,2,919.22,0.05,1746.52,1206.43,540.09,Store,UPI,Consumer,Jan,1,Q1,0.3092377985937751
+944,2025-01-04,CUST1044,Customer 1056,Central,Bhopal,Keyboard,Accessories,1,2748.08,0.02,2693.12,2304.65,388.47,Store,Cash,Corporate,Jan,1,Q1,0.14424533626425856
+396,2025-01-04,CUST1093,Customer 1006,Central,Indore,Keyboard,Accessories,1,821.76,0.15,698.5,601.64,96.86,Store,Credit Card,Corporate,Jan,1,Q1,0.13866857551896922
+253,2025-01-05,CUST1184,Customer 1020,Central,Indore,Notebook,Stationery,3,92.15,0.05,262.63,210.88,51.75,Online,Credit Card,Corporate,Jan,1,Q1,0.19704527281727144
+559,2025-01-05,CUST1218,Customer 1011,South,Bengaluru,Printer,Electronics,2,18028.77,0.05,34254.66,26803.48,7451.18,Store,Net Banking,Corporate,Jan,1,Q1,0.21752310488558343
+791,2025-01-05,CUST1250,Customer 1163,East,Kolkata,Office Chair,Furniture,2,11550.55,0.0,23101.1,16115.85,6985.25,Online,Credit Card,Home Office,Jan,1,Q1,0.30237737596910974
+114,2025-01-05,CUST1261,Customer 1054,South,Bengaluru,Backpack,Lifestyle,1,995.5,0.05,945.72,831.06,114.66,Online,UPI,Consumer,Jan,1,Q1,0.12124095926912827
+76,2025-01-05,CUST1078,Customer 1062,East,Kolkata,Keyboard,Accessories,3,1344.39,0.05,3831.51,2672.82,1158.69,Store,UPI,Consumer,Jan,1,Q1,0.3024107988756391
+893,2025-01-06,CUST1144,Customer 1261,Central,Indore,Office Chair,Furniture,3,11375.8,0.1,30714.66,25908.35,4806.31,Online,Cash,Home Office,Jan,1,Q1,0.15648260472360756
+449,2025-01-06,CUST1280,Customer 1094,North,Delhi,Monitor,Electronics,1,12718.73,0.05,12082.79,11086.01,996.78,Online,Net Banking,Consumer,Jan,1,Q1,0.08249584739948305
+954,2025-01-07,CUST1200,Customer 1067,East,Kolkata,Office Chair,Furniture,4,14295.99,0.02,56040.28,36153.42,19886.86,Online,Credit Card,Corporate,Jan,1,Q1,0.35486724905728523
+468,2025-01-07,CUST1030,Customer 1144,North,Lucknow,Headphones,Electronics,1,6953.64,0.05,6605.96,6040.18,565.78,Online,Debit Card,Corporate,Jan,1,Q1,0.08564690067756994
+315,2025-01-07,CUST1137,Customer 1164,West,Pune,Printer,Electronics,1,6807.82,0.0,6807.82,4903.4,1904.42,Online,UPI,Corporate,Jan,1,Q1,0.27974006363270476
+696,2025-01-08,CUST1046,Customer 1114,South,Chennai,Notebook,Stationery,1,387.9,0.15,329.71,279.59,50.12,Online,Debit Card,Home Office,Jan,1,Q1,0.15201237451093386
+237,2025-01-08,CUST1153,Customer 1174,Central,Nagpur,Laptop,Electronics,4,71475.81,0.1,257312.92,238303.65,19009.27,Online,Net Banking,Home Office,Jan,1,Q1,0.07387608053260598
+129,2025-01-08,CUST1079,Customer 1027,West,Ahmedabad,Desk,Furniture,1,5910.95,0.0,5910.95,3804.89,2106.06,Store,Credit Card,Home Office,Jan,1,Q1,0.3562980569959144
+51,2025-01-08,CUST1122,Customer 1164,East,Patna,Printer,Electronics,1,20644.07,0.1,18579.66,13372.33,5207.33,Store,Credit Card,Corporate,Jan,1,Q1,0.280270467812651
+993,2025-01-08,CUST1183,Customer 1134,East,Patna,Printer,Electronics,1,21533.67,0.02,21103.0,15340.7,5762.3,Online,Cash,Home Office,Jan,1,Q1,0.2730559636070701
+463,2025-01-08,CUST1067,Customer 1191,South,Bengaluru,Monitor,Electronics,1,29935.94,0.15,25445.55,20795.82,4649.73,Store,UPI,Corporate,Jan,1,Q1,0.18273254066035122
+976,2025-01-09,CUST1196,Customer 1295,Central,Indore,Backpack,Lifestyle,1,1067.45,0.05,1014.08,772.42,241.66,Store,Net Banking,Corporate,Jan,1,Q1,0.23830467024297886
+300,2025-01-10,CUST1214,Customer 1273,South,Chennai,Water Bottle,Lifestyle,3,622.82,0.0,1868.46,1289.05,579.41,Store,Cash,Home Office,Jan,1,Q1,0.3101002965008616
+736,2025-01-10,CUST1187,Customer 1031,West,Mumbai,Desk,Furniture,1,9080.3,0.15,7718.25,7435.02,283.23,Store,Cash,Consumer,Jan,1,Q1,0.03669614226022738
+690,2025-01-10,CUST1106,Customer 1167,West,Ahmedabad,Desk,Furniture,2,5883.01,0.15,10001.12,8251.57,1749.55,Store,UPI,Home Office,Jan,1,Q1,0.17493540723438972
+469,2025-01-10,CUST1034,Customer 1036,West,Ahmedabad,Backpack,Lifestyle,2,2319.4,0.15,3942.98,3926.94,16.04,Online,Credit Card,Home Office,Jan,1,Q1,0.004067989185844209
+73,2025-01-10,CUST1261,Customer 1138,East,Patna,Monitor,Electronics,1,15733.49,0.0,15733.49,11265.18,4468.31,Store,Credit Card,Consumer,Jan,1,Q1,0.2839999262719206
+362,2025-01-11,CUST1096,Customer 1190,West,Ahmedabad,Smartphone,Electronics,4,30677.87,0.02,120257.25,102540.38,17716.87,Online,Credit Card,Corporate,Jan,1,Q1,0.14732475588789865
+447,2025-01-12,CUST1188,Customer 1154,West,Mumbai,Backpack,Lifestyle,3,3359.52,0.0,10078.56,6450.97,3627.59,Store,UPI,Consumer,Jan,1,Q1,0.35993137908590117
+914,2025-01-12,CUST1078,Customer 1172,East,Kolkata,Printer,Electronics,1,18378.36,0.05,17459.44,14318.49,3140.95,Store,Credit Card,Consumer,Jan,1,Q1,0.17989981351062806
+495,2025-01-13,CUST1271,Customer 1089,East,Kolkata,Water Bottle,Lifestyle,1,1261.13,0.1,1135.02,951.52,183.5,Online,Cash,Corporate,Jan,1,Q1,0.16167115997955983
+41,2025-01-13,CUST1279,Customer 1217,North,Lucknow,Desk,Furniture,2,14405.4,0.1,25929.72,21076.21,4853.51,Online,UPI,Corporate,Jan,1,Q1,0.187179421914313
+558,2025-01-13,CUST1297,Customer 1181,East,Patna,Notebook,Stationery,2,222.82,0.1,401.08,374.99,26.09,Online,Cash,Consumer,Jan,1,Q1,0.06504936670988332
+477,2025-01-14,CUST1209,Customer 1089,South,Chennai,Mouse,Accessories,4,1286.41,0.15,4373.79,3746.66,627.13,Store,Net Banking,Consumer,Jan,1,Q1,0.14338365582252463
+902,2025-01-14,CUST1085,Customer 1003,North,Jaipur,Office Chair,Furniture,1,8103.96,0.1,7293.56,5051.33,2242.23,Store,Net Banking,Consumer,Jan,1,Q1,0.3074260032137941
+446,2025-01-15,CUST1102,Customer 1226,Central,Indore,Printer,Electronics,2,14925.98,0.15,25374.17,18886.16,6488.01,Online,UPI,Consumer,Jan,1,Q1,0.2556934867229155
+652,2025-01-16,CUST1145,Customer 1208,West,Pune,Laptop,Electronics,3,65975.6,0.15,168237.78,152719.84,15517.94,Online,Net Banking,Consumer,Jan,1,Q1,0.09223814056509781
+579,2025-01-16,CUST1059,Customer 1243,South,Bengaluru,Laptop,Electronics,1,55292.94,0.05,52528.29,48314.0,4214.29,Store,UPI,Corporate,Jan,1,Q1,0.08022895852882322
+271,2025-01-16,CUST1137,Customer 1166,West,Ahmedabad,Printer,Electronics,2,8976.37,0.15,15259.83,13071.52,2188.31,Online,UPI,Consumer,Jan,1,Q1,0.14340330134739376
+488,2025-01-16,CUST1061,Customer 1054,Central,Bhopal,Keyboard,Accessories,1,1264.07,0.05,1200.87,1026.23,174.64,Store,Credit Card,Consumer,Jan,1,Q1,0.1454278981072056
+962,2025-01-16,CUST1022,Customer 1072,North,Jaipur,Headphones,Electronics,2,6106.72,0.15,10381.42,10224.84,156.58,Store,UPI,Home Office,Jan,1,Q1,0.01508271508136652
+235,2025-01-17,CUST1277,Customer 1059,South,Hyderabad,Mouse,Accessories,1,2083.98,0.15,1771.38,1446.25,325.13,Online,UPI,Home Office,Jan,1,Q1,0.18354616174959634
+833,2025-01-17,CUST1253,Customer 1122,East,Kolkata,Keyboard,Accessories,2,1719.19,0.0,3438.38,2599.83,838.55,Store,Credit Card,Home Office,Jan,1,Q1,0.243879385059243
+608,2025-01-17,CUST1127,Customer 1168,East,Bhubaneswar,Water Bottle,Lifestyle,2,787.76,0.1,1417.97,1009.87,408.1,Store,Cash,Home Office,Jan,1,Q1,0.2878058068929526
+848,2025-01-17,CUST1057,Customer 1218,Central,Nagpur,Backpack,Lifestyle,4,2943.1,0.1,10595.16,10179.02,416.14,Online,Cash,Consumer,Jan,1,Q1,0.03927642432959955
+992,2025-01-17,CUST1272,Customer 1009,South,Hyderabad,Monitor,Electronics,1,29690.67,0.02,29096.86,19023.12,10073.74,Online,Net Banking,Consumer,Jan,1,Q1,0.34621399010065
+122,2025-01-17,CUST1223,Customer 1188,Central,Nagpur,Notebook,Stationery,2,82.04,0.05,155.88,143.59,12.29,Store,Net Banking,Home Office,Jan,1,Q1,0.07884269951244546
+509,2025-01-17,CUST1154,Customer 1149,Central,Indore,Keyboard,Accessories,4,2245.44,0.05,8532.67,6027.54,2505.13,Online,Debit Card,Corporate,Jan,1,Q1,0.293592744123469
+796,2025-01-18,CUST1226,Customer 1167,West,Pune,Laptop,Electronics,1,68065.79,0.05,64662.5,53368.27,11294.23,Online,Credit Card,Corporate,Jan,1,Q1,0.17466429537985695
+47,2025-01-19,CUST1039,Customer 1126,West,Ahmedabad,Headphones,Electronics,3,6484.6,0.05,18481.11,13319.4,5161.71,Online,Net Banking,Consumer,Jan,1,Q1,0.2792965357600274
+391,2025-01-19,CUST1063,Customer 1239,South,Bengaluru,Printer,Electronics,2,17436.05,0.1,31384.89,22675.69,8709.2,Store,Debit Card,Consumer,Jan,1,Q1,0.2774965915126674
+703,2025-01-19,CUST1200,Customer 1220,South,Chennai,Backpack,Lifestyle,3,1732.15,0.0,5196.45,3532.16,1664.29,Store,Debit Card,Home Office,Jan,1,Q1,0.3202744181123652
+916,2025-01-20,CUST1069,Customer 1215,Central,Bhopal,Notebook,Stationery,1,311.97,0.02,305.73,238.78,66.95,Online,UPI,Consumer,Jan,1,Q1,0.2189840709122428
+424,2025-01-20,CUST1046,Customer 1193,East,Patna,Mouse,Accessories,2,1254.98,0.02,2459.76,1599.12,860.64,Online,Credit Card,Consumer,Jan,1,Q1,0.3498877939311152
+456,2025-01-21,CUST1090,Customer 1296,South,Hyderabad,Mouse,Accessories,2,1061.95,0.15,1805.32,1544.55,260.77,Store,Net Banking,Consumer,Jan,1,Q1,0.14444530609531828
+156,2025-01-21,CUST1107,Customer 1117,West,Ahmedabad,Water Bottle,Lifestyle,3,1217.86,0.02,3580.51,2944.89,635.62,Store,UPI,Home Office,Jan,1,Q1,0.1775221965585908
+207,2025-01-21,CUST1082,Customer 1069,Central,Bhopal,Backpack,Lifestyle,3,1988.86,0.0,5966.58,4466.37,1500.21,Online,Credit Card,Consumer,Jan,1,Q1,0.2514354957111109
+23,2025-01-22,CUST1238,Customer 1158,Central,Indore,Headphones,Electronics,1,5671.77,0.1,5104.59,4266.83,837.76,Store,Net Banking,Home Office,Jan,1,Q1,0.16411895960302395
+299,2025-01-22,CUST1213,Customer 1149,East,Patna,Printer,Electronics,1,11935.06,0.1,10741.55,10455.87,285.68,Store,UPI,Home Office,Jan,1,Q1,0.026595789248292846
+124,2025-01-22,CUST1120,Customer 1210,West,Ahmedabad,Laptop,Electronics,1,70419.69,0.02,69011.3,52330.93,16680.37,Store,Net Banking,Home Office,Jan,1,Q1,0.2417049091960302
+672,2025-01-23,CUST1155,Customer 1186,South,Chennai,Water Bottle,Lifestyle,2,1282.31,0.1,2308.16,1795.67,512.49,Online,Net Banking,Consumer,Jan,1,Q1,0.22203400110910856
+692,2025-01-23,CUST1109,Customer 1107,West,Mumbai,Laptop,Electronics,4,68767.15,0.0,275068.6,188755.38,86313.22,Online,UPI,Corporate,Jan,1,Q1,0.3137879787078569
+794,2025-01-24,CUST1234,Customer 1175,East,Bhubaneswar,Mouse,Accessories,2,779.69,0.0,1559.38,982.15,577.23,Store,Net Banking,Consumer,Jan,1,Q1,0.3701663481640139
+485,2025-01-24,CUST1083,Customer 1185,East,Patna,Mouse,Accessories,1,1073.46,0.0,1073.46,931.08,142.38,Online,Cash,Home Office,Jan,1,Q1,0.13263652115588842
+43,2025-01-25,CUST1053,Customer 1151,West,Pune,Monitor,Electronics,4,21042.2,0.15,71543.48,54191.5,17351.98,Store,UPI,Home Office,Jan,1,Q1,0.24253754500060662
+797,2025-01-25,CUST1160,Customer 1084,Central,Indore,Notebook,Stationery,2,382.11,0.1,687.8,585.22,102.58,Store,Cash,Corporate,Jan,1,Q1,0.14914219249781915
+868,2025-01-25,CUST1143,Customer 1245,South,Chennai,Desk,Furniture,2,9329.36,0.15,15859.91,14867.49,992.42,Online,UPI,Home Office,Jan,1,Q1,0.06257412557826621
+174,2025-01-25,CUST1141,Customer 1117,North,Lucknow,Laptop,Electronics,3,67125.06,0.15,171168.9,141477.78,29691.12,Store,Net Banking,Corporate,Jan,1,Q1,0.17346094997397307
+773,2025-01-25,CUST1183,Customer 1168,South,Bengaluru,Smartphone,Electronics,3,50816.86,0.15,129582.99,109355.78,20227.21,Online,Credit Card,Corporate,Jan,1,Q1,0.1560946386558915
+280,2025-01-25,CUST1267,Customer 1181,North,Delhi,Water Bottle,Lifestyle,4,1170.75,0.02,4589.34,3994.5,594.84,Store,Cash,Home Office,Jan,1,Q1,0.12961340846396213
+67,2025-01-25,CUST1145,Customer 1013,Central,Bhopal,Office Chair,Furniture,4,9187.03,0.02,36013.16,27898.7,8114.46,Store,UPI,Corporate,Jan,1,Q1,0.22531929994479793
+457,2025-01-25,CUST1058,Customer 1297,North,Lucknow,Monitor,Electronics,2,14487.99,0.1,26078.38,22480.08,3598.3,Store,Debit Card,Consumer,Jan,1,Q1,0.13798019662264296
+524,2025-01-26,CUST1151,Customer 1221,West,Ahmedabad,Monitor,Electronics,1,24885.47,0.1,22396.92,16889.9,5507.02,Online,Net Banking,Consumer,Jan,1,Q1,0.2458829160438132
+686,2025-01-28,CUST1035,Customer 1125,South,Bengaluru,Water Bottle,Lifestyle,1,830.29,0.02,813.68,539.23,274.45,Store,UPI,Corporate,Jan,1,Q1,0.33729475961065775
+272,2025-01-28,CUST1149,Customer 1028,Central,Nagpur,Smartphone,Electronics,4,32605.17,0.1,117378.61,105906.2,11472.41,Store,UPI,Consumer,Jan,1,Q1,0.09773850618950079
+877,2025-01-29,CUST1271,Customer 1174,South,Chennai,Headphones,Electronics,3,2784.76,0.1,7518.85,6828.35,690.5,Online,Net Banking,Consumer,Jan,1,Q1,0.09183585255723947
+841,2025-01-29,CUST1202,Customer 1093,West,Mumbai,Printer,Electronics,3,17136.5,0.02,50381.31,33316.97,17064.34,Online,Cash,Corporate,Jan,1,Q1,0.33870377725390627
+336,2025-01-30,CUST1057,Customer 1232,East,Bhubaneswar,Printer,Electronics,1,20120.96,0.05,19114.91,12871.01,6243.9,Store,Debit Card,Corporate,Jan,1,Q1,0.3266507663389469
+941,2025-01-30,CUST1115,Customer 1090,North,Lucknow,Desk,Furniture,4,8822.08,0.1,31759.49,23863.31,7896.18,Store,Debit Card,Home Office,Jan,1,Q1,0.2486242694703221
+193,2025-01-30,CUST1295,Customer 1108,Central,Nagpur,Desk,Furniture,3,11343.29,0.05,32328.38,22439.57,9888.81,Online,UPI,Consumer,Jan,1,Q1,0.3058863450627591
+263,2025-01-31,CUST1183,Customer 1023,Central,Nagpur,Keyboard,Accessories,1,1379.5,0.0,1379.5,1127.74,251.76,Store,Credit Card,Corporate,Jan,1,Q1,0.18250090612540776
+887,2025-02-02,CUST1044,Customer 1165,South,Chennai,Backpack,Lifestyle,1,3065.62,0.02,3004.31,2575.45,428.86,Store,UPI,Consumer,Feb,2,Q1,0.142748251678422
+878,2025-02-03,CUST1096,Customer 1089,West,Ahmedabad,Notebook,Stationery,1,240.82,0.02,236.0,150.59,85.41,Store,Credit Card,Home Office,Feb,2,Q1,0.3619067796610169
+691,2025-02-03,CUST1110,Customer 1033,Central,Nagpur,Monitor,Electronics,2,14762.65,0.02,28934.79,24280.67,4654.12,Store,Net Banking,Corporate,Feb,2,Q1,0.1608485840056209
+5,2025-02-04,CUST1206,Customer 1081,Central,Bhopal,Monitor,Electronics,2,14061.53,0.1,25310.75,21057.03,4253.72,Store,Credit Card,Corporate,Feb,2,Q1,0.16805981648113943
+75,2025-02-04,CUST1001,Customer 1296,West,Pune,Keyboard,Accessories,1,2773.34,0.02,2717.87,1850.15,867.72,Store,Cash,Consumer,Feb,2,Q1,0.3192647183272195
+204,2025-02-05,CUST1213,Customer 1106,North,Jaipur,Notebook,Stationery,1,122.03,0.1,109.83,96.5,13.33,Store,Cash,Home Office,Feb,2,Q1,0.12136938905581353
+786,2025-02-07,CUST1048,Customer 1183,West,Ahmedabad,Laptop,Electronics,3,55106.98,0.15,140522.8,142402.05,-1879.25,Online,UPI,Home Office,Feb,2,Q1,-0.013373274657208653
+809,2025-02-07,CUST1131,Customer 1255,East,Kolkata,Smartphone,Electronics,4,53157.81,0.02,208378.62,165168.46,43210.16,Store,Credit Card,Home Office,Feb,2,Q1,0.2073636921100639
+79,2025-02-07,CUST1097,Customer 1289,West,Ahmedabad,Laptop,Electronics,4,65669.22,0.05,249543.04,216717.69,32825.35,Store,Cash,Corporate,Feb,2,Q1,0.13154183743213194
+734,2025-02-07,CUST1169,Customer 1283,West,Pune,Office Chair,Furniture,1,10932.12,0.15,9292.3,8224.99,1067.31,Online,Net Banking,Consumer,Feb,2,Q1,0.11485961495001237
+741,2025-02-07,CUST1025,Customer 1059,South,Bengaluru,Keyboard,Accessories,1,1055.3,0.0,1055.3,820.56,234.74,Store,UPI,Consumer,Feb,2,Q1,0.22243911683881362
+74,2025-02-07,CUST1094,Customer 1095,South,Bengaluru,Keyboard,Accessories,1,807.32,0.05,766.95,599.86,167.09,Online,Net Banking,Corporate,Feb,2,Q1,0.21786296368733293
+148,2025-02-08,CUST1223,Customer 1184,South,Hyderabad,Water Bottle,Lifestyle,1,320.86,0.02,314.44,280.11,34.33,Online,Debit Card,Corporate,Feb,2,Q1,0.1091782216003053
+437,2025-02-08,CUST1039,Customer 1132,West,Mumbai,Headphones,Electronics,1,2229.83,0.1,2006.85,1738.7,268.15,Store,Debit Card,Corporate,Feb,2,Q1,0.13361736054014997
+70,2025-02-09,CUST1229,Customer 1036,East,Bhubaneswar,Desk,Furniture,4,14761.19,0.05,56092.52,44659.86,11432.66,Store,Credit Card,Home Office,Feb,2,Q1,0.20381790655866416
+975,2025-02-09,CUST1109,Customer 1074,South,Chennai,Notebook,Stationery,3,137.81,0.1,372.09,294.55,77.54,Store,Credit Card,Consumer,Feb,2,Q1,0.2083904431723508
+294,2025-02-10,CUST1147,Customer 1112,West,Ahmedabad,Backpack,Lifestyle,1,3211.11,0.1,2890.0,2161.59,728.41,Online,Cash,Corporate,Feb,2,Q1,0.2520449826989619
+496,2025-02-10,CUST1120,Customer 1097,South,Bengaluru,Water Bottle,Lifestyle,2,366.89,0.05,697.09,471.56,225.53,Online,Net Banking,Consumer,Feb,2,Q1,0.32353067753087833
+7,2025-02-10,CUST1157,Customer 1015,Central,Nagpur,Smartphone,Electronics,1,37968.61,0.0,37968.61,26313.88,11654.73,Online,UPI,Consumer,Feb,2,Q1,0.3069569836767793
+779,2025-02-10,CUST1254,Customer 1007,East,Kolkata,Laptop,Electronics,2,58797.05,0.15,99954.99,94961.32,4993.67,Online,Net Banking,Consumer,Feb,2,Q1,0.04995918662990212
+498,2025-02-11,CUST1212,Customer 1101,Central,Bhopal,Office Chair,Furniture,1,8670.78,0.15,7370.16,7352.12,18.04,Online,Credit Card,Consumer,Feb,2,Q1,0.002447708055184691
+182,2025-02-11,CUST1021,Customer 1042,West,Pune,Desk,Furniture,2,13728.23,0.1,24710.81,23159.17,1551.64,Online,UPI,Consumer,Feb,2,Q1,0.06279195218610803
+884,2025-02-12,CUST1028,Customer 1260,West,Mumbai,Notebook,Stationery,4,207.63,0.1,747.47,730.62,16.85,Store,Net Banking,Home Office,Feb,2,Q1,0.022542710744243917
+695,2025-02-12,CUST1074,Customer 1278,South,Bengaluru,Headphones,Electronics,4,6026.54,0.1,21695.54,18207.0,3488.54,Store,Credit Card,Corporate,Feb,2,Q1,0.16079526022399074
+304,2025-02-12,CUST1078,Customer 1289,South,Hyderabad,Monitor,Electronics,2,25510.32,0.02,50000.23,31845.86,18154.37,Store,Credit Card,Consumer,Feb,2,Q1,0.36308572980564285
+394,2025-02-14,CUST1264,Customer 1071,West,Mumbai,Smartphone,Electronics,3,38610.5,0.05,110039.92,79716.3,30323.62,Store,Cash,Home Office,Feb,2,Q1,0.27556926613541705
+12,2025-02-14,CUST1062,Customer 1134,West,Mumbai,Office Chair,Furniture,3,8766.77,0.1,23670.28,22663.54,1006.74,Store,Cash,Corporate,Feb,2,Q1,0.04253181626917806
+595,2025-02-15,CUST1044,Customer 1278,East,Patna,Smartphone,Electronics,2,33443.17,0.1,60197.71,43096.57,17101.14,Online,Debit Card,Corporate,Feb,2,Q1,0.2840828994990009
+130,2025-02-15,CUST1015,Customer 1153,East,Kolkata,Notebook,Stationery,2,90.41,0.02,177.2,141.1,36.1,Store,UPI,Corporate,Feb,2,Q1,0.20372460496613998
+901,2025-02-15,CUST1119,Customer 1019,Central,Nagpur,Mouse,Accessories,1,1344.3,0.0,1344.3,1155.12,189.18,Online,Cash,Corporate,Feb,2,Q1,0.14072751617942425
+224,2025-02-15,CUST1038,Customer 1142,South,Hyderabad,Laptop,Electronics,1,72484.53,0.05,68860.3,47032.11,21828.19,Store,Net Banking,Corporate,Feb,2,Q1,0.3169923744160278
+499,2025-02-16,CUST1107,Customer 1108,North,Jaipur,Laptop,Electronics,2,57298.13,0.02,112304.33,86007.03,26297.3,Online,Net Banking,Home Office,Feb,2,Q1,0.23416105149284983
+72,2025-02-16,CUST1001,Customer 1090,South,Chennai,Monitor,Electronics,1,17934.17,0.1,16140.75,12249.51,3891.24,Store,Net Banking,Corporate,Feb,2,Q1,0.24108173412016168
+906,2025-02-17,CUST1078,Customer 1030,West,Mumbai,Smartphone,Electronics,1,51765.62,0.1,46589.06,42262.16,4326.9,Online,Cash,Consumer,Feb,2,Q1,0.09287373473515026
+823,2025-02-17,CUST1097,Customer 1095,East,Kolkata,Notebook,Stationery,2,148.42,0.0,296.84,236.76,60.08,Store,Credit Card,Corporate,Feb,2,Q1,0.2023985985716211
+694,2025-02-17,CUST1130,Customer 1293,East,Bhubaneswar,Keyboard,Accessories,4,1069.36,0.0,4277.44,3393.28,884.16,Online,Cash,Corporate,Feb,2,Q1,0.20670307473629088
+683,2025-02-17,CUST1126,Customer 1239,North,Jaipur,Smartphone,Electronics,1,48478.55,0.0,48478.55,31997.32,16481.23,Online,Net Banking,Consumer,Feb,2,Q1,0.3399695329171355
+187,2025-02-18,CUST1292,Customer 1078,West,Mumbai,Desk,Furniture,1,13230.68,0.0,13230.68,9516.89,3713.79,Online,UPI,Consumer,Feb,2,Q1,0.2806953232940408
+538,2025-02-18,CUST1265,Customer 1145,Central,Nagpur,Notebook,Stationery,3,387.65,0.15,988.51,952.6,35.91,Online,Credit Card,Consumer,Feb,2,Q1,0.036327401847224605
+337,2025-02-18,CUST1173,Customer 1082,West,Ahmedabad,Printer,Electronics,4,17889.3,0.1,64401.48,54516.01,9885.47,Store,Net Banking,Consumer,Feb,2,Q1,0.1534975593728591
+308,2025-02-19,CUST1019,Customer 1214,North,Delhi,Printer,Electronics,2,20047.75,0.05,38090.72,28568.94,9521.78,Online,Debit Card,Corporate,Feb,2,Q1,0.24997637219774266
+301,2025-02-20,CUST1292,Customer 1081,North,Lucknow,Keyboard,Accessories,1,2312.25,0.0,2312.25,1859.53,452.72,Online,Credit Card,Home Office,Feb,2,Q1,0.1957919775110823
+673,2025-02-20,CUST1216,Customer 1176,North,Jaipur,Smartphone,Electronics,1,44954.28,0.15,38211.14,32812.25,5398.89,Store,Net Banking,Corporate,Feb,2,Q1,0.1412909952437954
+568,2025-02-20,CUST1210,Customer 1126,West,Ahmedabad,Laptop,Electronics,3,73236.37,0.1,197738.2,138501.65,59236.55,Store,Net Banking,Corporate,Feb,2,Q1,0.29957059384580215
+157,2025-02-21,CUST1027,Customer 1157,East,Patna,Monitor,Electronics,3,28623.16,0.05,81576.01,55503.41,26072.6,Online,Cash,Home Office,Feb,2,Q1,0.3196111209655878
+869,2025-02-22,CUST1084,Customer 1034,North,Delhi,Printer,Electronics,2,8434.79,0.15,14339.14,11710.76,2628.38,Store,UPI,Consumer,Feb,2,Q1,0.18330109058144353
+264,2025-02-22,CUST1022,Customer 1030,West,Pune,Monitor,Electronics,1,22378.91,0.02,21931.33,18029.07,3902.26,Online,Cash,Consumer,Feb,2,Q1,0.17793084140359933
+723,2025-02-23,CUST1276,Customer 1031,North,Jaipur,Desk,Furniture,3,7858.5,0.1,21217.95,20722.92,495.03,Online,Credit Card,Consumer,Feb,2,Q1,0.023330717623521593
+195,2025-02-23,CUST1012,Customer 1209,South,Bengaluru,Printer,Electronics,3,14867.62,0.02,43710.8,36478.79,7232.01,Store,UPI,Corporate,Feb,2,Q1,0.16545133010606075
+432,2025-02-23,CUST1029,Customer 1164,North,Lucknow,Office Chair,Furniture,1,9133.77,0.0,9133.77,6560.22,2573.55,Store,Debit Card,Corporate,Feb,2,Q1,0.281762076338686
+777,2025-02-23,CUST1138,Customer 1272,North,Jaipur,Headphones,Electronics,1,6897.54,0.02,6759.59,5394.3,1365.29,Online,Credit Card,Home Office,Feb,2,Q1,0.20197822649006816
+85,2025-02-24,CUST1149,Customer 1137,Central,Nagpur,Backpack,Lifestyle,3,3081.14,0.0,9243.42,6529.16,2714.26,Store,Cash,Consumer,Feb,2,Q1,0.2936423964290274
+288,2025-02-24,CUST1091,Customer 1278,West,Pune,Water Bottle,Lifestyle,1,355.27,0.1,319.74,236.7,83.04,Online,Debit Card,Consumer,Feb,2,Q1,0.2597110151998499
+542,2025-02-24,CUST1172,Customer 1109,East,Kolkata,Desk,Furniture,4,5854.25,0.15,19904.45,17626.44,2278.01,Store,Net Banking,Home Office,Feb,2,Q1,0.11444727184122144
+681,2025-02-25,CUST1253,Customer 1122,East,Bhubaneswar,Notebook,Stationery,3,296.65,0.02,872.15,723.2,148.95,Store,Credit Card,Consumer,Feb,2,Q1,0.1707848420569856
+998,2025-02-26,CUST1142,Customer 1210,South,Hyderabad,Office Chair,Furniture,2,8334.34,0.1,15001.81,10402.78,4599.03,Store,Debit Card,Corporate,Feb,2,Q1,0.30656500782238943
+487,2025-02-26,CUST1291,Customer 1114,South,Bengaluru,Mouse,Accessories,1,1044.68,0.05,992.45,820.15,172.3,Online,UPI,Consumer,Feb,2,Q1,0.173610761247418
+359,2025-02-27,CUST1290,Customer 1251,South,Chennai,Headphones,Electronics,1,4952.76,0.02,4853.7,3606.68,1247.02,Store,Credit Card,Corporate,Feb,2,Q1,0.2569215237859777
+166,2025-02-27,CUST1259,Customer 1130,West,Ahmedabad,Keyboard,Accessories,1,1532.1,0.05,1455.49,1162.2,293.29,Online,Cash,Corporate,Feb,2,Q1,0.20150602202694626
+837,2025-02-28,CUST1251,Customer 1086,South,Hyderabad,Headphones,Electronics,1,3524.69,0.05,3348.46,2718.34,630.12,Online,Cash,Home Office,Feb,2,Q1,0.18818202994809555
+753,2025-02-28,CUST1164,Customer 1259,South,Bengaluru,Notebook,Stationery,3,263.17,0.15,671.08,609.6,61.48,Store,UPI,Consumer,Feb,2,Q1,0.09161351850748047
+827,2025-03-02,CUST1100,Customer 1204,East,Patna,Printer,Electronics,4,6461.38,0.15,21968.69,17786.87,4181.82,Store,Net Banking,Corporate,Mar,3,Q1,0.19035363510523384
+64,2025-03-02,CUST1026,Customer 1292,East,Kolkata,Backpack,Lifestyle,1,2978.47,0.05,2829.55,2559.78,269.77,Online,UPI,Home Office,Mar,3,Q1,0.09534024844940008
+62,2025-03-02,CUST1122,Customer 1051,West,Mumbai,Headphones,Electronics,1,7145.36,0.15,6073.56,6237.96,-164.4,Online,Net Banking,Consumer,Mar,3,Q1,-0.02706814454784344
+115,2025-03-03,CUST1145,Customer 1216,East,Bhubaneswar,Laptop,Electronics,1,58477.9,0.05,55554.0,47784.75,7769.25,Online,Debit Card,Corporate,Mar,3,Q1,0.13985041581164273
+241,2025-03-03,CUST1049,Customer 1127,West,Ahmedabad,Water Bottle,Lifestyle,2,883.2,0.02,1731.07,1513.16,217.91,Online,UPI,Home Office,Mar,3,Q1,0.1258816801169219
+587,2025-03-03,CUST1185,Customer 1029,Central,Bhopal,Printer,Electronics,2,15985.81,0.1,28774.46,27101.64,1672.82,Online,Credit Card,Corporate,Mar,3,Q1,0.0581355827355231
+9,2025-03-03,CUST1216,Customer 1293,West,Ahmedabad,Printer,Electronics,1,15972.77,0.0,15972.77,10167.07,5805.7,Online,Cash,Corporate,Mar,3,Q1,0.36347483874118264
+978,2025-03-03,CUST1282,Customer 1121,West,Ahmedabad,Water Bottle,Lifestyle,1,1466.31,0.0,1466.31,1178.41,287.9,Store,Cash,Consumer,Mar,3,Q1,0.19634320164221752
+846,2025-03-04,CUST1280,Customer 1072,East,Bhubaneswar,Notebook,Stationery,4,175.58,0.0,702.32,571.8,130.52,Online,Net Banking,Corporate,Mar,3,Q1,0.1858412119831416
+566,2025-03-05,CUST1029,Customer 1011,East,Kolkata,Mouse,Accessories,1,1586.48,0.1,1427.83,1175.01,252.82,Online,Credit Card,Home Office,Mar,3,Q1,0.17706589720064714
+145,2025-03-05,CUST1284,Customer 1121,North,Delhi,Keyboard,Accessories,1,1471.53,0.1,1324.38,1182.76,141.62,Online,Net Banking,Home Office,Mar,3,Q1,0.10693305546746401
+454,2025-03-06,CUST1134,Customer 1151,West,Ahmedabad,Office Chair,Furniture,1,12433.26,0.15,10568.27,10913.9,-345.63,Online,Debit Card,Home Office,Mar,3,Q1,-0.03270450130437621
+875,2025-03-06,CUST1282,Customer 1181,West,Ahmedabad,Water Bottle,Lifestyle,1,310.4,0.15,263.84,197.8,66.04,Online,Credit Card,Home Office,Mar,3,Q1,0.25030321406913286
+644,2025-03-06,CUST1276,Customer 1239,Central,Nagpur,Backpack,Lifestyle,1,2584.07,0.05,2454.87,1944.44,510.43,Store,Credit Card,Consumer,Mar,3,Q1,0.2079254705951843
+230,2025-03-06,CUST1008,Customer 1076,North,Delhi,Printer,Electronics,1,16707.2,0.02,16373.06,14176.64,2196.42,Store,UPI,Home Office,Mar,3,Q1,0.13414841208668388
+952,2025-03-07,CUST1053,Customer 1106,East,Patna,Headphones,Electronics,2,4917.42,0.1,8851.36,6275.05,2576.31,Store,Cash,Home Office,Mar,3,Q1,0.29106374613618696
+560,2025-03-07,CUST1070,Customer 1297,South,Chennai,Headphones,Electronics,1,1547.93,0.15,1315.74,1157.73,158.01,Online,Cash,Consumer,Mar,3,Q1,0.12009211546354143
+669,2025-03-07,CUST1079,Customer 1086,West,Mumbai,Notebook,Stationery,1,376.19,0.0,376.19,298.0,78.19,Store,Credit Card,Corporate,Mar,3,Q1,0.20784709854063105
+891,2025-03-08,CUST1102,Customer 1120,West,Mumbai,Mouse,Accessories,2,1821.4,0.05,3460.66,2600.7,859.96,Online,UPI,Corporate,Mar,3,Q1,0.2484959516392827
+883,2025-03-08,CUST1135,Customer 1055,South,Chennai,Headphones,Electronics,1,7640.76,0.1,6876.68,5821.76,1054.92,Store,Credit Card,Home Office,Mar,3,Q1,0.15340542238405744
+164,2025-03-09,CUST1218,Customer 1102,South,Chennai,Office Chair,Furniture,1,14418.72,0.1,12976.85,12008.83,968.02,Store,Net Banking,Corporate,Mar,3,Q1,0.07459591503330931
+504,2025-03-09,CUST1253,Customer 1002,South,Chennai,Office Chair,Furniture,1,11300.96,0.15,9605.82,8124.55,1481.27,Store,Cash,Corporate,Mar,3,Q1,0.1542054712663781
+590,2025-03-10,CUST1045,Customer 1137,Central,Indore,Laptop,Electronics,2,74308.97,0.1,133756.15,121897.25,11858.9,Store,UPI,Corporate,Mar,3,Q1,0.08866059616698
+34,2025-03-10,CUST1047,Customer 1094,East,Bhubaneswar,Headphones,Electronics,1,6353.35,0.15,5400.35,4130.81,1269.54,Store,Cash,Consumer,Mar,3,Q1,0.23508476302461875
+838,2025-03-10,CUST1086,Customer 1274,Central,Indore,Printer,Electronics,3,11188.01,0.15,28529.43,26942.25,1587.18,Online,UPI,Corporate,Mar,3,Q1,0.05563307784277499
+462,2025-03-10,CUST1247,Customer 1261,North,Jaipur,Monitor,Electronics,4,14585.95,0.05,55426.61,44628.65,10797.96,Store,Credit Card,Home Office,Mar,3,Q1,0.1948154505570519
+325,2025-03-10,CUST1129,Customer 1196,South,Hyderabad,Headphones,Electronics,2,6736.05,0.05,12798.49,8739.52,4058.97,Store,Cash,Home Office,Mar,3,Q1,0.3171444443836734
+254,2025-03-11,CUST1183,Customer 1250,North,Lucknow,Headphones,Electronics,2,4687.74,0.1,8437.93,7652.28,785.65,Store,Debit Card,Consumer,Mar,3,Q1,0.09310932894679144
+206,2025-03-11,CUST1127,Customer 1160,South,Hyderabad,Printer,Electronics,1,11534.73,0.0,11534.73,9466.36,2068.37,Store,Debit Card,Home Office,Mar,3,Q1,0.179316724361992
+949,2025-03-11,CUST1110,Customer 1132,East,Kolkata,Printer,Electronics,2,11904.9,0.1,21428.82,20804.14,624.68,Store,Net Banking,Home Office,Mar,3,Q1,0.029151395177149278
+475,2025-03-11,CUST1027,Customer 1271,North,Lucknow,Smartphone,Electronics,3,33087.79,0.02,97278.1,62761.36,34516.74,Store,Cash,Home Office,Mar,3,Q1,0.354825392354497
+383,2025-03-11,CUST1113,Customer 1112,West,Pune,Backpack,Lifestyle,2,1679.85,0.0,3359.7,2226.63,1133.07,Store,Cash,Home Office,Mar,3,Q1,0.3372533261898384
+785,2025-03-11,CUST1218,Customer 1189,West,Pune,Mouse,Accessories,4,1489.17,0.15,5063.18,3917.06,1146.12,Online,Debit Card,Corporate,Mar,3,Q1,0.22636366868252755
+830,2025-03-11,CUST1171,Customer 1272,West,Ahmedabad,Desk,Furniture,1,12478.6,0.02,12229.03,10559.16,1669.87,Online,Net Banking,Home Office,Mar,3,Q1,0.13654966910703464
+205,2025-03-11,CUST1044,Customer 1228,East,Patna,Notebook,Stationery,1,331.88,0.02,325.24,278.66,46.58,Store,Debit Card,Corporate,Mar,3,Q1,0.1432173164432419
+851,2025-03-12,CUST1214,Customer 1065,Central,Nagpur,Monitor,Electronics,3,25035.82,0.0,75107.46,61991.05,13116.41,Online,Cash,Home Office,Mar,3,Q1,0.17463524928149612
+598,2025-03-13,CUST1133,Customer 1106,Central,Indore,Laptop,Electronics,4,59660.38,0.02,233868.69,158994.88,74873.81,Store,Net Banking,Consumer,Mar,3,Q1,0.32015320220932525
+374,2025-03-13,CUST1155,Customer 1190,South,Bengaluru,Notebook,Stationery,3,311.87,0.0,935.61,728.06,207.55,Store,UPI,Home Office,Mar,3,Q1,0.22183388377635982
+57,2025-03-13,CUST1039,Customer 1154,Central,Nagpur,Monitor,Electronics,1,13801.5,0.02,13525.47,9842.16,3683.31,Store,Credit Card,Corporate,Mar,3,Q1,0.2723239931773166
+729,2025-03-14,CUST1123,Customer 1184,Central,Bhopal,Mouse,Accessories,2,1198.59,0.15,2037.6,1922.11,115.49,Online,Cash,Corporate,Mar,3,Q1,0.05667942677659992
+416,2025-03-14,CUST1076,Customer 1201,East,Patna,Printer,Electronics,1,21950.55,0.0,21950.55,18910.48,3040.07,Store,UPI,Corporate,Mar,3,Q1,0.1384963019149862
+242,2025-03-14,CUST1122,Customer 1030,North,Jaipur,Notebook,Stationery,1,203.97,0.02,199.89,147.88,52.01,Store,Cash,Corporate,Mar,3,Q1,0.2601931062084146
+317,2025-03-14,CUST1248,Customer 1273,Central,Indore,Printer,Electronics,4,12944.34,0.1,46599.62,37949.95,8649.67,Online,UPI,Consumer,Mar,3,Q1,0.18561674966448224
+574,2025-03-14,CUST1249,Customer 1091,North,Delhi,Mouse,Accessories,3,583.31,0.15,1487.44,1233.62,253.82,Store,Net Banking,Corporate,Mar,3,Q1,0.1706421771634486
+826,2025-03-14,CUST1112,Customer 1274,East,Bhubaneswar,Laptop,Electronics,2,64654.57,0.05,122843.68,105060.93,17782.75,Online,Net Banking,Consumer,Mar,3,Q1,0.14475917686607892
+580,2025-03-16,CUST1103,Customer 1297,East,Kolkata,Backpack,Lifestyle,1,1704.6,0.15,1448.91,1236.56,212.35,Store,Credit Card,Home Office,Mar,3,Q1,0.14655844738458565
+409,2025-03-16,CUST1165,Customer 1278,North,Delhi,Monitor,Electronics,2,11217.42,0.1,20191.36,17738.34,2453.02,Store,Cash,Consumer,Mar,3,Q1,0.12148859710291926
+501,2025-03-17,CUST1177,Customer 1184,South,Bengaluru,Headphones,Electronics,1,3591.22,0.05,3411.66,2757.8,653.86,Online,Debit Card,Home Office,Mar,3,Q1,0.19165450250024915
+864,2025-03-17,CUST1164,Customer 1061,West,Mumbai,Water Bottle,Lifestyle,4,1218.92,0.15,4144.33,3045.79,1098.54,Store,UPI,Consumer,Mar,3,Q1,0.26507059042112957
+781,2025-03-18,CUST1257,Customer 1131,East,Bhubaneswar,Desk,Furniture,1,10151.26,0.0,10151.26,8839.92,1311.34,Online,Cash,Home Office,Mar,3,Q1,0.12918002297251768
+783,2025-03-18,CUST1161,Customer 1005,North,Delhi,Water Bottle,Lifestyle,1,797.32,0.1,717.59,549.2,168.39,Online,Debit Card,Home Office,Mar,3,Q1,0.23466046070876123
+728,2025-03-19,CUST1147,Customer 1107,North,Lucknow,Laptop,Electronics,2,59785.18,0.02,117178.95,82538.3,34640.65,Store,Cash,Consumer,Mar,3,Q1,0.29562178189854066
+969,2025-03-19,CUST1255,Customer 1265,West,Mumbai,Headphones,Electronics,1,2734.72,0.05,2597.98,2125.07,472.91,Online,Debit Card,Consumer,Mar,3,Q1,0.1820298847566186
+527,2025-03-19,CUST1075,Customer 1042,South,Chennai,Smartphone,Electronics,1,45802.66,0.15,38932.26,36455.28,2476.98,Store,Cash,Consumer,Mar,3,Q1,0.06362281562899251
+314,2025-03-20,CUST1150,Customer 1048,West,Pune,Monitor,Electronics,1,28881.41,0.0,28881.41,19069.11,9812.3,Online,Debit Card,Corporate,Mar,3,Q1,0.33974449308395954
+492,2025-03-20,CUST1067,Customer 1034,Central,Nagpur,Smartphone,Electronics,1,46250.09,0.15,39312.58,32794.72,6517.86,Online,UPI,Consumer,Mar,3,Q1,0.16579578343624354
+125,2025-03-20,CUST1058,Customer 1026,East,Kolkata,Notebook,Stationery,1,87.87,0.0,87.87,61.87,26.0,Store,Credit Card,Consumer,Mar,3,Q1,0.29589165813133034
+433,2025-03-20,CUST1110,Customer 1217,West,Mumbai,Headphones,Electronics,3,4271.83,0.1,11533.94,9280.76,2253.18,Online,Credit Card,Home Office,Mar,3,Q1,0.19535215199662906
+573,2025-03-21,CUST1292,Customer 1084,Central,Bhopal,Smartphone,Electronics,1,30668.62,0.02,30055.25,25019.79,5035.46,Online,Net Banking,Corporate,Mar,3,Q1,0.16754011362407567
+118,2025-03-22,CUST1114,Customer 1040,South,Chennai,Mouse,Accessories,2,2135.61,0.1,3844.1,2732.7,1111.4,Online,Net Banking,Home Office,Mar,3,Q1,0.28911838921984345
+302,2025-03-22,CUST1251,Customer 1169,East,Bhubaneswar,Laptop,Electronics,1,57440.61,0.15,48824.52,48482.15,342.37,Online,UPI,Consumer,Mar,3,Q1,0.007012255317615002
+136,2025-03-25,CUST1208,Customer 1022,West,Pune,Notebook,Stationery,3,336.55,0.05,959.17,753.14,206.03,Store,Debit Card,Home Office,Mar,3,Q1,0.21480029608932724
+414,2025-03-25,CUST1166,Customer 1284,East,Kolkata,Mouse,Accessories,1,1525.36,0.1,1372.82,946.26,426.56,Online,Net Banking,Corporate,Mar,3,Q1,0.3107180839439985
+707,2025-03-25,CUST1143,Customer 1033,South,Chennai,Mouse,Accessories,1,1019.6,0.0,1019.6,774.69,244.91,Online,Net Banking,Corporate,Mar,3,Q1,0.24020204001569243
+843,2025-03-26,CUST1020,Customer 1050,East,Kolkata,Notebook,Stationery,1,369.06,0.15,313.7,314.94,-1.24,Store,Cash,Consumer,Mar,3,Q1,-0.003952821166719796
+649,2025-03-26,CUST1109,Customer 1031,North,Jaipur,Notebook,Stationery,4,276.94,0.05,1052.37,838.24,214.13,Online,Credit Card,Home Office,Mar,3,Q1,0.20347406330473125
+287,2025-03-27,CUST1044,Customer 1137,North,Lucknow,Office Chair,Furniture,2,15157.53,0.02,29708.76,24877.24,4831.52,Online,Credit Card,Consumer,Mar,3,Q1,0.16262947359633995
+910,2025-03-27,CUST1133,Customer 1013,South,Hyderabad,Monitor,Electronics,1,17191.39,0.15,14612.68,14520.25,92.43,Store,Credit Card,Consumer,Mar,3,Q1,0.0063253284134053445
+768,2025-03-28,CUST1154,Customer 1228,North,Jaipur,Mouse,Accessories,1,1280.25,0.1,1152.23,1069.91,82.32,Store,UPI,Home Office,Mar,3,Q1,0.07144406932643656
+678,2025-03-29,CUST1278,Customer 1082,South,Bengaluru,Headphones,Electronics,2,3557.69,0.15,6048.07,6064.53,-16.46,Online,UPI,Corporate,Mar,3,Q1,-0.0027215293473785854
+461,2025-03-29,CUST1244,Customer 1015,North,Lucknow,Office Chair,Furniture,1,14399.93,0.0,14399.93,9729.15,4670.78,Store,UPI,Consumer,Mar,3,Q1,0.32436129897853666
+706,2025-03-29,CUST1211,Customer 1077,West,Mumbai,Backpack,Lifestyle,2,1733.46,0.1,3120.23,2292.75,827.48,Online,Credit Card,Consumer,Mar,3,Q1,0.26519839883598323
+935,2025-03-30,CUST1047,Customer 1260,North,Jaipur,Desk,Furniture,2,12741.65,0.0,25483.3,22120.0,3363.3,Store,Cash,Corporate,Mar,3,Q1,0.13198055196932895
+745,2025-03-30,CUST1061,Customer 1271,Central,Bhopal,Smartphone,Electronics,1,34381.23,0.1,30943.11,26072.75,4870.36,Store,Debit Card,Home Office,Mar,3,Q1,0.15739723641224168
+134,2025-03-31,CUST1174,Customer 1122,North,Delhi,Monitor,Electronics,4,16513.83,0.02,64734.21,57741.68,6992.53,Store,Credit Card,Corporate,Mar,3,Q1,0.1080190829547468
+201,2025-03-31,CUST1061,Customer 1138,East,Patna,Mouse,Accessories,2,2184.91,0.05,4151.33,3550.03,601.3,Store,Debit Card,Consumer,Mar,3,Q1,0.14484514601344628
+388,2025-03-31,CUST1141,Customer 1145,North,Jaipur,Mouse,Accessories,3,2023.0,0.0,6069.0,4280.63,1788.37,Store,UPI,Corporate,Mar,3,Q1,0.2946729279947273
+972,2025-04-01,CUST1236,Customer 1289,South,Hyderabad,Monitor,Electronics,4,10517.71,0.1,37863.76,31925.34,5938.42,Store,Credit Card,Consumer,Apr,4,Q2,0.15683651068990506
+983,2025-04-01,CUST1093,Customer 1083,East,Kolkata,Desk,Furniture,3,7665.33,0.02,22536.07,14541.62,7994.45,Online,Debit Card,Corporate,Apr,4,Q2,0.3547402009312183
+320,2025-04-01,CUST1238,Customer 1264,East,Patna,Desk,Furniture,1,6403.38,0.0,6403.38,4391.9,2011.48,Online,Credit Card,Consumer,Apr,4,Q2,0.3141278512285699
+853,2025-04-02,CUST1192,Customer 1077,Central,Indore,Office Chair,Furniture,3,16083.0,0.1,43424.1,38329.73,5094.37,Online,Cash,Home Office,Apr,4,Q2,0.11731665135258992
+617,2025-04-03,CUST1276,Customer 1158,North,Delhi,Laptop,Electronics,1,64490.89,0.0,64490.89,45999.35,18491.54,Online,Net Banking,Home Office,Apr,4,Q2,0.2867310406167445
+354,2025-04-03,CUST1142,Customer 1112,West,Mumbai,Desk,Furniture,3,12461.67,0.02,36637.31,29669.41,6967.9,Online,Debit Card,Home Office,Apr,4,Q2,0.1901859061159239
+233,2025-04-03,CUST1109,Customer 1241,North,Delhi,Notebook,Stationery,1,273.3,0.05,259.63,189.12,70.51,Online,Debit Card,Consumer,Apr,4,Q2,0.271578785194315
+240,2025-04-03,CUST1166,Customer 1296,North,Delhi,Office Chair,Furniture,2,16358.08,0.05,31080.35,26586.96,4493.39,Store,UPI,Consumer,Apr,4,Q2,0.14457333974681755
+355,2025-04-04,CUST1013,Customer 1293,West,Pune,Monitor,Electronics,1,29179.32,0.1,26261.39,21797.21,4464.18,Online,Credit Card,Corporate,Apr,4,Q2,0.1699902404252022
+604,2025-04-04,CUST1129,Customer 1091,South,Hyderabad,Printer,Electronics,2,8796.56,0.05,16713.46,12030.49,4682.97,Store,Net Banking,Corporate,Apr,4,Q2,0.2801915342484441
+342,2025-04-04,CUST1222,Customer 1204,South,Chennai,Water Bottle,Lifestyle,1,625.13,0.0,625.13,426.83,198.3,Store,Cash,Home Office,Apr,4,Q2,0.31721401948394734
+412,2025-04-05,CUST1209,Customer 1225,East,Kolkata,Water Bottle,Lifestyle,2,967.43,0.02,1896.16,1463.02,433.14,Online,Cash,Consumer,Apr,4,Q2,0.22843009028773942
+784,2025-04-05,CUST1223,Customer 1009,West,Ahmedabad,Monitor,Electronics,3,16144.54,0.1,43590.26,36067.31,7522.95,Online,Net Banking,Corporate,Apr,4,Q2,0.17258327892515438
+192,2025-04-05,CUST1088,Customer 1044,West,Mumbai,Smartphone,Electronics,2,21993.92,0.1,39589.06,36625.34,2963.72,Online,Debit Card,Consumer,Apr,4,Q2,0.07486209574059097
+11,2025-04-06,CUST1222,Customer 1231,West,Mumbai,Headphones,Electronics,4,1413.72,0.0,5654.88,3968.21,1686.67,Online,Debit Card,Consumer,Apr,4,Q2,0.298268044591574
+491,2025-04-07,CUST1036,Customer 1109,Central,Nagpur,Office Chair,Furniture,2,17360.64,0.1,31249.15,30280.43,968.72,Online,Debit Card,Consumer,Apr,4,Q2,0.030999883196822953
+480,2025-04-07,CUST1018,Customer 1097,West,Pune,Mouse,Accessories,4,1761.9,0.15,5990.46,4590.06,1400.4,Online,Cash,Consumer,Apr,4,Q2,0.2337716969982272
+572,2025-04-07,CUST1117,Customer 1199,South,Chennai,Water Bottle,Lifestyle,1,464.67,0.05,441.44,330.61,110.83,Store,Net Banking,Home Office,Apr,4,Q2,0.2510646973541138
+804,2025-04-07,CUST1055,Customer 1127,East,Patna,Mouse,Accessories,4,1333.77,0.15,4534.82,4535.25,-0.43,Store,UPI,Home Office,Apr,4,Q2,-9.48218451890042e-05
+861,2025-04-07,CUST1144,Customer 1008,Central,Nagpur,Desk,Furniture,1,5699.34,0.02,5585.35,4099.62,1485.73,Online,Net Banking,Home Office,Apr,4,Q2,0.26600481617087557
+210,2025-04-08,CUST1144,Customer 1125,South,Bengaluru,Backpack,Lifestyle,1,1331.01,0.0,1331.01,1056.75,274.26,Online,Cash,Home Office,Apr,4,Q2,0.20605404918069736
+59,2025-04-08,CUST1286,Customer 1249,South,Hyderabad,Headphones,Electronics,2,7341.43,0.02,14389.2,10441.76,3947.44,Store,UPI,Home Office,Apr,4,Q2,0.27433352792372057
+880,2025-04-08,CUST1120,Customer 1293,East,Patna,Backpack,Lifestyle,2,3050.61,0.15,5186.04,4649.88,536.16,Store,UPI,Corporate,Apr,4,Q2,0.1033852419186894
+486,2025-04-08,CUST1031,Customer 1158,Central,Bhopal,Water Bottle,Lifestyle,2,1386.36,0.05,2634.08,1957.1,676.98,Store,Credit Card,Home Office,Apr,4,Q2,0.25700813946425316
+474,2025-04-09,CUST1116,Customer 1270,North,Lucknow,Keyboard,Accessories,1,3449.35,0.1,3104.41,2976.12,128.29,Online,Net Banking,Consumer,Apr,4,Q2,0.04132508270492622
+913,2025-04-10,CUST1252,Customer 1077,North,Delhi,Laptop,Electronics,2,62879.56,0.1,113183.21,83471.36,29711.85,Online,Cash,Consumer,Apr,4,Q2,0.26251110920073745
+15,2025-04-11,CUST1113,Customer 1081,North,Jaipur,Monitor,Electronics,4,14184.4,0.02,55602.85,45684.57,9918.28,Online,UPI,Corporate,Apr,4,Q2,0.17837718750028103
+216,2025-04-11,CUST1260,Customer 1246,North,Delhi,Office Chair,Furniture,2,7394.92,0.1,13310.86,12324.35,986.51,Online,UPI,Home Office,Apr,4,Q2,0.0741131677442329
+324,2025-04-12,CUST1038,Customer 1133,West,Ahmedabad,Laptop,Electronics,3,70288.81,0.02,206649.1,153148.51,53500.59,Online,Credit Card,Consumer,Apr,4,Q2,0.25889582872608685
+426,2025-04-12,CUST1173,Customer 1171,West,Mumbai,Monitor,Electronics,2,24822.91,0.05,47163.53,37233.84,9929.69,Online,Net Banking,Consumer,Apr,4,Q2,0.21053746401085754
+217,2025-04-12,CUST1223,Customer 1059,North,Lucknow,Office Chair,Furniture,3,6591.64,0.15,16808.68,13921.21,2887.47,Online,Debit Card,Consumer,Apr,4,Q2,0.17178445898190695
+621,2025-04-13,CUST1055,Customer 1257,South,Bengaluru,Notebook,Stationery,3,292.49,0.05,833.6,655.66,177.94,Online,Net Banking,Corporate,Apr,4,Q2,0.21345969289827255
+107,2025-04-13,CUST1273,Customer 1014,South,Hyderabad,Office Chair,Furniture,4,15339.44,0.1,55221.98,51514.92,3707.06,Online,Debit Card,Consumer,Apr,4,Q2,0.06713015360912447
+194,2025-04-14,CUST1224,Customer 1010,South,Chennai,Desk,Furniture,2,6960.15,0.05,13224.28,12220.22,1004.06,Online,Debit Card,Home Office,Apr,4,Q2,0.07592549462050108
+251,2025-04-14,CUST1214,Customer 1249,South,Hyderabad,Monitor,Electronics,1,17437.35,0.05,16565.48,14802.25,1763.23,Store,Credit Card,Home Office,Apr,4,Q2,0.1064400186411743
+21,2025-04-14,CUST1254,Customer 1227,West,Pune,Desk,Furniture,2,14653.24,0.05,27841.16,25299.26,2541.9,Store,UPI,Home Office,Apr,4,Q2,0.0913000751405473
+798,2025-04-15,CUST1291,Customer 1250,Central,Indore,Laptop,Electronics,3,59149.39,0.0,177448.17,131752.03,45696.14,Online,Debit Card,Home Office,Apr,4,Q2,0.25751823757889414
+140,2025-04-15,CUST1250,Customer 1117,West,Pune,Monitor,Electronics,1,19601.74,0.0,19601.74,14772.63,4829.11,Store,Cash,Corporate,Apr,4,Q2,0.24636129241587734
+116,2025-04-15,CUST1123,Customer 1029,Central,Nagpur,Printer,Electronics,3,15487.04,0.15,39491.95,29911.05,9580.9,Online,Debit Card,Consumer,Apr,4,Q2,0.24260387243476203
+876,2025-04-15,CUST1047,Customer 1087,South,Bengaluru,Mouse,Accessories,1,1668.69,0.0,1668.69,1101.76,566.93,Online,Net Banking,Consumer,Apr,4,Q2,0.33974554890363096
+239,2025-04-15,CUST1202,Customer 1266,North,Jaipur,Headphones,Electronics,4,3612.44,0.02,14160.76,11470.64,2690.12,Store,Credit Card,Home Office,Apr,4,Q2,0.18997002985715455
+530,2025-04-15,CUST1260,Customer 1255,East,Kolkata,Keyboard,Accessories,1,1287.78,0.0,1287.78,907.65,380.13,Online,Credit Card,Home Office,Apr,4,Q2,0.2951824069328612
+586,2025-04-16,CUST1032,Customer 1074,South,Bengaluru,Office Chair,Furniture,2,7830.73,0.05,14878.39,12045.11,2833.28,Online,UPI,Consumer,Apr,4,Q2,0.19042920638590602
+551,2025-04-16,CUST1133,Customer 1108,West,Ahmedabad,Desk,Furniture,4,5667.63,0.0,22670.52,14338.14,8332.38,Store,Credit Card,Corporate,Apr,4,Q2,0.3675425177719787
+363,2025-04-16,CUST1181,Customer 1184,East,Bhubaneswar,Office Chair,Furniture,4,6069.54,0.02,23792.6,20243.59,3549.01,Store,UPI,Corporate,Apr,4,Q2,0.14916444608827956
+397,2025-04-16,CUST1139,Customer 1299,South,Bengaluru,Keyboard,Accessories,3,3234.27,0.05,9217.67,7426.97,1790.7,Online,Cash,Home Office,Apr,4,Q2,0.19426818274032376
+508,2025-04-17,CUST1135,Customer 1069,Central,Indore,Desk,Furniture,1,9681.23,0.1,8713.11,8191.38,521.73,Online,Debit Card,Corporate,Apr,4,Q2,0.05987873445876386
+879,2025-04-17,CUST1128,Customer 1195,East,Bhubaneswar,Backpack,Lifestyle,1,1475.88,0.15,1254.5,1026.02,228.48,Online,Credit Card,Home Office,Apr,4,Q2,0.18212833798326025
+236,2025-04-18,CUST1019,Customer 1072,Central,Indore,Headphones,Electronics,4,4264.06,0.15,14497.8,12324.66,2173.14,Store,Net Banking,Consumer,Apr,4,Q2,0.1498944667466788
+146,2025-04-18,CUST1251,Customer 1130,Central,Nagpur,Laptop,Electronics,2,71883.41,0.1,129390.14,121439.29,7950.85,Online,Net Banking,Corporate,Apr,4,Q2,0.06144865443379225
+849,2025-04-18,CUST1272,Customer 1171,East,Patna,Backpack,Lifestyle,4,3416.99,0.1,12301.16,11572.88,728.28,Store,UPI,Corporate,Apr,4,Q2,0.059204172614615205
+886,2025-04-18,CUST1165,Customer 1091,North,Delhi,Backpack,Lifestyle,3,2531.52,0.0,7594.56,5988.45,1606.11,Store,Debit Card,Consumer,Apr,4,Q2,0.21148163948931864
+489,2025-04-18,CUST1162,Customer 1206,West,Pune,Water Bottle,Lifestyle,1,317.26,0.1,285.53,246.68,38.85,Store,Debit Card,Corporate,Apr,4,Q2,0.13606276048050994
+922,2025-04-18,CUST1265,Customer 1290,Central,Indore,Notebook,Stationery,4,315.84,0.02,1238.09,873.98,364.11,Online,Debit Card,Consumer,Apr,4,Q2,0.29409009038115164
+303,2025-04-19,CUST1183,Customer 1192,West,Mumbai,Headphones,Electronics,1,2008.35,0.1,1807.51,1595.58,211.93,Online,UPI,Home Office,Apr,4,Q2,0.1172496970971115
+995,2025-04-19,CUST1050,Customer 1105,West,Ahmedabad,Monitor,Electronics,2,16670.13,0.0,33340.26,26701.1,6639.16,Store,Net Banking,Home Office,Apr,4,Q2,0.19913342007530832
+953,2025-04-20,CUST1210,Customer 1237,South,Hyderabad,Desk,Furniture,4,14483.61,0.02,56775.75,44416.77,12358.98,Store,UPI,Home Office,Apr,4,Q2,0.2176806118809527
+344,2025-04-20,CUST1269,Customer 1278,East,Bhubaneswar,Headphones,Electronics,1,5527.35,0.15,4698.25,4613.89,84.36,Store,Net Banking,Home Office,Apr,4,Q2,0.01795562177406481
+769,2025-04-20,CUST1037,Customer 1071,Central,Nagpur,Printer,Electronics,2,9018.12,0.1,16232.62,13661.22,2571.4,Online,Net Banking,Home Office,Apr,4,Q2,0.15840942497267846
+274,2025-04-21,CUST1102,Customer 1017,South,Chennai,Laptop,Electronics,1,57487.37,0.05,54613.0,43008.88,11604.12,Store,Cash,Consumer,Apr,4,Q2,0.21247908007251023
+567,2025-04-21,CUST1123,Customer 1193,East,Kolkata,Keyboard,Accessories,3,1901.32,0.02,5589.88,3633.26,1956.62,Online,Debit Card,Home Office,Apr,4,Q2,0.3500289809441347
+318,2025-04-21,CUST1047,Customer 1063,South,Chennai,Monitor,Electronics,4,13284.52,0.0,53138.08,44252.12,8885.96,Online,UPI,Corporate,Apr,4,Q2,0.1672239569062337
+61,2025-04-21,CUST1249,Customer 1151,South,Chennai,Keyboard,Accessories,3,1738.02,0.05,4953.36,4018.52,934.84,Online,Debit Card,Corporate,Apr,4,Q2,0.18872845906616925
+766,2025-04-22,CUST1127,Customer 1021,Central,Indore,Smartphone,Electronics,1,39658.89,0.15,33710.06,28996.66,4713.4,Online,UPI,Home Office,Apr,4,Q2,0.1398217624056439
+482,2025-04-23,CUST1229,Customer 1171,South,Chennai,Desk,Furniture,2,4467.49,0.02,8756.28,6590.2,2166.08,Online,Net Banking,Corporate,Apr,4,Q2,0.24737445581913778
+150,2025-04-24,CUST1145,Customer 1026,Central,Indore,Mouse,Accessories,1,934.02,0.02,915.34,669.99,245.35,Store,UPI,Home Office,Apr,4,Q2,0.2680424760198396
+569,2025-04-24,CUST1076,Customer 1164,Central,Nagpur,Smartphone,Electronics,3,35154.02,0.15,89642.75,91350.06,-1707.31,Store,Net Banking,Consumer,Apr,4,Q2,-0.0190457120068271
+322,2025-04-24,CUST1252,Customer 1107,Central,Bhopal,Backpack,Lifestyle,2,1545.8,0.02,3029.77,2318.24,711.53,Online,Cash,Corporate,Apr,4,Q2,0.23484620944824194
+291,2025-04-24,CUST1257,Customer 1058,North,Jaipur,Monitor,Electronics,2,17112.79,0.05,32514.3,24918.17,7596.13,Store,Net Banking,Home Office,Apr,4,Q2,0.2336242822388918
+168,2025-04-25,CUST1104,Customer 1118,West,Mumbai,Notebook,Stationery,1,394.0,0.15,334.9,256.56,78.34,Online,Cash,Consumer,Apr,4,Q2,0.23392057330546434
+596,2025-04-25,CUST1276,Customer 1281,South,Hyderabad,Notebook,Stationery,1,279.03,0.0,279.03,242.58,36.45,Online,Net Banking,Home Office,Apr,4,Q2,0.1306311149338781
+765,2025-04-25,CUST1218,Customer 1137,South,Chennai,Monitor,Electronics,1,20534.64,0.02,20123.95,16916.88,3207.07,Store,Debit Card,Corporate,Apr,4,Q2,0.15936583026692075
+330,2025-04-25,CUST1162,Customer 1201,North,Jaipur,Water Bottle,Lifestyle,1,1178.9,0.02,1155.32,839.51,315.81,Store,Cash,Home Office,Apr,4,Q2,0.2733528373091438
+470,2025-04-25,CUST1284,Customer 1075,Central,Bhopal,Printer,Electronics,3,6860.36,0.05,19552.03,15492.37,4059.66,Store,Net Banking,Corporate,Apr,4,Q2,0.20763368304979074
+494,2025-04-25,CUST1191,Customer 1170,South,Chennai,Monitor,Electronics,2,20590.66,0.0,41181.32,30093.63,11087.69,Online,Cash,Consumer,Apr,4,Q2,0.26924076255933516
+825,2025-04-25,CUST1228,Customer 1245,South,Chennai,Notebook,Stationery,1,204.43,0.1,183.99,175.15,8.84,Store,Credit Card,Corporate,Apr,4,Q2,0.048046089461383765
+948,2025-04-25,CUST1263,Customer 1142,South,Bengaluru,Smartphone,Electronics,3,35107.39,0.0,105322.17,92063.79,13258.38,Store,UPI,Home Office,Apr,4,Q2,0.12588403752030555
+440,2025-04-27,CUST1271,Customer 1258,North,Jaipur,Keyboard,Accessories,2,834.85,0.0,1669.7,1281.31,388.39,Store,Net Banking,Corporate,Apr,4,Q2,0.23261064861951247
+430,2025-04-27,CUST1046,Customer 1088,East,Patna,Monitor,Electronics,1,12988.66,0.1,11689.79,9264.05,2425.74,Store,UPI,Consumer,Apr,4,Q2,0.20750928801971633
+497,2025-04-27,CUST1094,Customer 1168,South,Bengaluru,Notebook,Stationery,1,119.44,0.1,107.5,102.81,4.69,Store,Debit Card,Consumer,Apr,4,Q2,0.04362790697674419
+924,2025-04-28,CUST1005,Customer 1243,Central,Bhopal,Headphones,Electronics,1,6333.59,0.15,5383.55,4154.46,1229.09,Online,Cash,Corporate,Apr,4,Q2,0.22830474315275234
+965,2025-04-28,CUST1168,Customer 1251,West,Ahmedabad,Keyboard,Accessories,3,2376.5,0.02,6986.91,4557.66,2429.25,Store,Cash,Consumer,Apr,4,Q2,0.3476858868942065
+335,2025-04-28,CUST1233,Customer 1199,North,Delhi,Printer,Electronics,1,19986.73,0.05,18987.39,13053.74,5933.65,Store,Net Banking,Home Office,Apr,4,Q2,0.3125047729045435
+377,2025-04-29,CUST1293,Customer 1244,West,Ahmedabad,Laptop,Electronics,3,68067.67,0.1,183782.71,171634.35,12148.36,Store,Credit Card,Consumer,Apr,4,Q2,0.06610175679747024
+942,2025-04-30,CUST1128,Customer 1211,North,Jaipur,Monitor,Electronics,4,18528.83,0.05,70409.55,59197.49,11212.06,Online,Net Banking,Consumer,Apr,4,Q2,0.15924061437688494
+603,2025-04-30,CUST1247,Customer 1192,North,Delhi,Smartphone,Electronics,1,44285.61,0.05,42071.33,33413.08,8658.25,Online,Debit Card,Home Office,Apr,4,Q2,0.20579929372330277
+888,2025-05-01,CUST1244,Customer 1152,Central,Bhopal,Notebook,Stationery,2,204.33,0.1,367.79,330.34,37.45,Store,Credit Card,Home Office,May,5,Q2,0.10182441066913184
+160,2025-05-01,CUST1125,Customer 1170,Central,Bhopal,Notebook,Stationery,1,152.99,0.02,149.93,101.81,48.12,Store,UPI,Corporate,May,5,Q2,0.32094977656239576
+226,2025-05-01,CUST1275,Customer 1120,East,Kolkata,Notebook,Stationery,4,85.76,0.0,343.04,239.87,103.17,Store,Net Banking,Consumer,May,5,Q2,0.300752098880597
+445,2025-05-02,CUST1175,Customer 1179,West,Ahmedabad,Mouse,Accessories,1,1369.9,0.05,1301.4,985.68,315.72,Online,Debit Card,Consumer,May,5,Q2,0.2426002766251729
+977,2025-05-02,CUST1167,Customer 1008,South,Hyderabad,Printer,Electronics,1,18382.98,0.1,16544.68,13756.21,2788.47,Online,Net Banking,Consumer,May,5,Q2,0.16854179107725262
+190,2025-05-02,CUST1032,Customer 1222,West,Mumbai,Notebook,Stationery,3,143.19,0.0,429.57,338.46,91.11,Online,UPI,Consumer,May,5,Q2,0.21209581674697953
+436,2025-05-03,CUST1299,Customer 1283,South,Bengaluru,Headphones,Electronics,1,1992.05,0.1,1792.85,1514.9,277.95,Store,UPI,Corporate,May,5,Q2,0.15503249016928355
+31,2025-05-04,CUST1106,Customer 1158,West,Pune,Monitor,Electronics,1,17638.43,0.1,15874.59,11544.6,4329.99,Online,UPI,Home Office,May,5,Q2,0.27276232016070967
+912,2025-05-05,CUST1113,Customer 1137,West,Ahmedabad,Water Bottle,Lifestyle,1,840.64,0.15,714.54,642.9,71.64,Online,Debit Card,Home Office,May,5,Q2,0.10026030733059031
+361,2025-05-05,CUST1013,Customer 1036,Central,Bhopal,Desk,Furniture,4,5556.15,0.1,20002.14,15832.43,4169.71,Online,Credit Card,Corporate,May,5,Q2,0.2084631944381951
+866,2025-05-05,CUST1051,Customer 1178,Central,Indore,Water Bottle,Lifestyle,1,1244.36,0.15,1057.71,888.03,169.68,Online,Credit Card,Home Office,May,5,Q2,0.16042204384944833
+512,2025-05-05,CUST1267,Customer 1140,Central,Indore,Smartphone,Electronics,1,22492.35,0.02,22042.5,15020.03,7022.47,Online,Credit Card,Corporate,May,5,Q2,0.31858772825224
+817,2025-05-05,CUST1071,Customer 1243,Central,Nagpur,Monitor,Electronics,1,24648.04,0.15,20950.83,15350.18,5600.65,Store,UPI,Consumer,May,5,Q2,0.2673235380173482
+824,2025-05-05,CUST1188,Customer 1254,Central,Bhopal,Mouse,Accessories,2,728.63,0.05,1384.4,934.96,449.44,Online,UPI,Home Office,May,5,Q2,0.3246460560531638
+459,2025-05-06,CUST1226,Customer 1221,West,Mumbai,Desk,Furniture,3,10256.52,0.0,30769.56,20647.5,10122.06,Online,Debit Card,Consumer,May,5,Q2,0.32896343009129797
+307,2025-05-06,CUST1053,Customer 1283,East,Patna,Smartphone,Electronics,2,27157.87,0.0,54315.74,41426.79,12888.95,Store,UPI,Corporate,May,5,Q2,0.23729677621993184
+32,2025-05-07,CUST1129,Customer 1058,East,Bhubaneswar,Office Chair,Furniture,1,8261.19,0.15,7022.01,5295.65,1726.36,Store,UPI,Home Office,May,5,Q2,0.24584983501874816
+812,2025-05-07,CUST1197,Customer 1221,Central,Nagpur,Printer,Electronics,1,12572.94,0.02,12321.48,8679.55,3641.93,Online,Debit Card,Home Office,May,5,Q2,0.2955756938289881
+369,2025-05-07,CUST1114,Customer 1276,North,Lucknow,Keyboard,Accessories,4,3159.99,0.1,11375.96,7838.92,3537.04,Store,Net Banking,Consumer,May,5,Q2,0.3109223309505308
+419,2025-05-07,CUST1217,Customer 1096,West,Pune,Desk,Furniture,2,14219.13,0.1,25594.43,23005.93,2588.5,Online,Net Banking,Corporate,May,5,Q2,0.10113528607591574
+238,2025-05-07,CUST1082,Customer 1147,North,Lucknow,Monitor,Electronics,1,23418.39,0.1,21076.55,16856.51,4220.04,Online,Cash,Consumer,May,5,Q2,0.20022442003079252
+950,2025-05-09,CUST1057,Customer 1181,North,Delhi,Desk,Furniture,1,8594.91,0.05,8165.16,7010.22,1154.94,Store,Debit Card,Home Office,May,5,Q2,0.14144732007701014
+153,2025-05-09,CUST1089,Customer 1213,East,Bhubaneswar,Smartphone,Electronics,1,46204.55,0.05,43894.32,39085.08,4809.24,Online,UPI,Corporate,May,5,Q2,0.10956406204720792
+610,2025-05-10,CUST1105,Customer 1027,North,Lucknow,Keyboard,Accessories,2,3453.72,0.05,6562.07,4539.54,2022.53,Online,Credit Card,Home Office,May,5,Q2,0.30821524305592596
+16,2025-05-10,CUST1053,Customer 1172,South,Chennai,Office Chair,Furniture,1,8622.4,0.0,8622.4,5882.94,2739.46,Store,Cash,Home Office,May,5,Q2,0.31771432547782524
+367,2025-05-11,CUST1237,Customer 1246,North,Delhi,Water Bottle,Lifestyle,3,469.47,0.1,1267.57,933.75,333.82,Store,Net Banking,Corporate,May,5,Q2,0.26335429207065486
+756,2025-05-11,CUST1067,Customer 1293,South,Bengaluru,Headphones,Electronics,1,2447.16,0.05,2324.8,1531.9,792.9,Online,Net Banking,Consumer,May,5,Q2,0.34106159669649
+685,2025-05-12,CUST1037,Customer 1132,North,Jaipur,Monitor,Electronics,1,9086.23,0.0,9086.23,6617.73,2468.5,Online,UPI,Consumer,May,5,Q2,0.271674831035534
+763,2025-05-12,CUST1121,Customer 1197,Central,Indore,Laptop,Electronics,2,72006.35,0.15,122410.8,114328.2,8082.6,Store,Credit Card,Corporate,May,5,Q2,0.06602848768245939
+196,2025-05-12,CUST1111,Customer 1132,Central,Nagpur,Monitor,Electronics,1,15865.56,0.05,15072.28,13946.57,1125.71,Store,Credit Card,Corporate,May,5,Q2,0.07468743945839647
+943,2025-05-12,CUST1048,Customer 1248,South,Chennai,Smartphone,Electronics,2,29461.32,0.15,50084.24,48949.06,1135.18,Online,Cash,Corporate,May,5,Q2,0.02266541331165253
+353,2025-05-13,CUST1059,Customer 1182,South,Hyderabad,Office Chair,Furniture,4,16227.34,0.05,61663.89,43068.19,18595.7,Store,Debit Card,Consumer,May,5,Q2,0.30156547048848203
+218,2025-05-13,CUST1227,Customer 1189,North,Lucknow,Laptop,Electronics,2,55587.28,0.02,108951.07,74991.22,33959.85,Store,Net Banking,Consumer,May,5,Q2,0.3116981779068347
+179,2025-05-13,CUST1183,Customer 1062,Central,Indore,Office Chair,Furniture,3,11831.56,0.15,30170.48,25578.9,4591.58,Online,Net Banking,Corporate,May,5,Q2,0.15218783393568813
+655,2025-05-13,CUST1279,Customer 1137,East,Bhubaneswar,Desk,Furniture,2,9889.72,0.1,17801.5,15440.73,2360.77,Store,Debit Card,Consumer,May,5,Q2,0.13261635255456
+442,2025-05-14,CUST1025,Customer 1185,West,Mumbai,Smartphone,Electronics,3,47591.98,0.02,139920.42,119181.13,20739.29,Online,Debit Card,Home Office,May,5,Q2,0.14822203935637127
+600,2025-05-14,CUST1046,Customer 1050,South,Bengaluru,Office Chair,Furniture,1,11596.07,0.0,11596.07,8895.59,2700.48,Store,Credit Card,Corporate,May,5,Q2,0.23287889776450127
+276,2025-05-14,CUST1224,Customer 1153,West,Ahmedabad,Mouse,Accessories,1,528.81,0.0,528.81,344.39,184.42,Online,Credit Card,Home Office,May,5,Q2,0.34874529604205673
+172,2025-05-14,CUST1067,Customer 1007,North,Jaipur,Mouse,Accessories,1,1889.66,0.02,1851.87,1598.08,253.79,Store,UPI,Home Office,May,5,Q2,0.13704525695648184
+329,2025-05-14,CUST1108,Customer 1018,West,Ahmedabad,Office Chair,Furniture,4,10584.91,0.15,35988.69,34162.68,1826.01,Store,UPI,Corporate,May,5,Q2,0.05073844032666929
+503,2025-05-14,CUST1148,Customer 1071,North,Jaipur,Mouse,Accessories,1,1645.39,0.15,1398.58,1218.73,179.85,Online,Debit Card,Corporate,May,5,Q2,0.12859471749917775
+575,2025-05-15,CUST1042,Customer 1164,Central,Indore,Laptop,Electronics,2,67513.0,0.15,114772.1,107421.29,7350.81,Online,Debit Card,Corporate,May,5,Q2,0.06404701142525056
+630,2025-05-15,CUST1222,Customer 1156,East,Kolkata,Smartphone,Electronics,4,29796.24,0.15,101307.22,80405.82,20901.4,Store,Cash,Corporate,May,5,Q2,0.20631698313308766
+933,2025-05-15,CUST1024,Customer 1028,Central,Bhopal,Laptop,Electronics,1,65698.08,0.15,55843.37,45611.74,10231.63,Store,Debit Card,Consumer,May,5,Q2,0.18322013875595256
+860,2025-05-15,CUST1207,Customer 1177,South,Bengaluru,Notebook,Stationery,3,300.51,0.0,901.53,743.11,158.42,Online,Debit Card,Home Office,May,5,Q2,0.17572349228533715
+277,2025-05-15,CUST1228,Customer 1111,West,Mumbai,Notebook,Stationery,1,80.43,0.15,68.37,63.39,4.98,Online,UPI,Home Office,May,5,Q2,0.07283896445809565
+327,2025-05-17,CUST1006,Customer 1109,South,Bengaluru,Backpack,Lifestyle,1,1605.9,0.0,1605.9,1038.48,567.42,Online,UPI,Corporate,May,5,Q2,0.3533345787408929
+373,2025-05-17,CUST1182,Customer 1001,West,Ahmedabad,Keyboard,Accessories,2,935.66,0.0,1871.32,1575.23,296.09,Store,Debit Card,Home Office,May,5,Q2,0.1582252100121839
+350,2025-05-18,CUST1025,Customer 1068,West,Ahmedabad,Water Bottle,Lifestyle,1,306.42,0.15,260.46,258.85,1.61,Online,Net Banking,Home Office,May,5,Q2,0.0061813714197957465
+60,2025-05-18,CUST1184,Customer 1273,West,Pune,Office Chair,Furniture,1,11806.83,0.15,10035.81,9765.22,270.59,Store,Cash,Consumer,May,5,Q2,0.02696244747558991
+828,2025-05-18,CUST1208,Customer 1125,Central,Bhopal,Keyboard,Accessories,2,1638.56,0.0,3277.12,2620.54,656.58,Store,Net Banking,Home Office,May,5,Q2,0.20035274875500442
+816,2025-05-18,CUST1021,Customer 1234,West,Ahmedabad,Notebook,Stationery,4,296.66,0.02,1162.91,983.54,179.37,Store,Debit Card,Corporate,May,5,Q2,0.15424237473235244
+384,2025-05-18,CUST1180,Customer 1200,South,Bengaluru,Notebook,Stationery,4,359.37,0.05,1365.61,1044.79,320.82,Online,Debit Card,Consumer,May,5,Q2,0.2349279809023074
+221,2025-05-19,CUST1271,Customer 1289,East,Kolkata,Office Chair,Furniture,3,13072.07,0.0,39216.21,32893.63,6322.58,Store,Net Banking,Corporate,May,5,Q2,0.16122363685832977
+666,2025-05-19,CUST1052,Customer 1195,North,Delhi,Laptop,Electronics,1,66182.73,0.02,64859.08,53828.84,11030.24,Store,UPI,Corporate,May,5,Q2,0.17006470027018575
+605,2025-05-19,CUST1174,Customer 1029,West,Mumbai,Printer,Electronics,2,11294.64,0.05,21459.82,17137.59,4322.23,Online,Cash,Home Office,May,5,Q2,0.20141035665723198
+376,2025-05-19,CUST1149,Customer 1115,Central,Nagpur,Headphones,Electronics,1,4768.2,0.0,4768.2,3246.91,1521.29,Store,Debit Card,Home Office,May,5,Q2,0.3190491170672371
+805,2025-05-19,CUST1195,Customer 1015,Central,Nagpur,Office Chair,Furniture,4,10132.08,0.05,38501.9,32178.99,6322.91,Online,UPI,Consumer,May,5,Q2,0.16422332404374848
+556,2025-05-21,CUST1155,Customer 1262,East,Patna,Desk,Furniture,2,10071.11,0.1,18128.0,16398.12,1729.88,Online,Cash,Consumer,May,5,Q2,0.09542586054721977
+464,2025-05-21,CUST1268,Customer 1037,Central,Indore,Headphones,Electronics,1,7341.92,0.15,6240.63,4951.82,1288.81,Store,Cash,Consumer,May,5,Q2,0.20651921360503667
+648,2025-05-21,CUST1093,Customer 1114,South,Bengaluru,Office Chair,Furniture,1,7717.76,0.1,6945.98,5267.09,1678.89,Store,Cash,Home Office,May,5,Q2,0.24170671381144204
+759,2025-05-22,CUST1044,Customer 1144,West,Mumbai,Mouse,Accessories,1,937.06,0.0,937.06,803.61,133.45,Online,Net Banking,Corporate,May,5,Q2,0.1424135060721832
+528,2025-05-23,CUST1166,Customer 1261,North,Lucknow,Desk,Furniture,2,11529.61,0.05,21906.26,15524.59,6381.67,Online,Debit Card,Corporate,May,5,Q2,0.291317185133382
+171,2025-05-23,CUST1101,Customer 1244,East,Bhubaneswar,Office Chair,Furniture,1,17251.03,0.05,16388.48,14222.3,2166.18,Store,Cash,Home Office,May,5,Q2,0.13217699261920568
+143,2025-05-25,CUST1028,Customer 1066,West,Mumbai,Desk,Furniture,2,10952.98,0.02,21467.84,14124.26,7343.58,Online,Net Banking,Consumer,May,5,Q2,0.34207353883762875
+667,2025-05-25,CUST1086,Customer 1153,East,Kolkata,Office Chair,Furniture,2,5020.82,0.15,8535.39,8527.03,8.36,Store,Net Banking,Corporate,May,5,Q2,0.0009794514368997784
+775,2025-05-25,CUST1229,Customer 1064,North,Jaipur,Mouse,Accessories,2,916.97,0.15,1558.85,1289.88,268.97,Online,UPI,Consumer,May,5,Q2,0.17254386246271292
+743,2025-05-25,CUST1061,Customer 1273,East,Kolkata,Headphones,Electronics,2,4514.78,0.02,8848.97,7099.41,1749.56,Online,Cash,Corporate,May,5,Q2,0.19771340619303718
+56,2025-05-25,CUST1085,Customer 1078,East,Kolkata,Office Chair,Furniture,2,14996.84,0.02,29393.81,25221.94,4171.87,Online,UPI,Home Office,May,5,Q2,0.14193022272376393
+97,2025-05-26,CUST1128,Customer 1042,West,Pune,Backpack,Lifestyle,1,3241.49,0.15,2755.27,2025.22,730.05,Store,UPI,Corporate,May,5,Q2,0.2649649580621863
+940,2025-05-26,CUST1159,Customer 1125,Central,Bhopal,Mouse,Accessories,3,1687.68,0.1,4556.74,3787.44,769.3,Store,Net Banking,Consumer,May,5,Q2,0.16882683672976734
+252,2025-05-27,CUST1064,Customer 1091,Central,Indore,Keyboard,Accessories,2,1199.56,0.0,2399.12,1930.88,468.24,Online,Credit Card,Home Office,May,5,Q2,0.19517156290639903
+994,2025-05-27,CUST1210,Customer 1296,East,Bhubaneswar,Laptop,Electronics,1,61776.02,0.15,52509.62,45069.19,7440.43,Store,Cash,Consumer,May,5,Q2,0.14169651199151698
+18,2025-05-27,CUST1148,Customer 1199,Central,Indore,Monitor,Electronics,2,15845.14,0.05,30105.77,25507.47,4598.3,Store,UPI,Consumer,May,5,Q2,0.15273816281729383
+718,2025-05-27,CUST1279,Customer 1009,North,Delhi,Printer,Electronics,2,13161.12,0.15,22373.9,18391.26,3982.64,Store,Credit Card,Consumer,May,5,Q2,0.17800383482539922
+312,2025-05-28,CUST1108,Customer 1084,South,Hyderabad,Office Chair,Furniture,2,6000.73,0.1,10801.31,8368.57,2432.74,Online,Credit Card,Corporate,May,5,Q2,0.22522638457742625
+88,2025-05-28,CUST1118,Customer 1063,South,Chennai,Keyboard,Accessories,1,2190.97,0.1,1971.87,1619.87,352.0,Online,UPI,Home Office,May,5,Q2,0.17851075375151507
+382,2025-05-29,CUST1116,Customer 1214,West,Ahmedabad,Office Chair,Furniture,3,6391.74,0.0,19175.22,15526.66,3648.56,Online,Net Banking,Consumer,May,5,Q2,0.190274740002983
+771,2025-05-29,CUST1278,Customer 1265,West,Mumbai,Water Bottle,Lifestyle,2,1399.97,0.0,2799.94,2225.01,574.93,Online,UPI,Home Office,May,5,Q2,0.20533654292591982
+813,2025-05-29,CUST1204,Customer 1267,West,Pune,Headphones,Electronics,2,3224.18,0.0,6448.36,5149.57,1298.79,Store,Credit Card,Consumer,May,5,Q2,0.2014140029402825
+505,2025-05-29,CUST1066,Customer 1234,North,Jaipur,Notebook,Stationery,3,251.4,0.02,739.12,598.34,140.78,Online,Net Banking,Home Office,May,5,Q2,0.19046974780820436
+398,2025-05-30,CUST1247,Customer 1267,West,Mumbai,Printer,Electronics,3,9374.18,0.05,26716.41,24358.52,2357.89,Online,Debit Card,Corporate,May,5,Q2,0.08825624400883202
+225,2025-05-30,CUST1083,Customer 1110,East,Patna,Water Bottle,Lifestyle,1,807.06,0.02,790.92,703.13,87.79,Online,Debit Card,Corporate,May,5,Q2,0.11099731957720124
+532,2025-05-30,CUST1132,Customer 1059,East,Bhubaneswar,Backpack,Lifestyle,1,2652.5,0.0,2652.5,1878.3,774.2,Online,Cash,Home Office,May,5,Q2,0.291875589066918
+162,2025-05-30,CUST1293,Customer 1143,South,Bengaluru,Laptop,Electronics,1,69737.47,0.0,69737.47,47167.1,22570.37,Online,Cash,Home Office,May,5,Q2,0.3236476746288616
+601,2025-05-30,CUST1246,Customer 1262,East,Kolkata,Desk,Furniture,1,11424.96,0.15,9711.22,7827.11,1884.11,Store,Cash,Home Office,May,5,Q2,0.19401372845018444
+93,2025-05-31,CUST1085,Customer 1147,Central,Bhopal,Office Chair,Furniture,4,16652.37,0.02,65277.29,42778.75,22498.54,Store,Net Banking,Home Office,May,5,Q2,0.3446610605311587
+923,2025-05-31,CUST1207,Customer 1255,Central,Indore,Mouse,Accessories,4,1622.2,0.02,6359.02,5346.05,1012.97,Online,UPI,Consumer,May,5,Q2,0.1592965582747027
+987,2025-06-01,CUST1061,Customer 1018,Central,Bhopal,Mouse,Accessories,2,2141.93,0.0,4283.86,3619.5,664.36,Store,UPI,Consumer,Jun,6,Q2,0.15508443319809706
+721,2025-06-01,CUST1237,Customer 1088,South,Bengaluru,Office Chair,Furniture,2,9362.92,0.15,15916.96,13967.38,1949.58,Online,Debit Card,Corporate,Jun,6,Q2,0.12248444426573919
+185,2025-06-01,CUST1017,Customer 1133,Central,Nagpur,Desk,Furniture,1,5017.5,0.0,5017.5,3204.89,1812.61,Store,Net Banking,Corporate,Jun,6,Q2,0.36125759840558047
+814,2025-06-02,CUST1158,Customer 1139,South,Chennai,Headphones,Electronics,2,2624.73,0.0,5249.46,4217.31,1032.15,Online,UPI,Corporate,Jun,6,Q2,0.19662022379444744
+576,2025-06-02,CUST1182,Customer 1125,South,Bengaluru,Printer,Electronics,1,19737.6,0.02,19342.85,14869.07,4473.78,Online,Net Banking,Corporate,Jun,6,Q2,0.23128856399134565
+326,2025-06-02,CUST1237,Customer 1032,South,Hyderabad,Printer,Electronics,4,11710.18,0.02,45903.91,39131.88,6772.03,Online,Net Banking,Corporate,Jun,6,Q2,0.1475262129086607
+102,2025-06-03,CUST1073,Customer 1201,West,Ahmedabad,Laptop,Electronics,2,64927.32,0.05,123361.91,91794.69,31567.22,Store,UPI,Consumer,Jun,6,Q2,0.2558911417632882
+155,2025-06-03,CUST1153,Customer 1012,North,Lucknow,Keyboard,Accessories,1,3131.0,0.1,2817.9,1962.09,855.81,Online,Credit Card,Consumer,Jun,6,Q2,0.303704886617694
+689,2025-06-03,CUST1036,Customer 1048,South,Bengaluru,Backpack,Lifestyle,2,3435.23,0.15,5839.89,5833.96,5.93,Online,Cash,Corporate,Jun,6,Q2,0.0010154300851557135
+862,2025-06-04,CUST1175,Customer 1115,North,Jaipur,Office Chair,Furniture,2,13303.44,0.15,22615.85,19517.8,3098.05,Store,UPI,Corporate,Jun,6,Q2,0.13698578651697815
+535,2025-06-05,CUST1016,Customer 1165,West,Ahmedabad,Backpack,Lifestyle,2,3048.81,0.1,5487.86,3867.1,1620.76,Online,UPI,Corporate,Jun,6,Q2,0.2953355224076416
+885,2025-06-05,CUST1074,Customer 1090,South,Bengaluru,Notebook,Stationery,1,87.83,0.1,79.05,54.73,24.32,Online,Cash,Home Office,Jun,6,Q2,0.30765338393421887
+284,2025-06-05,CUST1070,Customer 1169,East,Kolkata,Laptop,Electronics,2,74623.85,0.02,146262.75,125664.19,20598.56,Store,Cash,Home Office,Jun,6,Q2,0.14083257698901464
+873,2025-06-05,CUST1026,Customer 1082,Central,Bhopal,Water Bottle,Lifestyle,2,694.56,0.15,1180.75,967.42,213.33,Online,Debit Card,Consumer,Jun,6,Q2,0.18067330086809233
+749,2025-06-05,CUST1168,Customer 1166,North,Lucknow,Backpack,Lifestyle,1,1357.81,0.02,1330.65,924.52,406.13,Online,Net Banking,Consumer,Jun,6,Q2,0.3052117386239807
+275,2025-06-05,CUST1272,Customer 1175,East,Kolkata,Monitor,Electronics,1,9874.79,0.0,9874.79,6923.06,2951.73,Online,Cash,Corporate,Jun,6,Q2,0.29891572377741704
+811,2025-06-07,CUST1259,Customer 1251,Central,Bhopal,Backpack,Lifestyle,2,3333.12,0.05,6332.93,4279.33,2053.6,Store,Debit Card,Home Office,Jun,6,Q2,0.32427328266694877
+111,2025-06-07,CUST1146,Customer 1293,West,Mumbai,Laptop,Electronics,1,59775.54,0.15,50809.21,42572.24,8236.97,Online,UPI,Consumer,Jun,6,Q2,0.16211568729370127
+152,2025-06-08,CUST1098,Customer 1102,North,Delhi,Printer,Electronics,2,21893.39,0.0,43786.78,28177.9,15608.88,Store,Cash,Corporate,Jun,6,Q2,0.3564747167980838
+410,2025-06-08,CUST1163,Customer 1189,West,Pune,Backpack,Lifestyle,4,2055.77,0.1,7400.77,7187.73,213.04,Online,Debit Card,Home Office,Jun,6,Q2,0.02878619386901633
+417,2025-06-08,CUST1057,Customer 1078,West,Ahmedabad,Notebook,Stationery,1,328.79,0.1,295.91,265.76,30.15,Store,Net Banking,Home Office,Jun,6,Q2,0.10188908789834746
+928,2025-06-09,CUST1166,Customer 1205,West,Ahmedabad,Smartphone,Electronics,3,32715.97,0.0,98147.91,83314.27,14833.64,Online,Credit Card,Home Office,Jun,6,Q2,0.15113556671762035
+20,2025-06-09,CUST1009,Customer 1233,West,Mumbai,Smartphone,Electronics,3,54861.39,0.1,148125.75,125932.61,22193.14,Online,Debit Card,Home Office,Jun,6,Q2,0.14982634687081753
+147,2025-06-10,CUST1179,Customer 1206,Central,Nagpur,Office Chair,Furniture,2,7921.12,0.15,13465.9,10186.95,3278.95,Store,Credit Card,Consumer,Jun,6,Q2,0.24350024877653925
+425,2025-06-10,CUST1131,Customer 1188,North,Delhi,Smartphone,Electronics,3,42882.77,0.15,109351.06,102997.12,6353.94,Online,Net Banking,Home Office,Jun,6,Q2,0.05810588393016035
+539,2025-06-10,CUST1141,Customer 1097,West,Mumbai,Desk,Furniture,4,9140.22,0.05,34732.84,30115.58,4617.26,Store,Net Banking,Home Office,Jun,6,Q2,0.132936437101026
+668,2025-06-10,CUST1270,Customer 1056,West,Mumbai,Mouse,Accessories,1,1156.99,0.02,1133.85,886.43,247.42,Store,UPI,Consumer,Jun,6,Q2,0.21821228557569344
+656,2025-06-10,CUST1287,Customer 1123,East,Patna,Office Chair,Furniture,1,6872.04,0.05,6528.44,5372.68,1155.76,Store,Cash,Corporate,Jun,6,Q2,0.17703463614584802
+208,2025-06-10,CUST1178,Customer 1117,North,Lucknow,Headphones,Electronics,2,7809.64,0.0,15619.28,10427.18,5192.1,Store,Credit Card,Consumer,Jun,6,Q2,0.3324160908825503
+865,2025-06-10,CUST1259,Customer 1095,Central,Bhopal,Water Bottle,Lifestyle,1,645.06,0.1,580.55,471.48,109.07,Store,Credit Card,Corporate,Jun,6,Q2,0.18787356816811646
+267,2025-06-11,CUST1100,Customer 1141,Central,Nagpur,Notebook,Stationery,1,112.61,0.05,106.98,77.73,29.25,Online,UPI,Corporate,Jun,6,Q2,0.27341559169938306
+932,2025-06-11,CUST1201,Customer 1275,West,Ahmedabad,Backpack,Lifestyle,1,1447.2,0.0,1447.2,987.6,459.6,Store,UPI,Home Office,Jun,6,Q2,0.3175787728026534
+290,2025-06-12,CUST1099,Customer 1113,North,Delhi,Office Chair,Furniture,2,9832.41,0.1,17698.34,16048.63,1649.71,Online,Debit Card,Corporate,Jun,6,Q2,0.09321269678399217
+8,2025-06-12,CUST1289,Customer 1261,North,Delhi,Notebook,Stationery,4,173.92,0.05,660.9,467.29,193.61,Store,Credit Card,Consumer,Jun,6,Q2,0.2929490089272205
+727,2025-06-12,CUST1271,Customer 1096,South,Hyderabad,Headphones,Electronics,4,2101.5,0.1,7565.4,5313.14,2252.26,Store,Net Banking,Consumer,Jun,6,Q2,0.2977053427446005
+348,2025-06-12,CUST1143,Customer 1253,Central,Indore,Water Bottle,Lifestyle,1,1268.0,0.05,1204.6,1115.06,89.54,Online,UPI,Home Office,Jun,6,Q2,0.07433172837456418
+90,2025-06-15,CUST1132,Customer 1264,East,Patna,Smartphone,Electronics,2,37402.44,0.0,74804.88,54173.57,20631.31,Online,Debit Card,Corporate,Jun,6,Q2,0.27580165892920355
+802,2025-06-15,CUST1026,Customer 1017,South,Hyderabad,Smartphone,Electronics,3,34122.17,0.1,92129.86,73810.8,18319.06,Store,Cash,Home Office,Jun,6,Q2,0.19883955104240905
+548,2025-06-16,CUST1082,Customer 1072,East,Patna,Office Chair,Furniture,1,11644.22,0.05,11062.01,9359.72,1702.29,Store,Credit Card,Home Office,Jun,6,Q2,0.1538861382334675
+715,2025-06-17,CUST1109,Customer 1207,East,Kolkata,Mouse,Accessories,1,1758.03,0.05,1670.13,1452.29,217.84,Online,Cash,Corporate,Jun,6,Q2,0.13043296030847898
+212,2025-06-17,CUST1058,Customer 1284,West,Pune,Desk,Furniture,4,5515.05,0.1,19854.18,18670.66,1183.52,Store,UPI,Home Office,Jun,6,Q2,0.05961062103798797
+523,2025-06-18,CUST1181,Customer 1178,West,Mumbai,Keyboard,Accessories,1,2250.82,0.02,2205.8,1816.41,389.39,Online,Credit Card,Home Office,Jun,6,Q2,0.17653005712213254
+700,2025-06-18,CUST1287,Customer 1085,West,Ahmedabad,Printer,Electronics,1,8874.42,0.1,7986.98,6111.22,1875.76,Store,Credit Card,Home Office,Jun,6,Q2,0.23485222199129083
+209,2025-06-18,CUST1086,Customer 1177,North,Delhi,Desk,Furniture,1,5377.23,0.1,4839.51,4344.43,495.08,Online,Credit Card,Corporate,Jun,6,Q2,0.10229961297734687
+900,2025-06-19,CUST1274,Customer 1254,South,Chennai,Printer,Electronics,2,7322.67,0.02,14352.43,9786.12,4566.31,Online,Net Banking,Corporate,Jun,6,Q2,0.318155880223767
+352,2025-06-19,CUST1166,Customer 1014,East,Kolkata,Headphones,Electronics,1,4212.8,0.1,3791.52,3555.06,236.46,Online,Debit Card,Consumer,Jun,6,Q2,0.06236548930244335
+597,2025-06-19,CUST1167,Customer 1188,East,Patna,Water Bottle,Lifestyle,1,323.97,0.05,307.77,239.22,68.55,Online,UPI,Home Office,Jun,6,Q2,0.2227312603567599
+744,2025-06-19,CUST1271,Customer 1139,East,Patna,Printer,Electronics,1,13680.3,0.02,13406.69,9020.5,4386.19,Online,Cash,Corporate,Jun,6,Q2,0.3271642739557638
+845,2025-06-19,CUST1082,Customer 1154,West,Pune,Mouse,Accessories,4,2188.36,0.05,8315.77,6584.51,1731.26,Online,Credit Card,Corporate,Jun,6,Q2,0.20818998120438637
+754,2025-06-20,CUST1067,Customer 1113,South,Hyderabad,Notebook,Stationery,1,245.16,0.15,208.39,195.85,12.54,Store,Credit Card,Home Office,Jun,6,Q2,0.06017563222803397
+593,2025-06-20,CUST1162,Customer 1286,South,Chennai,Keyboard,Accessories,2,2003.89,0.02,3927.62,3247.45,680.17,Online,Debit Card,Consumer,Jun,6,Q2,0.1731761219262556
+897,2025-06-21,CUST1289,Customer 1033,Central,Nagpur,Desk,Furniture,2,5864.12,0.05,11141.83,7382.87,3758.96,Store,Cash,Consumer,Jun,6,Q2,0.33737366303381044
+973,2025-06-21,CUST1272,Customer 1150,East,Patna,Smartphone,Electronics,4,50256.52,0.02,197005.56,135426.4,61579.16,Store,Credit Card,Home Office,Jun,6,Q2,0.31257574659314186
+936,2025-06-23,CUST1074,Customer 1143,West,Mumbai,Mouse,Accessories,2,658.59,0.1,1185.46,869.06,316.4,Online,Cash,Corporate,Jun,6,Q2,0.26690061242049495
+45,2025-06-23,CUST1141,Customer 1168,West,Mumbai,Backpack,Lifestyle,1,3076.11,0.15,2614.69,2577.8,36.89,Store,UPI,Corporate,Jun,6,Q2,0.014108747117249082
+405,2025-06-24,CUST1076,Customer 1101,West,Mumbai,Desk,Furniture,2,15164.78,0.1,27296.6,19203.02,8093.58,Store,Credit Card,Home Office,Jun,6,Q2,0.2965050592381469
+450,2025-06-24,CUST1076,Customer 1114,North,Jaipur,Smartphone,Electronics,1,47508.02,0.02,46557.86,36210.68,10347.18,Online,UPI,Home Office,Jun,6,Q2,0.22224346222098695
+653,2025-06-25,CUST1096,Customer 1103,North,Jaipur,Notebook,Stationery,4,145.67,0.0,582.68,380.29,202.39,Store,Credit Card,Home Office,Jun,6,Q2,0.34734331022173404
+757,2025-06-25,CUST1233,Customer 1151,North,Delhi,Backpack,Lifestyle,1,2915.86,0.02,2857.54,2296.64,560.9,Store,Net Banking,Consumer,Jun,6,Q2,0.19628771600747497
+840,2025-06-25,CUST1108,Customer 1211,South,Bengaluru,Desk,Furniture,2,5560.32,0.05,10564.61,9087.62,1476.99,Online,Credit Card,Home Office,Jun,6,Q2,0.13980544478215476
+581,2025-06-25,CUST1079,Customer 1002,East,Patna,Headphones,Electronics,1,2960.94,0.02,2901.72,1987.19,914.53,Online,Cash,Corporate,Jun,6,Q2,0.3151682450408723
+733,2025-06-26,CUST1169,Customer 1286,South,Hyderabad,Desk,Furniture,4,11631.27,0.02,45594.58,29846.4,15748.18,Online,Debit Card,Home Office,Jun,6,Q2,0.3453958781942941
+671,2025-06-26,CUST1057,Customer 1203,East,Patna,Notebook,Stationery,2,160.64,0.05,305.22,247.78,57.44,Online,UPI,Corporate,Jun,6,Q2,0.18819212371404231
+42,2025-06-26,CUST1100,Customer 1233,North,Delhi,Monitor,Electronics,3,26355.61,0.15,67206.81,67431.04,-224.23,Online,Cash,Consumer,Jun,6,Q2,-0.0033364178421799815
+751,2025-06-27,CUST1242,Customer 1203,North,Lucknow,Mouse,Accessories,1,797.14,0.15,677.57,610.53,67.04,Online,UPI,Corporate,Jun,6,Q2,0.09894180675059404
+980,2025-06-27,CUST1280,Customer 1017,South,Hyderabad,Office Chair,Furniture,2,8582.24,0.05,16306.26,14739.95,1566.31,Store,Credit Card,Corporate,Jun,6,Q2,0.09605574791521783
+473,2025-06-27,CUST1063,Customer 1165,East,Bhubaneswar,Office Chair,Furniture,1,9984.16,0.05,9484.95,8361.48,1123.47,Online,Debit Card,Home Office,Jun,6,Q2,0.1184476460076226
+844,2025-06-27,CUST1297,Customer 1106,Central,Nagpur,Notebook,Stationery,1,349.26,0.15,296.87,275.06,21.81,Online,Net Banking,Consumer,Jun,6,Q2,0.07346650048842927
+867,2025-06-28,CUST1062,Customer 1119,Central,Nagpur,Printer,Electronics,1,13734.27,0.1,12360.84,9788.19,2572.65,Online,Net Banking,Corporate,Jun,6,Q2,0.20812905919015212
+231,2025-06-28,CUST1132,Customer 1028,South,Bengaluru,Mouse,Accessories,1,1532.05,0.1,1378.85,1264.08,114.77,Store,Cash,Consumer,Jun,6,Q2,0.08323603002502085
+788,2025-06-28,CUST1288,Customer 1281,East,Bhubaneswar,Desk,Furniture,2,11245.06,0.02,22040.32,18656.07,3384.25,Store,Cash,Consumer,Jun,6,Q2,0.15354813360241593
+37,2025-06-28,CUST1101,Customer 1268,West,Ahmedabad,Monitor,Electronics,1,21084.96,0.05,20030.71,16599.24,3431.47,Online,UPI,Consumer,Jun,6,Q2,0.171310452799726
+452,2025-06-29,CUST1253,Customer 1126,West,Ahmedabad,Notebook,Stationery,1,214.4,0.0,214.4,179.34,35.06,Online,Net Banking,Corporate,Jun,6,Q2,0.1635261194029851
+408,2025-06-29,CUST1231,Customer 1038,Central,Indore,Office Chair,Furniture,1,15437.07,0.15,13121.51,10954.96,2166.55,Store,Cash,Home Office,Jun,6,Q2,0.16511438089061398
+895,2025-06-29,CUST1020,Customer 1112,Central,Indore,Backpack,Lifestyle,1,3229.11,0.02,3164.53,2603.71,560.82,Store,Credit Card,Home Office,Jun,6,Q2,0.17722062991976692
+960,2025-06-29,CUST1292,Customer 1264,West,Mumbai,Notebook,Stationery,1,390.58,0.02,382.77,274.98,107.79,Store,Debit Card,Consumer,Jun,6,Q2,0.2816051414687672
+493,2025-06-29,CUST1224,Customer 1006,East,Bhubaneswar,Smartphone,Electronics,1,52190.7,0.0,52190.7,39982.49,12208.21,Online,Credit Card,Home Office,Jun,6,Q2,0.23391542937726453
+583,2025-06-29,CUST1181,Customer 1169,East,Kolkata,Monitor,Electronics,2,26640.4,0.1,47952.72,34236.3,13716.42,Store,Credit Card,Consumer,Jun,6,Q2,0.286040499892394
+220,2025-06-29,CUST1034,Customer 1041,South,Bengaluru,Notebook,Stationery,3,344.31,0.0,1032.93,704.84,328.09,Online,Credit Card,Corporate,Jun,6,Q2,0.3176304299420096
+938,2025-07-01,CUST1147,Customer 1268,Central,Bhopal,Backpack,Lifestyle,1,2432.1,0.15,2067.28,1676.34,390.94,Online,Cash,Home Office,Jul,7,Q3,0.1891083936380171
+602,2025-07-02,CUST1251,Customer 1009,East,Patna,Office Chair,Furniture,1,6942.67,0.15,5901.27,5132.46,768.81,Online,Cash,Corporate,Jul,7,Q3,0.1302787366109329
+181,2025-07-02,CUST1117,Customer 1282,Central,Nagpur,Headphones,Electronics,1,3007.79,0.15,2556.62,2525.14,31.48,Store,Cash,Corporate,Jul,7,Q3,0.012313132182334489
+506,2025-07-02,CUST1268,Customer 1296,North,Jaipur,Notebook,Stationery,2,316.21,0.05,600.8,546.45,54.35,Store,Cash,Corporate,Jul,7,Q3,0.09046271637816246
+665,2025-07-05,CUST1113,Customer 1165,East,Bhubaneswar,Water Bottle,Lifestyle,4,1365.93,0.02,5354.45,4249.75,1104.7,Online,Cash,Corporate,Jul,7,Q3,0.20631437402534342
+565,2025-07-06,CUST1038,Customer 1226,South,Bengaluru,Water Bottle,Lifestyle,4,563.83,0.02,2210.21,1925.7,284.51,Online,Credit Card,Home Office,Jul,7,Q3,0.12872532474289772
+761,2025-07-06,CUST1052,Customer 1087,North,Delhi,Monitor,Electronics,1,23015.73,0.0,23015.73,19485.2,3530.53,Online,Net Banking,Consumer,Jul,7,Q3,0.15339639455276893
+951,2025-07-06,CUST1150,Customer 1264,South,Hyderabad,Office Chair,Furniture,2,7621.52,0.15,12956.58,12574.15,382.43,Store,UPI,Corporate,Jul,7,Q3,0.029516276671776042
+378,2025-07-07,CUST1083,Customer 1186,East,Bhubaneswar,Monitor,Electronics,1,23240.39,0.0,23240.39,16505.1,6735.29,Store,Debit Card,Corporate,Jul,7,Q3,0.28980968047438105
+584,2025-07-07,CUST1159,Customer 1243,West,Ahmedabad,Office Chair,Furniture,1,6335.99,0.15,5385.59,4638.3,747.29,Online,UPI,Consumer,Jul,7,Q3,0.13875731349768547
+675,2025-07-07,CUST1230,Customer 1271,North,Delhi,Smartphone,Electronics,1,53070.95,0.15,45110.31,34082.41,11027.9,Online,Debit Card,Home Office,Jul,7,Q3,0.24446517880280583
+259,2025-07-07,CUST1128,Customer 1201,West,Mumbai,Keyboard,Accessories,2,2799.29,0.15,4758.79,4567.83,190.96,Online,UPI,Home Office,Jul,7,Q3,0.0401278476251316
+435,2025-07-07,CUST1004,Customer 1132,Central,Bhopal,Mouse,Accessories,1,1975.89,0.0,1975.89,1308.55,667.34,Online,Credit Card,Consumer,Jul,7,Q3,0.33774147346259153
+281,2025-07-07,CUST1057,Customer 1047,West,Ahmedabad,Water Bottle,Lifestyle,4,1271.83,0.1,4578.59,3600.34,978.25,Online,UPI,Corporate,Jul,7,Q3,0.21365747970445048
+925,2025-07-07,CUST1057,Customer 1251,Central,Bhopal,Backpack,Lifestyle,4,2725.63,0.15,9267.14,9231.68,35.46,Store,Cash,Corporate,Jul,7,Q3,0.0038264232546395115
+790,2025-07-07,CUST1057,Customer 1199,South,Chennai,Smartphone,Electronics,4,25268.33,0.15,85912.32,72954.69,12957.63,Online,Credit Card,Corporate,Jul,7,Q3,0.15082388649264736
+525,2025-07-08,CUST1255,Customer 1068,North,Lucknow,Office Chair,Furniture,4,7718.27,0.05,29329.43,20775.08,8554.35,Store,Net Banking,Corporate,Jul,7,Q3,0.2916643794304901
+33,2025-07-08,CUST1192,Customer 1069,South,Chennai,Mouse,Accessories,2,1714.81,0.15,2915.18,2695.51,219.67,Store,Net Banking,Home Office,Jul,7,Q3,0.07535383749888515
+618,2025-07-08,CUST1017,Customer 1019,Central,Bhopal,Office Chair,Furniture,1,9401.95,0.02,9213.91,7266.34,1947.57,Online,Debit Card,Consumer,Jul,7,Q3,0.2113728048135916
+3,2025-07-09,CUST1175,Customer 1051,North,Lucknow,Water Bottle,Lifestyle,2,779.83,0.1,1403.69,1115.55,288.14,Store,Cash,Consumer,Jul,7,Q3,0.20527324409235656
+99,2025-07-09,CUST1122,Customer 1046,West,Mumbai,Printer,Electronics,1,13908.38,0.15,11822.12,11653.94,168.18,Store,Credit Card,Corporate,Jul,7,Q3,0.014225874885384347
+717,2025-07-09,CUST1089,Customer 1116,West,Mumbai,Notebook,Stationery,1,269.06,0.0,269.06,177.35,91.71,Store,UPI,Corporate,Jul,7,Q3,0.340853341262172
+627,2025-07-10,CUST1181,Customer 1078,South,Hyderabad,Smartphone,Electronics,1,19016.41,0.05,18065.59,16702.69,1362.9,Store,Cash,Home Office,Jul,7,Q3,0.07544176525649038
+637,2025-07-10,CUST1147,Customer 1255,West,Mumbai,Headphones,Electronics,4,7264.74,0.05,27606.01,18153.16,9452.85,Store,Net Banking,Home Office,Jul,7,Q3,0.342420002021299
+762,2025-07-10,CUST1189,Customer 1151,South,Bengaluru,Desk,Furniture,1,15537.01,0.15,13206.46,12894.85,311.61,Store,Cash,Corporate,Jul,7,Q3,0.023595270799290653
+305,2025-07-12,CUST1283,Customer 1013,West,Ahmedabad,Headphones,Electronics,1,6002.11,0.0,6002.11,4565.15,1436.96,Store,Debit Card,Home Office,Jul,7,Q3,0.23940914111870662
+934,2025-07-12,CUST1073,Customer 1118,Central,Indore,Keyboard,Accessories,1,1426.02,0.15,1212.12,886.27,325.85,Store,UPI,Corporate,Jul,7,Q3,0.26882651882651887
+701,2025-07-12,CUST1132,Customer 1138,North,Jaipur,Mouse,Accessories,1,824.88,0.1,742.39,517.81,224.58,Online,Debit Card,Corporate,Jul,7,Q3,0.30250946268134
+626,2025-07-13,CUST1123,Customer 1136,South,Chennai,Office Chair,Furniture,1,16043.04,0.05,15240.89,11912.66,3328.23,Online,Debit Card,Consumer,Jul,7,Q3,0.2183750424023794
+663,2025-07-13,CUST1016,Customer 1077,South,Hyderabad,Printer,Electronics,4,8491.08,0.1,30567.89,22928.21,7639.68,Online,UPI,Consumer,Jul,7,Q3,0.24992500300151566
+71,2025-07-13,CUST1203,Customer 1026,West,Ahmedabad,Mouse,Accessories,3,2157.61,0.05,6149.19,5394.61,754.58,Online,Net Banking,Consumer,Jul,7,Q3,0.12271209704042323
+939,2025-07-14,CUST1107,Customer 1134,North,Delhi,Backpack,Lifestyle,2,1156.2,0.1,2081.16,1568.08,513.08,Store,Debit Card,Home Office,Jul,7,Q3,0.24653558592323516
+278,2025-07-14,CUST1157,Customer 1098,North,Lucknow,Printer,Electronics,2,10658.31,0.05,20250.79,14895.16,5355.63,Store,Cash,Consumer,Jul,7,Q3,0.2644652381462649
+248,2025-07-15,CUST1274,Customer 1201,South,Bengaluru,Keyboard,Accessories,2,3380.98,0.05,6423.86,5754.33,669.53,Online,Net Banking,Consumer,Jul,7,Q3,0.10422549681966917
+918,2025-07-15,CUST1248,Customer 1166,West,Ahmedabad,Monitor,Electronics,1,15417.11,0.05,14646.25,11089.67,3556.58,Store,Net Banking,Home Office,Jul,7,Q3,0.24283212426389006
+165,2025-07-15,CUST1269,Customer 1049,West,Mumbai,Laptop,Electronics,1,66915.01,0.0,66915.01,45430.65,21484.36,Store,Credit Card,Consumer,Jul,7,Q3,0.3210693684421478
+731,2025-07-15,CUST1111,Customer 1258,South,Chennai,Laptop,Electronics,2,74628.95,0.15,126869.21,104756.55,22112.66,Online,UPI,Consumer,Jul,7,Q3,0.1742949294001279
+483,2025-07-15,CUST1071,Customer 1248,North,Lucknow,Smartphone,Electronics,1,50043.32,0.02,49042.45,37987.45,11055.0,Store,Credit Card,Home Office,Jul,7,Q3,0.22541696020488375
+552,2025-07-15,CUST1297,Customer 1252,West,Ahmedabad,Smartphone,Electronics,4,46836.51,0.1,168611.44,164053.04,4558.4,Online,Credit Card,Corporate,Jul,7,Q3,0.027034939029048084
+385,2025-07-16,CUST1073,Customer 1059,Central,Bhopal,Keyboard,Accessories,1,2052.75,0.15,1744.84,1584.97,159.87,Store,Credit Card,Consumer,Jul,7,Q3,0.09162444694069372
+395,2025-07-16,CUST1221,Customer 1060,South,Bengaluru,Printer,Electronics,3,10571.19,0.02,31079.3,22258.32,8820.98,Store,Debit Card,Corporate,Jul,7,Q3,0.28382170769611925
+857,2025-07-16,CUST1142,Customer 1252,West,Ahmedabad,Notebook,Stationery,1,181.82,0.0,181.82,119.81,62.01,Store,Credit Card,Home Office,Jul,7,Q3,0.34105158948410513
+807,2025-07-16,CUST1109,Customer 1079,South,Hyderabad,Keyboard,Accessories,1,2885.81,0.1,2597.23,2405.81,191.42,Store,UPI,Home Office,Jul,7,Q3,0.07370159747115196
+78,2025-07-17,CUST1134,Customer 1067,North,Delhi,Office Chair,Furniture,2,11914.15,0.05,22636.88,18136.69,4500.19,Online,Debit Card,Corporate,Jul,7,Q3,0.1987990394435982
+760,2025-07-17,CUST1159,Customer 1080,North,Lucknow,Headphones,Electronics,1,5376.35,0.0,5376.35,4476.65,899.7,Online,UPI,Corporate,Jul,7,Q3,0.1673440159215825
+293,2025-07-18,CUST1154,Customer 1040,East,Kolkata,Headphones,Electronics,1,3419.1,0.05,3248.14,2247.69,1000.45,Online,Net Banking,Corporate,Jul,7,Q3,0.30800704403135337
+632,2025-07-18,CUST1162,Customer 1234,North,Jaipur,Notebook,Stationery,1,109.96,0.1,98.96,85.64,13.32,Online,Cash,Consumer,Jul,7,Q3,0.13459983831851255
+427,2025-07-19,CUST1298,Customer 1240,West,Ahmedabad,Keyboard,Accessories,1,2950.57,0.05,2803.04,2002.75,800.29,Online,Credit Card,Home Office,Jul,7,Q3,0.2855078771619385
+549,2025-07-19,CUST1255,Customer 1179,West,Pune,Notebook,Stationery,4,226.53,0.0,906.12,766.07,140.05,Online,Credit Card,Consumer,Jul,7,Q3,0.15456010241469123
+515,2025-07-19,CUST1248,Customer 1070,South,Chennai,Laptop,Electronics,3,67470.38,0.05,192290.58,129989.4,62301.18,Online,UPI,Corporate,Jul,7,Q3,0.32399496636808733
+834,2025-07-19,CUST1216,Customer 1205,West,Pune,Laptop,Electronics,1,68903.93,0.02,67525.85,49488.67,18037.18,Online,Debit Card,Corporate,Jul,7,Q3,0.26711518625829955
+479,2025-07-20,CUST1197,Customer 1185,North,Lucknow,Printer,Electronics,2,12964.2,0.05,24631.98,16444.58,8187.4,Store,UPI,Home Office,Jul,7,Q3,0.3323890324691722
+161,2025-07-21,CUST1146,Customer 1164,East,Kolkata,Monitor,Electronics,1,14770.93,0.1,13293.84,10785.32,2508.52,Store,UPI,Home Office,Jul,7,Q3,0.18869792324866252
+930,2025-07-21,CUST1250,Customer 1069,South,Hyderabad,Smartphone,Electronics,1,47352.03,0.02,46404.99,40915.83,5489.16,Store,Credit Card,Consumer,Jul,7,Q3,0.11828814099518177
+903,2025-07-22,CUST1239,Customer 1234,South,Hyderabad,Notebook,Stationery,2,294.88,0.05,560.27,451.55,108.72,Online,Net Banking,Corporate,Jul,7,Q3,0.19404929766005677
+664,2025-07-22,CUST1061,Customer 1026,West,Ahmedabad,Office Chair,Furniture,2,9749.77,0.15,16574.61,14901.57,1673.04,Online,UPI,Home Office,Jul,7,Q3,0.10093993161830052
+345,2025-07-23,CUST1161,Customer 1028,West,Ahmedabad,Office Chair,Furniture,2,7440.39,0.02,14583.16,11930.32,2652.84,Store,UPI,Consumer,Jul,7,Q3,0.1819111907158668
+772,2025-07-23,CUST1006,Customer 1297,North,Delhi,Desk,Furniture,2,6664.99,0.05,12663.48,10373.0,2290.48,Online,Net Banking,Home Office,Jul,7,Q3,0.18087287222785522
+679,2025-07-24,CUST1152,Customer 1026,West,Mumbai,Water Bottle,Lifestyle,4,375.9,0.15,1278.06,1169.71,108.35,Store,UPI,Consumer,Jul,7,Q3,0.08477692753078885
+739,2025-07-24,CUST1214,Customer 1056,South,Bengaluru,Printer,Electronics,3,10100.68,0.0,30302.04,24065.51,6236.53,Online,Net Banking,Home Office,Jul,7,Q3,0.205812215943217
+750,2025-07-24,CUST1195,Customer 1158,Central,Indore,Water Bottle,Lifestyle,2,1109.02,0.05,2107.14,1618.86,488.28,Store,Net Banking,Home Office,Jul,7,Q3,0.23172641590022494
+465,2025-07-25,CUST1179,Customer 1197,West,Ahmedabad,Smartphone,Electronics,2,43177.74,0.15,73402.16,74523.17,-1121.01,Online,UPI,Home Office,Jul,7,Q3,-0.015272166377665179
+338,2025-07-25,CUST1040,Customer 1059,West,Mumbai,Water Bottle,Lifestyle,1,351.41,0.05,333.84,224.27,109.57,Online,Cash,Home Office,Jul,7,Q3,0.32821111909896955
+859,2025-07-26,CUST1283,Customer 1245,North,Jaipur,Headphones,Electronics,4,3469.94,0.05,13185.77,11020.62,2165.15,Online,UPI,Consumer,Jul,7,Q3,0.1642035315343738
+858,2025-07-27,CUST1257,Customer 1205,East,Bhubaneswar,Monitor,Electronics,1,14635.14,0.15,12439.87,9079.8,3360.07,Online,Debit Card,Consumer,Jul,7,Q3,0.270104912671917
+22,2025-07-27,CUST1169,Customer 1161,North,Delhi,Smartphone,Electronics,1,23949.9,0.02,23470.9,19157.35,4313.55,Store,UPI,Corporate,Jul,7,Q3,0.1837828971194117
+379,2025-07-27,CUST1137,Customer 1184,East,Kolkata,Backpack,Lifestyle,1,1792.81,0.1,1613.53,1198.12,415.41,Store,Net Banking,Consumer,Jul,7,Q3,0.2574541533160214
+393,2025-07-27,CUST1220,Customer 1190,South,Chennai,Keyboard,Accessories,4,989.29,0.1,3561.44,3025.82,535.62,Store,Net Banking,Corporate,Jul,7,Q3,0.15039422256166046
+546,2025-07-28,CUST1129,Customer 1288,South,Bengaluru,Headphones,Electronics,1,5357.12,0.05,5089.26,3558.84,1530.42,Store,UPI,Home Office,Jul,7,Q3,0.3007156246684194
+959,2025-07-28,CUST1293,Customer 1252,Central,Bhopal,Notebook,Stationery,1,140.44,0.0,140.44,97.69,42.75,Store,Credit Card,Home Office,Jul,7,Q3,0.30440045571062374
+636,2025-07-29,CUST1041,Customer 1173,Central,Indore,Smartphone,Electronics,1,38132.66,0.0,38132.66,31146.79,6985.87,Store,UPI,Corporate,Jul,7,Q3,0.1831991264181413
+776,2025-07-29,CUST1029,Customer 1039,Central,Nagpur,Headphones,Electronics,1,5896.23,0.02,5778.31,4227.29,1551.02,Online,Cash,Consumer,Jul,7,Q3,0.2684210435231062
+654,2025-07-29,CUST1144,Customer 1096,West,Ahmedabad,Smartphone,Electronics,3,27704.15,0.0,83112.45,54920.26,28192.19,Store,Credit Card,Corporate,Jul,7,Q3,0.33920537777432863
+365,2025-07-30,CUST1249,Customer 1227,East,Kolkata,Smartphone,Electronics,1,35422.09,0.1,31879.88,26411.67,5468.21,Store,Credit Card,Home Office,Jul,7,Q3,0.17152542606810314
+138,2025-07-30,CUST1150,Customer 1037,Central,Indore,Keyboard,Accessories,1,2578.51,0.1,2320.66,1971.0,349.66,Store,UPI,Home Office,Jul,7,Q3,0.1506726534692717
+351,2025-07-30,CUST1139,Customer 1110,East,Patna,Smartphone,Electronics,1,44173.69,0.0,44173.69,30016.36,14157.33,Store,Cash,Consumer,Jul,7,Q3,0.3204923564230201
+543,2025-07-30,CUST1118,Customer 1191,East,Kolkata,Laptop,Electronics,1,73191.91,0.15,62213.12,60806.21,1406.91,Store,Credit Card,Home Office,Jul,7,Q3,0.022614361729487286
+730,2025-07-30,CUST1280,Customer 1026,Central,Nagpur,Water Bottle,Lifestyle,1,1364.2,0.15,1159.57,1111.73,47.84,Online,Cash,Corporate,Jul,7,Q3,0.041256672732133466
+52,2025-07-31,CUST1220,Customer 1240,West,Mumbai,Printer,Electronics,1,10159.2,0.0,10159.2,7037.67,3121.53,Online,Net Banking,Corporate,Jul,7,Q3,0.30726139853531775
+657,2025-07-31,CUST1113,Customer 1044,South,Hyderabad,Backpack,Lifestyle,3,2018.89,0.0,6056.67,4890.87,1165.8,Store,Cash,Corporate,Jul,7,Q3,0.19248200743973173
+180,2025-08-01,CUST1242,Customer 1213,Central,Bhopal,Office Chair,Furniture,4,6782.43,0.15,23060.26,18338.4,4721.86,Online,Credit Card,Consumer,Aug,8,Q3,0.20476178499288386
+724,2025-08-01,CUST1101,Customer 1056,South,Chennai,Office Chair,Furniture,2,14411.86,0.05,27382.53,20928.63,6453.9,Store,Cash,Home Office,Aug,8,Q3,0.23569407209633295
+323,2025-08-02,CUST1256,Customer 1135,South,Hyderabad,Mouse,Accessories,1,1834.67,0.0,1834.67,1233.42,601.25,Online,Debit Card,Corporate,Aug,8,Q3,0.32771561098181146
+328,2025-08-02,CUST1285,Customer 1239,Central,Bhopal,Office Chair,Furniture,4,15892.81,0.05,60392.68,46265.51,14127.17,Online,Net Banking,Corporate,Aug,8,Q3,0.23392189252074921
+970,2025-08-03,CUST1086,Customer 1106,East,Patna,Office Chair,Furniture,3,15225.07,0.02,44761.71,28842.25,15919.46,Store,Debit Card,Home Office,Aug,8,Q3,0.3556490580900506
+606,2025-08-03,CUST1166,Customer 1031,South,Bengaluru,Water Bottle,Lifestyle,1,739.34,0.05,702.37,523.46,178.91,Online,Credit Card,Consumer,Aug,8,Q3,0.254723293990347
+443,2025-08-03,CUST1197,Customer 1042,West,Ahmedabad,Office Chair,Furniture,1,11218.36,0.15,9535.61,9346.0,189.61,Online,Debit Card,Corporate,Aug,8,Q3,0.01988441221904
+44,2025-08-03,CUST1221,Customer 1235,Central,Nagpur,Backpack,Lifestyle,3,3433.05,0.02,10093.17,7567.79,2525.38,Online,Credit Card,Home Office,Aug,8,Q3,0.25020682302983105
+990,2025-08-03,CUST1171,Customer 1255,East,Patna,Notebook,Stationery,2,180.34,0.05,342.65,280.32,62.33,Online,Cash,Home Office,Aug,8,Q3,0.1819057347147235
+533,2025-08-04,CUST1177,Customer 1080,South,Bengaluru,Desk,Furniture,3,5572.7,0.05,15882.19,12601.56,3280.63,Online,Net Banking,Home Office,Aug,8,Q3,0.20656030434090009
+65,2025-08-04,CUST1154,Customer 1014,Central,Indore,Desk,Furniture,1,9814.28,0.1,8832.85,7026.22,1806.63,Online,Debit Card,Home Office,Aug,8,Q3,0.20453534249987265
+742,2025-08-04,CUST1089,Customer 1281,North,Jaipur,Printer,Electronics,1,14718.11,0.0,14718.11,10430.21,4287.9,Online,Credit Card,Corporate,Aug,8,Q3,0.29133496080678833
+645,2025-08-05,CUST1011,Customer 1118,North,Delhi,Headphones,Electronics,1,5841.68,0.0,5841.68,3982.54,1859.14,Store,Net Banking,Corporate,Aug,8,Q3,0.3182543377932376
+582,2025-08-05,CUST1080,Customer 1083,Central,Nagpur,Laptop,Electronics,1,64381.19,0.1,57943.07,42324.56,15618.51,Online,Net Banking,Home Office,Aug,8,Q3,0.26954923168551476
+500,2025-08-05,CUST1154,Customer 1154,East,Patna,Notebook,Stationery,1,152.63,0.02,149.58,131.11,18.47,Store,Cash,Consumer,Aug,8,Q3,0.12347907474261263
+346,2025-08-05,CUST1056,Customer 1187,Central,Nagpur,Headphones,Electronics,2,6805.42,0.02,13338.62,11212.35,2126.27,Store,Net Banking,Home Office,Aug,8,Q3,0.1594070451066152
+519,2025-08-06,CUST1164,Customer 1161,West,Mumbai,Backpack,Lifestyle,1,1951.03,0.05,1853.48,1650.23,203.25,Online,Net Banking,Consumer,Aug,8,Q3,0.10965858816928156
+684,2025-08-06,CUST1214,Customer 1062,East,Kolkata,Office Chair,Furniture,2,15758.56,0.15,26789.55,24425.03,2364.52,Store,Net Banking,Consumer,Aug,8,Q3,0.08826277410408163
+10,2025-08-06,CUST1255,Customer 1283,East,Patna,Laptop,Electronics,4,62658.54,0.05,238102.45,204969.65,33132.8,Online,Credit Card,Corporate,Aug,8,Q3,0.13915354503912078
+619,2025-08-06,CUST1253,Customer 1222,South,Bengaluru,Monitor,Electronics,2,29544.95,0.05,56135.4,41323.1,14812.3,Online,UPI,Home Office,Aug,8,Q3,0.26386736355312335
+82,2025-08-06,CUST1141,Customer 1104,West,Ahmedabad,Backpack,Lifestyle,3,1790.56,0.02,5264.25,4653.45,610.8,Store,Credit Card,Consumer,Aug,8,Q3,0.1160279242057273
+540,2025-08-07,CUST1021,Customer 1092,North,Jaipur,Notebook,Stationery,3,204.55,0.0,613.65,523.09,90.56,Online,Cash,Corporate,Aug,8,Q3,0.14757597979304166
+370,2025-08-07,CUST1109,Customer 1279,West,Mumbai,Laptop,Electronics,1,62024.39,0.02,60783.9,42278.43,18505.47,Store,Debit Card,Corporate,Aug,8,Q3,0.30444690123536006
+255,2025-08-07,CUST1082,Customer 1092,East,Patna,Printer,Electronics,1,11796.29,0.05,11206.48,10057.02,1149.46,Online,Cash,Home Office,Aug,8,Q3,0.10257101248563331
+386,2025-08-08,CUST1094,Customer 1103,West,Ahmedabad,Water Bottle,Lifestyle,2,938.75,0.02,1839.95,1549.44,290.51,Online,Credit Card,Consumer,Aug,8,Q3,0.15789016005869724
+466,2025-08-08,CUST1106,Customer 1070,South,Hyderabad,Laptop,Electronics,1,58649.16,0.15,49851.79,42891.76,6960.03,Online,Credit Card,Home Office,Aug,8,Q3,0.1396144451382789
+872,2025-08-08,CUST1041,Customer 1255,East,Patna,Keyboard,Accessories,2,3281.4,0.15,5578.38,4833.65,744.73,Store,Debit Card,Corporate,Aug,8,Q3,0.1335029166173692
+429,2025-08-08,CUST1065,Customer 1232,South,Hyderabad,Headphones,Electronics,3,5887.31,0.1,15895.74,12363.71,3532.03,Store,Debit Card,Corporate,Aug,8,Q3,0.22219978434473642
+375,2025-08-09,CUST1213,Customer 1056,South,Chennai,Headphones,Electronics,1,6305.23,0.0,6305.23,4254.79,2050.44,Store,Credit Card,Corporate,Aug,8,Q3,0.3251967017856605
+643,2025-08-09,CUST1009,Customer 1289,West,Pune,Notebook,Stationery,1,351.55,0.1,316.4,284.54,31.86,Store,UPI,Consumer,Aug,8,Q3,0.10069532237673831
+123,2025-08-10,CUST1037,Customer 1278,East,Bhubaneswar,Office Chair,Furniture,1,12036.47,0.1,10832.82,9442.39,1390.43,Store,Cash,Corporate,Aug,8,Q3,0.12835346659503252
+35,2025-08-10,CUST1023,Customer 1250,West,Pune,Backpack,Lifestyle,4,2178.2,0.1,7841.52,5794.3,2047.22,Store,Net Banking,Corporate,Aug,8,Q3,0.2610743835378855
+997,2025-08-10,CUST1152,Customer 1132,West,Mumbai,Keyboard,Accessories,2,1919.79,0.0,3839.58,3164.08,675.5,Store,UPI,Consumer,Aug,8,Q3,0.17593070075372827
+58,2025-08-10,CUST1251,Customer 1112,East,Patna,Smartphone,Electronics,3,49530.72,0.1,133732.94,113798.4,19934.54,Online,Net Banking,Consumer,Aug,8,Q3,0.14906230282531738
+800,2025-08-11,CUST1080,Customer 1234,Central,Bhopal,Backpack,Lifestyle,2,1967.36,0.0,3934.72,3341.74,592.98,Online,Cash,Consumer,Aug,8,Q3,0.15070449739752767
+710,2025-08-11,CUST1190,Customer 1052,West,Pune,Mouse,Accessories,1,1592.47,0.1,1433.22,1167.87,265.35,Store,UPI,Home Office,Aug,8,Q3,0.18514254615481227
+407,2025-08-12,CUST1272,Customer 1146,West,Mumbai,Monitor,Electronics,4,24412.01,0.1,87883.24,70893.07,16990.17,Online,Cash,Corporate,Aug,8,Q3,0.1933266229146763
+256,2025-08-13,CUST1147,Customer 1063,Central,Indore,Printer,Electronics,2,6951.55,0.0,13903.1,10934.11,2968.99,Store,Debit Card,Home Office,Aug,8,Q3,0.2135487768914846
+401,2025-08-14,CUST1266,Customer 1099,South,Chennai,Office Chair,Furniture,1,15464.53,0.05,14691.3,12010.32,2680.98,Online,Debit Card,Consumer,Aug,8,Q3,0.18248759469890344
+911,2025-08-14,CUST1170,Customer 1086,Central,Indore,Desk,Furniture,3,13142.65,0.15,33513.76,33416.43,97.33,Online,Credit Card,Corporate,Aug,8,Q3,0.00290418025312588
+881,2025-08-14,CUST1162,Customer 1281,West,Mumbai,Water Bottle,Lifestyle,1,1221.56,0.1,1099.4,916.03,183.37,Online,Cash,Home Office,Aug,8,Q3,0.16679097689648897
+639,2025-08-14,CUST1236,Customer 1183,East,Bhubaneswar,Smartphone,Electronics,1,52349.78,0.15,44497.31,39934.88,4562.43,Store,Net Banking,Corporate,Aug,8,Q3,0.1025327148989456
+117,2025-08-14,CUST1124,Customer 1038,South,Chennai,Printer,Electronics,1,11264.82,0.15,9575.1,9137.52,437.58,Store,Debit Card,Consumer,Aug,8,Q3,0.04569978381426826
+40,2025-08-15,CUST1177,Customer 1099,Central,Nagpur,Printer,Electronics,2,14767.55,0.0,29535.1,22677.5,6857.6,Store,Cash,Corporate,Aug,8,Q3,0.23218475644233474
+616,2025-08-15,CUST1029,Customer 1151,North,Jaipur,Office Chair,Furniture,2,10432.49,0.1,18778.48,14504.82,4273.66,Online,UPI,Consumer,Aug,8,Q3,0.22758285015613616
+213,2025-08-15,CUST1262,Customer 1167,South,Bengaluru,Desk,Furniture,2,9567.18,0.0,19134.36,13807.15,5327.21,Store,UPI,Home Office,Aug,8,Q3,0.2784106706469409
+746,2025-08-15,CUST1181,Customer 1046,South,Bengaluru,Backpack,Lifestyle,2,1514.48,0.0,3028.96,2026.31,1002.65,Online,Credit Card,Home Office,Aug,8,Q3,0.33102120859965134
+792,2025-08-16,CUST1281,Customer 1172,Central,Indore,Headphones,Electronics,1,4173.96,0.02,4090.48,3274.23,816.25,Store,Debit Card,Corporate,Aug,8,Q3,0.19954870822006218
+999,2025-08-16,CUST1079,Customer 1096,Central,Indore,Office Chair,Furniture,1,12748.39,0.02,12493.42,9111.87,3381.55,Online,Credit Card,Consumer,Aug,8,Q3,0.2706664788344585
+80,2025-08-16,CUST1216,Customer 1184,South,Chennai,Keyboard,Accessories,1,3167.27,0.15,2692.18,2054.81,637.37,Online,Net Banking,Consumer,Aug,8,Q3,0.23674865722202826
+481,2025-08-16,CUST1188,Customer 1070,South,Hyderabad,Water Bottle,Lifestyle,1,1192.83,0.1,1073.55,812.28,261.27,Store,Credit Card,Home Office,Aug,8,Q3,0.24337012714824646
+620,2025-08-16,CUST1273,Customer 1288,East,Bhubaneswar,Desk,Furniture,1,4984.13,0.0,4984.13,3961.46,1022.67,Online,Debit Card,Consumer,Aug,8,Q3,0.2051852580089203
+103,2025-08-17,CUST1108,Customer 1172,North,Delhi,Water Bottle,Lifestyle,1,1017.94,0.05,967.04,847.91,119.13,Online,Credit Card,Home Office,Aug,8,Q3,0.12319035407015222
+631,2025-08-17,CUST1280,Customer 1290,North,Jaipur,Mouse,Accessories,3,1005.26,0.05,2864.99,1983.97,881.02,Store,Debit Card,Corporate,Aug,8,Q3,0.30751241714630767
+366,2025-08-17,CUST1077,Customer 1188,West,Ahmedabad,Printer,Electronics,2,14221.61,0.15,24176.74,24670.96,-494.22,Store,Cash,Home Office,Aug,8,Q3,-0.02044196198494917
+439,2025-08-17,CUST1012,Customer 1118,East,Kolkata,Smartphone,Electronics,2,39483.87,0.0,78967.74,67337.13,11630.61,Store,Debit Card,Home Office,Aug,8,Q3,0.14728305508046705
+904,2025-08-18,CUST1108,Customer 1217,North,Delhi,Backpack,Lifestyle,1,3339.74,0.1,3005.77,2669.53,336.24,Online,Cash,Corporate,Aug,8,Q3,0.11186484661168353
+178,2025-08-19,CUST1178,Customer 1063,North,Delhi,Office Chair,Furniture,2,7870.43,0.1,14166.77,12442.96,1723.81,Online,Cash,Home Office,Aug,8,Q3,0.12167981833544272
+855,2025-08-19,CUST1157,Customer 1134,Central,Nagpur,Mouse,Accessories,2,2083.61,0.15,3542.14,3167.0,375.14,Online,Net Banking,Consumer,Aug,8,Q3,0.1059077280965744
+262,2025-08-19,CUST1053,Customer 1295,Central,Indore,Notebook,Stationery,1,356.29,0.05,338.48,222.94,115.54,Online,UPI,Consumer,Aug,8,Q3,0.34134956275112266
+50,2025-08-21,CUST1014,Customer 1143,West,Mumbai,Monitor,Electronics,2,20630.94,0.0,41261.88,31194.21,10067.67,Online,UPI,Consumer,Aug,8,Q3,0.24399445686914897
+451,2025-08-21,CUST1193,Customer 1051,East,Patna,Headphones,Electronics,1,3409.48,0.15,2898.06,2313.03,585.03,Online,Debit Card,Corporate,Aug,8,Q3,0.20186952651083828
+94,2025-08-22,CUST1195,Customer 1119,West,Mumbai,Notebook,Stationery,1,305.26,0.15,259.47,216.39,43.08,Store,Cash,Consumer,Aug,8,Q3,0.16603075500057807
+149,2025-08-22,CUST1008,Customer 1129,West,Pune,Monitor,Electronics,3,11640.57,0.15,29683.45,22954.77,6728.68,Online,Net Banking,Corporate,Aug,8,Q3,0.22668119777182236
+961,2025-08-22,CUST1036,Customer 1132,West,Pune,Printer,Electronics,1,19203.09,0.0,19203.09,16849.67,2353.42,Store,Credit Card,Consumer,Aug,8,Q3,0.12255423476117645
+261,2025-08-22,CUST1144,Customer 1188,Central,Bhopal,Headphones,Electronics,1,4753.52,0.0,4753.52,3565.91,1187.61,Store,Credit Card,Corporate,Aug,8,Q3,0.24983801477641826
+986,2025-08-23,CUST1257,Customer 1116,South,Chennai,Keyboard,Accessories,1,1358.67,0.1,1222.8,1105.02,117.78,Store,Debit Card,Home Office,Aug,8,Q3,0.0963199214916585
+738,2025-08-23,CUST1074,Customer 1187,East,Patna,Backpack,Lifestyle,2,1339.72,0.15,2277.52,1967.94,309.58,Store,UPI,Home Office,Aug,8,Q3,0.1359285538656082
+550,2025-08-23,CUST1206,Customer 1150,West,Pune,Monitor,Electronics,1,26586.44,0.1,23927.8,18702.48,5225.32,Online,Cash,Consumer,Aug,8,Q3,0.2183786223555864
+624,2025-08-23,CUST1267,Customer 1287,West,Pune,Backpack,Lifestyle,3,2272.98,0.15,5796.1,4422.9,1373.2,Online,Cash,Corporate,Aug,8,Q3,0.23691792757198804
+68,2025-08-24,CUST1083,Customer 1042,East,Kolkata,Smartphone,Electronics,4,21216.05,0.02,83166.92,64922.22,18244.7,Online,Net Banking,Corporate,Aug,8,Q3,0.21937448206570595
+931,2025-08-24,CUST1162,Customer 1042,East,Patna,Printer,Electronics,1,7007.54,0.02,6867.39,5774.01,1093.38,Store,UPI,Consumer,Aug,8,Q3,0.15921332558657658
+808,2025-08-24,CUST1173,Customer 1158,East,Patna,Mouse,Accessories,4,2011.03,0.02,7883.24,6342.26,1540.98,Store,Credit Card,Home Office,Aug,8,Q3,0.19547546440296124
+110,2025-08-24,CUST1239,Customer 1266,West,Mumbai,Laptop,Electronics,2,63038.62,0.1,113469.52,98737.57,14731.95,Store,UPI,Home Office,Aug,8,Q3,0.12983178213849852
+400,2025-08-25,CUST1248,Customer 1025,Central,Indore,Monitor,Electronics,3,20475.63,0.0,61426.89,40643.63,20783.26,Store,Credit Card,Consumer,Aug,8,Q3,0.3383414006471758
+919,2025-08-25,CUST1246,Customer 1081,South,Chennai,Backpack,Lifestyle,1,1846.14,0.15,1569.22,1362.66,206.56,Store,Net Banking,Corporate,Aug,8,Q3,0.13163227590777585
+403,2025-08-27,CUST1298,Customer 1076,East,Kolkata,Water Bottle,Lifestyle,3,999.9,0.0,2999.7,2473.9,525.8,Store,Net Banking,Home Office,Aug,8,Q3,0.1752841950861753
+332,2025-08-27,CUST1205,Customer 1048,Central,Bhopal,Smartphone,Electronics,3,33242.45,0.0,99727.35,78203.09,21524.26,Online,Net Banking,Consumer,Aug,8,Q3,0.21583106339434466
+298,2025-08-27,CUST1169,Customer 1030,West,Ahmedabad,Headphones,Electronics,2,1552.93,0.1,2795.27,2176.03,619.24,Store,Net Banking,Consumer,Aug,8,Q3,0.22153137264021008
+490,2025-08-27,CUST1058,Customer 1198,South,Chennai,Laptop,Electronics,3,65066.9,0.0,195200.7,153786.71,41413.99,Online,Credit Card,Corporate,Aug,8,Q3,0.21216107319287275
+836,2025-08-27,CUST1268,Customer 1298,Central,Nagpur,Notebook,Stationery,2,314.11,0.02,615.66,481.43,134.23,Online,Credit Card,Consumer,Aug,8,Q3,0.21802618328298087
+870,2025-08-28,CUST1143,Customer 1049,East,Patna,Monitor,Electronics,2,19786.3,0.1,35615.34,25723.56,9891.78,Online,Credit Card,Home Office,Aug,8,Q3,0.2777393112069126
+1000,2025-08-28,CUST1056,Customer 1079,East,Kolkata,Monitor,Electronics,1,27525.5,0.1,24772.95,19914.19,4858.76,Online,Cash,Consumer,Aug,8,Q3,0.1961316678070234
+17,2025-08-28,CUST1144,Customer 1097,East,Patna,Laptop,Electronics,2,69564.33,0.1,125215.79,121833.58,3382.21,Online,Cash,Home Office,Aug,8,Q3,0.02701105028367429
+985,2025-08-29,CUST1035,Customer 1014,South,Chennai,Smartphone,Electronics,4,33268.79,0.05,126421.4,82855.06,43566.34,Online,Net Banking,Home Office,Aug,8,Q3,0.3446120672607644
+183,2025-08-30,CUST1232,Customer 1277,North,Delhi,Printer,Electronics,2,17010.16,0.15,28917.27,23563.68,5353.59,Store,Debit Card,Home Office,Aug,8,Q3,0.18513469632506804
+38,2025-08-30,CUST1035,Customer 1215,South,Hyderabad,Notebook,Stationery,2,167.67,0.02,328.63,211.31,117.32,Online,Credit Card,Consumer,Aug,8,Q3,0.3569972309283997
+588,2025-08-30,CUST1172,Customer 1231,North,Lucknow,Mouse,Accessories,2,1722.96,0.15,2929.03,2404.85,524.18,Store,Debit Card,Corporate,Aug,8,Q3,0.17896027012355623
+534,2025-08-30,CUST1124,Customer 1076,East,Bhubaneswar,Notebook,Stationery,1,232.15,0.0,232.15,148.96,83.19,Online,Net Banking,Home Office,Aug,8,Q3,0.3583458970493215
+133,2025-08-30,CUST1002,Customer 1225,North,Delhi,Mouse,Accessories,2,1550.86,0.0,3101.72,2374.39,727.33,Online,UPI,Consumer,Aug,8,Q3,0.234492475142824
+629,2025-08-31,CUST1241,Customer 1043,North,Delhi,Headphones,Electronics,2,5052.32,0.02,9902.55,7059.93,2842.62,Online,Credit Card,Corporate,Aug,8,Q3,0.287059393792508
+882,2025-08-31,CUST1264,Customer 1010,South,Chennai,Smartphone,Electronics,3,34047.78,0.05,97036.17,64274.63,32761.54,Online,Net Banking,Home Office,Aug,8,Q3,0.33762194035481824
+420,2025-08-31,CUST1231,Customer 1206,East,Patna,Water Bottle,Lifestyle,2,398.0,0.1,716.4,560.95,155.45,Store,Cash,Consumer,Aug,8,Q3,0.21698771635957564
+81,2025-08-31,CUST1292,Customer 1282,Central,Indore,Monitor,Electronics,1,24167.3,0.05,22958.93,19012.38,3946.55,Online,Debit Card,Consumer,Aug,8,Q3,0.1718960770384334
+810,2025-09-01,CUST1128,Customer 1093,West,Ahmedabad,Water Bottle,Lifestyle,4,346.31,0.1,1246.72,972.28,274.44,Store,Net Banking,Home Office,Sep,9,Q3,0.22012962012320328
+202,2025-09-02,CUST1035,Customer 1069,East,Kolkata,Mouse,Accessories,1,964.22,0.05,916.01,672.71,243.3,Online,Net Banking,Consumer,Sep,9,Q3,0.26560845405617844
+592,2025-09-03,CUST1297,Customer 1172,East,Kolkata,Office Chair,Furniture,4,17820.3,0.0,71281.2,44537.79,26743.41,Store,Cash,Home Office,Sep,9,Q3,0.37518181512095755
+415,2025-09-03,CUST1208,Customer 1237,West,Pune,Desk,Furniture,1,7885.83,0.02,7728.11,5404.01,2324.1,Store,UPI,Corporate,Sep,9,Q3,0.30073329701569984
+472,2025-09-03,CUST1237,Customer 1104,North,Delhi,Laptop,Electronics,3,66956.8,0.1,180783.36,157180.03,23603.33,Online,Debit Card,Consumer,Sep,9,Q3,0.13056140786408663
+518,2025-09-03,CUST1110,Customer 1254,South,Chennai,Laptop,Electronics,2,62865.23,0.05,119443.94,106092.33,13351.61,Store,Net Banking,Corporate,Sep,9,Q3,0.11178139301165049
+286,2025-09-04,CUST1008,Customer 1141,Central,Indore,Smartphone,Electronics,1,43837.51,0.15,37261.88,38040.14,-778.26,Store,Cash,Home Office,Sep,9,Q3,-0.020886224742283535
+109,2025-09-04,CUST1269,Customer 1141,West,Pune,Smartphone,Electronics,1,18902.83,0.02,18524.77,11824.29,6700.48,Store,Debit Card,Home Office,Sep,9,Q3,0.361703816025786
+282,2025-09-05,CUST1054,Customer 1161,South,Chennai,Laptop,Electronics,2,73612.14,0.1,132501.85,100092.67,32409.18,Store,Debit Card,Corporate,Sep,9,Q3,0.2445941698172516
+309,2025-09-05,CUST1029,Customer 1280,West,Mumbai,Monitor,Electronics,4,23101.06,0.05,87784.03,76156.79,11627.24,Store,Credit Card,Consumer,Sep,9,Q3,0.1324527935206438
+296,2025-09-05,CUST1116,Customer 1279,Central,Bhopal,Monitor,Electronics,1,12183.5,0.0,12183.5,9261.47,2922.03,Online,Net Banking,Home Office,Sep,9,Q3,0.2398350227767062
+289,2025-09-05,CUST1247,Customer 1155,Central,Indore,Notebook,Stationery,1,291.98,0.1,262.78,202.96,59.82,Store,Debit Card,Consumer,Sep,9,Q3,0.22764289519750364
+819,2025-09-06,CUST1083,Customer 1025,East,Kolkata,Keyboard,Accessories,1,2710.31,0.0,2710.31,2293.6,416.71,Online,Cash,Home Office,Sep,9,Q3,0.15374994004375883
+635,2025-09-07,CUST1083,Customer 1240,South,Bengaluru,Office Chair,Furniture,2,11412.65,0.05,21684.03,17125.88,4558.15,Store,Debit Card,Home Office,Sep,9,Q3,0.21020769663203748
+101,2025-09-07,CUST1036,Customer 1239,East,Patna,Desk,Furniture,1,10796.86,0.15,9177.33,8052.04,1125.29,Store,Debit Card,Home Office,Sep,9,Q3,0.12261627292469596
+106,2025-09-07,CUST1270,Customer 1117,South,Hyderabad,Backpack,Lifestyle,1,2429.49,0.02,2380.9,1865.04,515.86,Online,UPI,Home Office,Sep,9,Q3,0.21666596665126633
+200,2025-09-08,CUST1118,Customer 1161,North,Lucknow,Laptop,Electronics,2,56772.01,0.0,113544.02,88057.77,25486.25,Online,Cash,Home Office,Sep,9,Q3,0.2244614027229263
+399,2025-09-08,CUST1233,Customer 1279,East,Kolkata,Notebook,Stationery,3,141.16,0.0,423.48,310.01,113.47,Store,Debit Card,Consumer,Sep,9,Q3,0.2679465382072353
+520,2025-09-08,CUST1208,Customer 1140,West,Pune,Headphones,Electronics,3,5859.19,0.05,16698.69,11818.82,4879.87,Store,Credit Card,Consumer,Sep,9,Q3,0.29223070791780675
+854,2025-09-08,CUST1164,Customer 1168,Central,Bhopal,Desk,Furniture,2,15510.83,0.05,29470.58,25590.44,3880.14,Online,Net Banking,Home Office,Sep,9,Q3,0.13166147391737792
+513,2025-09-10,CUST1014,Customer 1240,East,Kolkata,Monitor,Electronics,2,13148.67,0.1,23667.61,16885.29,6782.32,Store,Credit Card,Consumer,Sep,9,Q3,0.28656547915061975
+198,2025-09-11,CUST1024,Customer 1162,West,Mumbai,Headphones,Electronics,1,1641.0,0.1,1476.9,1256.63,220.27,Store,Credit Card,Home Office,Sep,9,Q3,0.14914347620014895
+404,2025-09-11,CUST1043,Customer 1017,South,Chennai,Water Bottle,Lifestyle,4,942.44,0.1,3392.78,2754.91,637.87,Online,Net Banking,Consumer,Sep,9,Q3,0.18800806418335406
+907,2025-09-11,CUST1095,Customer 1217,South,Chennai,Smartphone,Electronics,3,25241.19,0.02,74209.1,47332.98,26876.12,Online,Cash,Consumer,Sep,9,Q3,0.36216744307638815
+228,2025-09-12,CUST1183,Customer 1016,West,Pune,Printer,Electronics,3,11286.53,0.0,33859.59,29699.85,4159.74,Online,UPI,Corporate,Sep,9,Q3,0.12285263938517862
+789,2025-09-12,CUST1294,Customer 1170,South,Chennai,Laptop,Electronics,2,57572.48,0.0,115144.96,95799.71,19345.25,Online,UPI,Consumer,Sep,9,Q3,0.168007787748591
+611,2025-09-12,CUST1038,Customer 1148,Central,Nagpur,Backpack,Lifestyle,2,934.53,0.15,1588.7,1382.14,206.56,Store,UPI,Corporate,Sep,9,Q3,0.13001825391829797
+589,2025-09-12,CUST1020,Customer 1058,East,Patna,Smartphone,Electronics,3,40053.61,0.15,102136.71,92607.37,9529.34,Store,UPI,Consumer,Sep,9,Q3,0.09329985271701036
+347,2025-09-13,CUST1038,Customer 1176,Central,Bhopal,Smartphone,Electronics,1,49260.24,0.0,49260.24,37927.56,11332.68,Online,Cash,Home Office,Sep,9,Q3,0.23005734442219528
+339,2025-09-13,CUST1049,Customer 1159,West,Ahmedabad,Backpack,Lifestyle,1,1809.86,0.05,1719.37,1513.32,206.05,Store,Credit Card,Consumer,Sep,9,Q3,0.11984040666057919
+191,2025-09-13,CUST1086,Customer 1150,South,Bengaluru,Keyboard,Accessories,3,3441.67,0.1,9292.51,6546.09,2746.42,Online,UPI,Corporate,Sep,9,Q3,0.2955520090911928
+357,2025-09-13,CUST1073,Customer 1179,East,Patna,Water Bottle,Lifestyle,1,1363.31,0.15,1158.81,1128.85,29.96,Store,Net Banking,Corporate,Sep,9,Q3,0.025854108956602034
+173,2025-09-13,CUST1266,Customer 1025,Central,Indore,Smartphone,Electronics,1,23690.27,0.02,23216.46,20584.57,2631.89,Store,UPI,Consumer,Sep,9,Q3,0.11336310531407458
+614,2025-09-13,CUST1254,Customer 1216,West,Pune,Monitor,Electronics,2,17777.67,0.02,34844.23,29958.93,4885.3,Store,Cash,Consumer,Sep,9,Q3,0.14020398786255284
+892,2025-09-14,CUST1165,Customer 1077,Central,Bhopal,Notebook,Stationery,2,161.03,0.02,315.62,249.11,66.51,Online,UPI,Consumer,Sep,9,Q3,0.21072809074203158
+232,2025-09-14,CUST1072,Customer 1087,East,Bhubaneswar,Notebook,Stationery,1,384.17,0.05,364.96,312.46,52.5,Store,UPI,Corporate,Sep,9,Q3,0.14385138097325736
+640,2025-09-14,CUST1235,Customer 1289,West,Mumbai,Mouse,Accessories,2,831.4,0.05,1579.66,1250.94,328.72,Store,Net Banking,Consumer,Sep,9,Q3,0.20809541293696113
+957,2025-09-15,CUST1016,Customer 1094,North,Delhi,Laptop,Electronics,2,57207.88,0.15,97253.4,90018.0,7235.4,Store,Net Banking,Home Office,Sep,9,Q3,0.0743973989598307
+522,2025-09-15,CUST1127,Customer 1282,West,Pune,Water Bottle,Lifestyle,1,1192.12,0.15,1013.3,1005.88,7.42,Store,Cash,Home Office,Sep,9,Q3,0.007322609296358433
+188,2025-09-15,CUST1269,Customer 1181,South,Hyderabad,Smartphone,Electronics,2,29921.97,0.1,53859.55,44483.64,9375.91,Store,Cash,Corporate,Sep,9,Q3,0.174080734057377
+638,2025-09-15,CUST1204,Customer 1262,North,Jaipur,Headphones,Electronics,1,6990.45,0.15,5941.88,6105.72,-163.84,Online,Debit Card,Consumer,Sep,9,Q3,-0.027573764532437546
+163,2025-09-15,CUST1291,Customer 1263,East,Bhubaneswar,Printer,Electronics,2,12254.5,0.0,24509.0,18361.15,6147.85,Online,Credit Card,Home Office,Sep,9,Q3,0.2508405075686483
+778,2025-09-15,CUST1178,Customer 1245,Central,Nagpur,Mouse,Accessories,4,1671.54,0.1,6017.54,4985.97,1031.57,Online,Debit Card,Consumer,Sep,9,Q3,0.17142719450140753
+521,2025-09-16,CUST1090,Customer 1104,North,Jaipur,Printer,Electronics,1,14757.19,0.15,12543.61,10367.24,2176.37,Online,Credit Card,Corporate,Sep,9,Q3,0.1735042782739578
+578,2025-09-16,CUST1046,Customer 1216,North,Delhi,Water Bottle,Lifestyle,2,1449.57,0.15,2464.27,2234.5,229.77,Store,Cash,Consumer,Sep,9,Q3,0.09324059457770456
+197,2025-09-17,CUST1188,Customer 1057,East,Bhubaneswar,Keyboard,Accessories,3,2590.21,0.15,6605.04,4876.53,1728.51,Online,Cash,Consumer,Sep,9,Q3,0.2616956142582028
+793,2025-09-17,CUST1234,Customer 1003,Central,Nagpur,Keyboard,Accessories,1,2369.85,0.15,2014.37,1604.44,409.93,Online,Cash,Consumer,Sep,9,Q3,0.20350283215099513
+186,2025-09-18,CUST1261,Customer 1008,West,Ahmedabad,Monitor,Electronics,4,25267.72,0.05,96017.34,67530.59,28486.75,Store,Credit Card,Corporate,Sep,9,Q3,0.29668339072921623
+612,2025-09-18,CUST1013,Customer 1048,North,Jaipur,Mouse,Accessories,1,1049.85,0.0,1049.85,797.36,252.49,Online,UPI,Home Office,Sep,9,Q3,0.24050102395580325
+247,2025-09-19,CUST1125,Customer 1245,East,Bhubaneswar,Mouse,Accessories,1,2073.58,0.02,2032.11,1498.81,533.3,Store,Credit Card,Consumer,Sep,9,Q3,0.26243658069691106
+119,2025-09-19,CUST1216,Customer 1147,South,Hyderabad,Desk,Furniture,1,11945.34,0.15,10153.54,8235.44,1918.1,Store,Cash,Consumer,Sep,9,Q3,0.1889094837859505
+135,2025-09-19,CUST1073,Customer 1223,West,Mumbai,Desk,Furniture,1,11637.16,0.05,11055.3,7310.61,3744.69,Store,UPI,Corporate,Sep,9,Q3,0.3387235081815962
+818,2025-09-20,CUST1145,Customer 1192,North,Lucknow,Keyboard,Accessories,1,1067.22,0.02,1045.88,809.7,236.18,Store,Credit Card,Corporate,Sep,9,Q3,0.22581940566795425
+177,2025-09-20,CUST1080,Customer 1252,North,Lucknow,Headphones,Electronics,2,2360.52,0.0,4721.04,3887.78,833.26,Online,Cash,Home Office,Sep,9,Q3,0.17649924592886312
+981,2025-09-20,CUST1221,Customer 1053,West,Ahmedabad,Mouse,Accessories,4,775.8,0.05,2948.04,2352.21,595.83,Online,UPI,Corporate,Sep,9,Q3,0.20211055480929704
+502,2025-09-20,CUST1046,Customer 1189,North,Lucknow,Backpack,Lifestyle,2,1844.46,0.1,3320.03,3189.65,130.38,Store,UPI,Consumer,Sep,9,Q3,0.0392707294813601
+92,2025-09-21,CUST1291,Customer 1096,Central,Bhopal,Printer,Electronics,1,18798.66,0.05,17858.73,14845.56,3013.17,Store,Debit Card,Consumer,Sep,9,Q3,0.16872252394207204
+801,2025-09-21,CUST1064,Customer 1135,West,Pune,Smartphone,Electronics,4,30795.66,0.0,123182.64,76643.92,46538.72,Online,Debit Card,Consumer,Sep,9,Q3,0.377802586468353
+258,2025-09-21,CUST1282,Customer 1113,North,Lucknow,Desk,Furniture,3,10342.94,0.05,29477.38,27287.78,2189.6,Store,Debit Card,Consumer,Sep,9,Q3,0.07428068573258545
+30,2025-09-21,CUST1053,Customer 1060,South,Chennai,Mouse,Accessories,1,925.43,0.05,879.16,604.34,274.82,Store,Cash,Consumer,Sep,9,Q3,0.31259383957413894
+842,2025-09-22,CUST1135,Customer 1144,East,Patna,Laptop,Electronics,1,62961.74,0.02,61702.51,44529.37,17173.14,Online,Credit Card,Home Office,Sep,9,Q3,0.27832157881421676
+996,2025-09-22,CUST1030,Customer 1084,North,Delhi,Printer,Electronics,2,10045.68,0.02,19689.53,12655.76,7033.77,Store,Cash,Consumer,Sep,9,Q3,0.3572340223458864
+920,2025-09-22,CUST1026,Customer 1026,North,Jaipur,Desk,Furniture,1,9156.84,0.02,8973.7,6670.15,2303.55,Store,Credit Card,Home Office,Sep,9,Q3,0.2567001348384724
+176,2025-09-23,CUST1130,Customer 1267,Central,Indore,Smartphone,Electronics,1,42057.44,0.05,39954.57,32247.74,7706.83,Store,Net Banking,Home Office,Sep,9,Q3,0.19288982461831025
+822,2025-09-23,CUST1271,Customer 1042,Central,Indore,Office Chair,Furniture,1,8672.48,0.02,8499.03,7023.91,1475.12,Online,UPI,Home Office,Sep,9,Q3,0.17356333605129054
+100,2025-09-24,CUST1296,Customer 1011,East,Kolkata,Headphones,Electronics,1,1814.29,0.02,1778.0,1157.05,620.95,Store,Cash,Consumer,Sep,9,Q3,0.34924071991001127
+609,2025-09-24,CUST1069,Customer 1099,West,Ahmedabad,Notebook,Stationery,3,149.47,0.15,381.15,311.73,69.42,Online,UPI,Corporate,Sep,9,Q3,0.18213301849665486
+674,2025-09-24,CUST1268,Customer 1170,East,Bhubaneswar,Laptop,Electronics,2,71367.21,0.02,139879.73,118474.73,21405.0,Store,Debit Card,Home Office,Sep,9,Q3,0.15302431596057556
+758,2025-09-24,CUST1029,Customer 1247,East,Patna,Keyboard,Accessories,1,3210.05,0.05,3049.55,2555.24,494.31,Store,Debit Card,Consumer,Sep,9,Q3,0.16209276778541096
+428,2025-09-24,CUST1154,Customer 1042,East,Kolkata,Notebook,Stationery,1,326.88,0.05,310.54,252.43,58.11,Online,Debit Card,Corporate,Sep,9,Q3,0.1871256520899079
+141,2025-09-25,CUST1131,Customer 1237,South,Chennai,Office Chair,Furniture,1,8598.76,0.02,8426.78,7370.98,1055.8,Store,Net Banking,Home Office,Sep,9,Q3,0.12529103643384543
+708,2025-09-25,CUST1084,Customer 1016,East,Patna,Smartphone,Electronics,1,26988.98,0.1,24290.08,16782.96,7507.12,Store,Debit Card,Consumer,Sep,9,Q3,0.30906114759605563
+105,2025-09-25,CUST1143,Customer 1059,Central,Nagpur,Office Chair,Furniture,3,14413.34,0.0,43240.02,36964.79,6275.23,Store,UPI,Consumer,Sep,9,Q3,0.14512551104277935
+770,2025-09-27,CUST1033,Customer 1010,North,Jaipur,Notebook,Stationery,1,92.06,0.1,82.85,70.06,12.79,Store,Cash,Home Office,Sep,9,Q3,0.1543753771876886
+144,2025-09-27,CUST1080,Customer 1093,North,Delhi,Office Chair,Furniture,1,10899.26,0.02,10681.27,6965.82,3715.45,Store,Cash,Corporate,Sep,9,Q3,0.34784721292505477
+719,2025-09-27,CUST1221,Customer 1152,South,Chennai,Laptop,Electronics,1,63079.53,0.02,61817.94,43762.93,18055.01,Online,Debit Card,Corporate,Sep,9,Q3,0.29206748073455696
+6,2025-09-27,CUST1271,Customer 1215,South,Chennai,Smartphone,Electronics,1,46679.91,0.02,45746.31,39801.86,5944.45,Store,UPI,Corporate,Sep,9,Q3,0.12994381404751554
+915,2025-09-29,CUST1109,Customer 1273,North,Lucknow,Laptop,Electronics,2,67846.39,0.1,122123.5,100942.9,21180.6,Store,Net Banking,Corporate,Sep,9,Q3,0.17343590709404821
+908,2025-09-29,CUST1166,Customer 1250,Central,Indore,Notebook,Stationery,4,248.66,0.05,944.91,775.78,169.13,Online,UPI,Home Office,Sep,9,Q3,0.1789905916965637
+411,2025-09-30,CUST1144,Customer 1016,Central,Bhopal,Water Bottle,Lifestyle,1,793.43,0.02,777.56,560.06,217.5,Store,Net Banking,Home Office,Sep,9,Q3,0.2797211790729976
+755,2025-09-30,CUST1108,Customer 1074,Central,Bhopal,Notebook,Stationery,1,213.05,0.15,181.09,152.46,28.63,Online,Credit Card,Home Office,Sep,9,Q3,0.15809818322381136
+27,2025-09-30,CUST1104,Customer 1299,South,Hyderabad,Mouse,Accessories,4,1109.7,0.05,4216.86,3092.85,1124.01,Store,Net Banking,Corporate,Sep,9,Q3,0.2665514150339352
+478,2025-09-30,CUST1130,Customer 1132,Central,Nagpur,Mouse,Accessories,1,832.71,0.02,816.06,662.11,153.95,Online,Credit Card,Corporate,Sep,9,Q3,0.18865034433742617
+285,2025-10-01,CUST1019,Customer 1154,West,Ahmedabad,Backpack,Lifestyle,2,2258.6,0.05,4291.34,3339.7,951.64,Store,Cash,Home Office,Oct,10,Q4,0.22175823868535235
+659,2025-10-02,CUST1082,Customer 1181,East,Kolkata,Smartphone,Electronics,1,45889.42,0.1,41300.48,29965.19,11335.29,Online,Debit Card,Home Office,Oct,10,Q4,0.27445903776421
+406,2025-10-02,CUST1106,Customer 1021,Central,Nagpur,Keyboard,Accessories,4,2764.33,0.1,9951.59,8850.16,1101.43,Store,Net Banking,Home Office,Oct,10,Q4,0.11067879605168622
+752,2025-10-02,CUST1123,Customer 1134,East,Kolkata,Office Chair,Furniture,2,13448.23,0.1,24206.81,21843.19,2363.62,Online,UPI,Consumer,Oct,10,Q4,0.09764277077400946
+244,2025-10-02,CUST1157,Customer 1202,South,Bengaluru,Office Chair,Furniture,1,6853.72,0.0,6853.72,5936.2,917.52,Store,Credit Card,Home Office,Oct,10,Q4,0.13387182435232253
+358,2025-10-03,CUST1231,Customer 1119,North,Lucknow,Office Chair,Furniture,4,13046.89,0.15,44359.43,33202.9,11156.53,Store,UPI,Consumer,Oct,10,Q4,0.25150300623790706
+764,2025-10-03,CUST1016,Customer 1173,South,Bengaluru,Monitor,Electronics,1,14325.93,0.0,14325.93,12347.76,1978.17,Online,Credit Card,Home Office,Oct,10,Q4,0.13808318203425538
+471,2025-10-03,CUST1112,Customer 1224,East,Bhubaneswar,Keyboard,Accessories,4,2643.16,0.05,10044.01,8786.98,1257.03,Store,Debit Card,Home Office,Oct,10,Q4,0.12515220514515615
+211,2025-10-04,CUST1020,Customer 1154,West,Ahmedabad,Backpack,Lifestyle,1,3442.96,0.0,3442.96,2314.89,1128.07,Online,Cash,Corporate,Oct,10,Q4,0.32764539814578153
+2,2025-10-04,CUST1161,Customer 1022,Central,Bhopal,Desk,Furniture,3,13989.31,0.02,41128.57,28004.13,13124.44,Online,Cash,Consumer,Oct,10,Q4,0.3191076178918937
+341,2025-10-04,CUST1064,Customer 1292,West,Mumbai,Notebook,Stationery,1,205.04,0.0,205.04,140.89,64.15,Store,Net Banking,Consumer,Oct,10,Q4,0.3128657822863832
+292,2025-10-05,CUST1237,Customer 1221,South,Hyderabad,Water Bottle,Lifestyle,2,1202.13,0.02,2356.17,2088.44,267.73,Store,Net Banking,Home Office,Oct,10,Q4,0.11362932216266229
+946,2025-10-05,CUST1017,Customer 1263,West,Mumbai,Keyboard,Accessories,2,3085.64,0.02,6047.85,4618.08,1429.77,Online,Cash,Consumer,Oct,10,Q4,0.23640963317542596
+434,2025-10-05,CUST1210,Customer 1169,Central,Bhopal,Monitor,Electronics,4,17335.91,0.0,69343.64,59949.73,9393.91,Store,Credit Card,Consumer,Oct,10,Q4,0.13546894855822394
+562,2025-10-05,CUST1114,Customer 1239,West,Mumbai,Notebook,Stationery,2,92.4,0.0,184.8,145.63,39.17,Online,Credit Card,Corporate,Oct,10,Q4,0.21195887445887446
+507,2025-10-05,CUST1018,Customer 1012,East,Bhubaneswar,Notebook,Stationery,3,287.51,0.15,733.15,736.02,-2.87,Store,Debit Card,Corporate,Oct,10,Q4,-0.003914615017390712
+599,2025-10-06,CUST1235,Customer 1018,North,Jaipur,Keyboard,Accessories,2,1497.41,0.1,2695.34,2377.92,317.42,Store,Net Banking,Corporate,Oct,10,Q4,0.11776621873307264
+714,2025-10-06,CUST1251,Customer 1009,West,Mumbai,Headphones,Electronics,1,1305.39,0.02,1279.28,874.34,404.94,Online,Cash,Home Office,Oct,10,Q4,0.3165374273028579
+984,2025-10-06,CUST1132,Customer 1276,Central,Bhopal,Notebook,Stationery,4,102.0,0.1,367.2,287.85,79.35,Store,Net Banking,Home Office,Oct,10,Q4,0.21609477124183005
+295,2025-10-07,CUST1283,Customer 1040,North,Lucknow,Monitor,Electronics,1,15200.08,0.15,12920.07,11241.99,1678.08,Online,Net Banking,Corporate,Oct,10,Q4,0.1298816492480304
+26,2025-10-08,CUST1223,Customer 1054,West,Ahmedabad,Keyboard,Accessories,1,1315.46,0.05,1249.69,873.56,376.13,Store,Debit Card,Corporate,Oct,10,Q4,0.3009786427033904
+767,2025-10-08,CUST1258,Customer 1275,East,Kolkata,Keyboard,Accessories,2,2930.41,0.02,5743.6,4899.64,843.96,Store,Cash,Corporate,Oct,10,Q4,0.14693920189428233
+832,2025-10-08,CUST1175,Customer 1183,West,Mumbai,Mouse,Accessories,1,2170.06,0.05,2061.56,1421.11,640.45,Store,UPI,Home Office,Oct,10,Q4,0.31066279904538313
+269,2025-10-08,CUST1094,Customer 1201,Central,Nagpur,Water Bottle,Lifestyle,1,1099.66,0.1,989.69,718.84,270.85,Online,Cash,Home Office,Oct,10,Q4,0.2736715537188413
+381,2025-10-09,CUST1175,Customer 1162,South,Hyderabad,Laptop,Electronics,2,55137.56,0.0,110275.12,87394.81,22880.31,Online,Credit Card,Home Office,Oct,10,Q4,0.20748388213043886
+54,2025-10-09,CUST1063,Customer 1217,North,Jaipur,Laptop,Electronics,4,64607.4,0.0,258429.6,185540.08,72889.52,Store,Debit Card,Home Office,Oct,10,Q4,0.282047876868594
+334,2025-10-09,CUST1144,Customer 1025,North,Lucknow,Printer,Electronics,1,16771.94,0.15,14256.15,13138.98,1117.17,Store,Cash,Consumer,Oct,10,Q4,0.07836407445207859
+13,2025-10-10,CUST1121,Customer 1116,East,Bhubaneswar,Office Chair,Furniture,4,16649.19,0.0,66596.76,46002.0,20594.76,Online,UPI,Home Office,Oct,10,Q4,0.30924567501482053
+389,2025-10-10,CUST1269,Customer 1241,Central,Bhopal,Headphones,Electronics,4,2704.42,0.15,9195.03,8328.35,866.68,Online,Net Banking,Home Office,Oct,10,Q4,0.09425526616008864
+316,2025-10-10,CUST1054,Customer 1178,West,Mumbai,Backpack,Lifestyle,3,2822.46,0.0,8467.38,6346.22,2121.16,Online,Cash,Home Office,Oct,10,Q4,0.2505096027342578
+852,2025-10-10,CUST1227,Customer 1072,North,Lucknow,Smartphone,Electronics,3,39487.27,0.02,116092.57,78705.75,37386.82,Online,Credit Card,Consumer,Oct,10,Q4,0.3220431764065521
+889,2025-10-11,CUST1130,Customer 1043,Central,Indore,Desk,Furniture,2,13676.83,0.0,27353.66,23943.76,3409.9,Store,Net Banking,Consumer,Oct,10,Q4,0.12465973474847608
+448,2025-10-11,CUST1146,Customer 1092,East,Bhubaneswar,Keyboard,Accessories,1,3362.25,0.15,2857.91,2164.27,693.64,Online,Debit Card,Home Office,Oct,10,Q4,0.24270883267842586
+702,2025-10-12,CUST1274,Customer 1020,West,Mumbai,Laptop,Electronics,1,57987.99,0.05,55088.59,42896.7,12191.89,Online,Credit Card,Consumer,Oct,10,Q4,0.221314250373807
+545,2025-10-12,CUST1196,Customer 1152,West,Mumbai,Monitor,Electronics,2,29526.59,0.1,53147.86,49587.14,3560.72,Store,Net Banking,Corporate,Oct,10,Q4,0.06699648866388976
+89,2025-10-13,CUST1144,Customer 1019,North,Delhi,Office Chair,Furniture,1,10548.26,0.15,8966.02,8253.95,712.07,Store,UPI,Corporate,Oct,10,Q4,0.0794187387491886
+591,2025-10-13,CUST1062,Customer 1003,East,Bhubaneswar,Smartphone,Electronics,1,28053.55,0.02,27492.48,20152.61,7339.87,Store,Cash,Consumer,Oct,10,Q4,0.26697736981167214
+422,2025-10-14,CUST1273,Customer 1083,West,Ahmedabad,Desk,Furniture,3,7459.02,0.05,21258.21,13873.96,7384.25,Store,Net Banking,Home Office,Oct,10,Q4,0.34735991412259076
+815,2025-10-14,CUST1130,Customer 1078,North,Lucknow,Desk,Furniture,2,4749.37,0.15,8073.93,6117.28,1956.65,Store,UPI,Consumer,Oct,10,Q4,0.24234170967546165
+368,2025-10-14,CUST1255,Customer 1190,North,Jaipur,Headphones,Electronics,1,7584.49,0.1,6826.04,5800.35,1025.69,Store,UPI,Home Office,Oct,10,Q4,0.15026135211630756
+693,2025-10-14,CUST1081,Customer 1010,Central,Bhopal,Water Bottle,Lifestyle,1,1053.44,0.15,895.42,771.8,123.62,Store,Net Banking,Consumer,Oct,10,Q4,0.1380581179781555
+623,2025-10-15,CUST1116,Customer 1037,West,Pune,Desk,Furniture,3,15325.2,0.05,43676.82,33002.55,10674.27,Store,UPI,Home Office,Oct,10,Q4,0.24439210546921686
+169,2025-10-15,CUST1161,Customer 1272,North,Jaipur,Keyboard,Accessories,3,1050.91,0.02,3089.68,2600.54,489.14,Store,Cash,Corporate,Oct,10,Q4,0.15831412961860128
+898,2025-10-15,CUST1045,Customer 1198,West,Ahmedabad,Headphones,Electronics,3,2810.33,0.02,8262.37,6140.63,2121.74,Store,UPI,Consumer,Oct,10,Q4,0.25679556834177114
+126,2025-10-15,CUST1130,Customer 1175,West,Mumbai,Headphones,Electronics,4,4269.43,0.15,14516.06,13668.28,847.78,Store,Cash,Corporate,Oct,10,Q4,0.05840289996045759
+69,2025-10-16,CUST1150,Customer 1277,West,Pune,Smartphone,Electronics,1,27041.07,0.15,22984.91,19088.04,3896.87,Store,Cash,Corporate,Oct,10,Q4,0.16954036365598124
+331,2025-10-16,CUST1019,Customer 1195,East,Bhubaneswar,Notebook,Stationery,1,263.01,0.15,223.56,191.43,32.13,Store,Credit Card,Consumer,Oct,10,Q4,0.14371980676328502
+132,2025-10-16,CUST1102,Customer 1267,South,Chennai,Smartphone,Electronics,4,35757.74,0.05,135879.41,114524.22,21355.19,Store,Debit Card,Consumer,Oct,10,Q4,0.15716281075992306
+839,2025-10-18,CUST1180,Customer 1222,South,Chennai,Mouse,Accessories,1,1663.36,0.15,1413.86,1320.09,93.77,Store,Credit Card,Consumer,Oct,10,Q4,0.06632198378905974
+154,2025-10-18,CUST1102,Customer 1267,Central,Indore,Notebook,Stationery,1,255.52,0.0,255.52,194.68,60.84,Online,Credit Card,Corporate,Oct,10,Q4,0.2381026925485285
+740,2025-10-19,CUST1288,Customer 1226,East,Bhubaneswar,Monitor,Electronics,4,19182.03,0.02,75193.56,53969.42,21224.14,Store,Credit Card,Corporate,Oct,10,Q4,0.2822600765278303
+747,2025-10-19,CUST1119,Customer 1017,West,Ahmedabad,Monitor,Electronics,4,22738.95,0.05,86408.01,78717.76,7690.25,Online,Debit Card,Corporate,Oct,10,Q4,0.08899927217395702
+529,2025-10-19,CUST1281,Customer 1215,East,Bhubaneswar,Notebook,Stationery,4,385.46,0.02,1511.0,974.78,536.22,Store,Credit Card,Consumer,Oct,10,Q4,0.35487756452680347
+112,2025-10-20,CUST1061,Customer 1198,North,Lucknow,Laptop,Electronics,2,62832.6,0.1,113098.68,109161.35,3937.33,Online,Debit Card,Corporate,Oct,10,Q4,0.03481322682103805
+780,2025-10-20,CUST1207,Customer 1077,North,Jaipur,Printer,Electronics,1,16739.54,0.15,14228.61,13393.78,834.83,Store,Net Banking,Home Office,Oct,10,Q4,0.058672632112342665
+577,2025-10-20,CUST1103,Customer 1024,Central,Bhopal,Backpack,Lifestyle,4,2728.52,0.02,10695.8,6926.25,3769.55,Store,Cash,Consumer,Oct,10,Q4,0.3524327306045364
+607,2025-10-21,CUST1087,Customer 1149,East,Bhubaneswar,Printer,Electronics,2,6504.21,0.05,12358.0,10206.43,2151.57,Online,UPI,Consumer,Oct,10,Q4,0.17410341479203756
+86,2025-10-21,CUST1210,Customer 1017,Central,Bhopal,Printer,Electronics,2,7828.28,0.0,15656.56,13222.2,2434.36,Store,Debit Card,Home Office,Oct,10,Q4,0.15548498520747853
+909,2025-10-21,CUST1254,Customer 1180,West,Ahmedabad,Notebook,Stationery,4,214.68,0.02,841.55,556.36,285.19,Store,Net Banking,Consumer,Oct,10,Q4,0.33888657833759134
+66,2025-10-21,CUST1227,Customer 1015,East,Patna,Office Chair,Furniture,4,11651.81,0.1,41946.52,30195.19,11751.33,Store,UPI,Home Office,Oct,10,Q4,0.28015029613898845
+266,2025-10-21,CUST1209,Customer 1088,North,Lucknow,Laptop,Electronics,1,65222.58,0.02,63918.13,45121.25,18796.88,Store,UPI,Corporate,Oct,10,Q4,0.29407743937439973
+514,2025-10-21,CUST1246,Customer 1189,Central,Bhopal,Office Chair,Furniture,4,16614.26,0.0,66457.04,46868.82,19588.22,Store,Cash,Corporate,Oct,10,Q4,0.29475011225296827
+820,2025-10-22,CUST1279,Customer 1180,Central,Nagpur,Headphones,Electronics,2,3486.93,0.15,5927.78,5195.31,732.47,Store,Debit Card,Consumer,Oct,10,Q4,0.12356565189666284
+680,2025-10-22,CUST1042,Customer 1285,East,Patna,Headphones,Electronics,2,3303.71,0.0,6607.42,4124.3,2483.12,Online,Debit Card,Corporate,Oct,10,Q4,0.37580780395373686
+203,2025-10-22,CUST1129,Customer 1280,Central,Bhopal,Keyboard,Accessories,1,2706.25,0.1,2435.62,1712.95,722.67,Online,Cash,Corporate,Oct,10,Q4,0.29670884620753646
+982,2025-10-22,CUST1006,Customer 1021,South,Hyderabad,Keyboard,Accessories,4,3288.83,0.02,12892.21,11241.9,1650.31,Online,Credit Card,Home Office,Oct,10,Q4,0.12800830889351011
+356,2025-10-23,CUST1209,Customer 1128,South,Hyderabad,Desk,Furniture,1,5138.9,0.1,4625.01,3228.53,1396.48,Store,Cash,Home Office,Oct,10,Q4,0.30194096877628374
+360,2025-10-23,CUST1236,Customer 1056,South,Hyderabad,Keyboard,Accessories,2,2230.68,0.0,4461.36,3888.6,572.76,Online,Debit Card,Corporate,Oct,10,Q4,0.12838237667437732
+413,2025-10-23,CUST1171,Customer 1195,West,Mumbai,Backpack,Lifestyle,1,2957.81,0.1,2662.03,1912.93,749.1,Store,Debit Card,Corporate,Oct,10,Q4,0.28140178735776833
+964,2025-10-23,CUST1276,Customer 1239,Central,Indore,Mouse,Accessories,1,1560.38,0.1,1404.34,1007.89,396.45,Online,Net Banking,Corporate,Oct,10,Q4,0.28230343079311276
+782,2025-10-23,CUST1220,Customer 1147,East,Kolkata,Office Chair,Furniture,1,8539.71,0.0,8539.71,6673.04,1866.67,Online,Cash,Home Office,Oct,10,Q4,0.21858704803793105
+84,2025-10-24,CUST1214,Customer 1267,West,Ahmedabad,Backpack,Lifestyle,1,1079.2,0.15,917.32,698.35,218.97,Online,UPI,Corporate,Oct,10,Q4,0.23870623119522086
+537,2025-10-24,CUST1231,Customer 1010,West,Ahmedabad,Smartphone,Electronics,4,48360.15,0.02,189571.79,142904.23,46667.56,Store,Debit Card,Home Office,Oct,10,Q4,0.24617354723506063
+214,2025-10-24,CUST1164,Customer 1085,South,Hyderabad,Headphones,Electronics,1,4199.29,0.1,3779.36,3174.94,604.42,Store,UPI,Home Office,Oct,10,Q4,0.15992654841031284
+402,2025-10-25,CUST1054,Customer 1272,Central,Bhopal,Office Chair,Furniture,3,6760.97,0.02,19877.25,17461.16,2416.09,Online,Debit Card,Corporate,Oct,10,Q4,0.12155051629375292
+19,2025-10-25,CUST1099,Customer 1263,South,Bengaluru,Water Bottle,Lifestyle,1,709.28,0.02,695.09,610.28,84.81,Store,Credit Card,Consumer,Oct,10,Q4,0.12201297673682544
+651,2025-10-25,CUST1204,Customer 1238,South,Chennai,Desk,Furniture,1,8963.99,0.0,8963.99,7173.74,1790.25,Store,Debit Card,Home Office,Oct,10,Q4,0.19971575157937482
+799,2025-10-25,CUST1233,Customer 1271,South,Hyderabad,Headphones,Electronics,1,7091.71,0.15,6027.95,4422.01,1605.94,Store,Debit Card,Home Office,Oct,10,Q4,0.2664156139317679
+563,2025-10-27,CUST1082,Customer 1087,Central,Nagpur,Headphones,Electronics,1,3190.05,0.02,3126.25,2336.15,790.1,Online,Debit Card,Corporate,Oct,10,Q4,0.2527309076369452
+725,2025-10-27,CUST1218,Customer 1222,North,Lucknow,Backpack,Lifestyle,4,2722.63,0.15,9256.94,7098.93,2158.01,Online,UPI,Consumer,Oct,10,Q4,0.23312347276745882
+137,2025-10-28,CUST1243,Customer 1122,North,Jaipur,Water Bottle,Lifestyle,2,1169.79,0.1,2105.62,1547.59,558.03,Online,Cash,Consumer,Oct,10,Q4,0.2650193292236966
+564,2025-10-28,CUST1148,Customer 1280,West,Pune,Printer,Electronics,2,10274.31,0.1,18493.76,17377.55,1116.21,Online,Debit Card,Corporate,Oct,10,Q4,0.060356033602685454
+283,2025-10-29,CUST1223,Customer 1222,Central,Bhopal,Keyboard,Accessories,3,3398.24,0.02,9990.83,7770.25,2220.58,Online,Net Banking,Consumer,Oct,10,Q4,0.2222618140835146
+748,2025-10-29,CUST1113,Customer 1035,East,Kolkata,Mouse,Accessories,1,1300.33,0.05,1235.31,994.41,240.9,Store,Net Banking,Corporate,Oct,10,Q4,0.19501177841999176
+223,2025-10-29,CUST1142,Customer 1039,North,Lucknow,Mouse,Accessories,2,1112.64,0.05,2114.02,1821.21,292.81,Online,Debit Card,Consumer,Oct,10,Q4,0.13850862338104655
+642,2025-10-29,CUST1038,Customer 1136,South,Chennai,Mouse,Accessories,4,1830.97,0.05,6957.69,5742.72,1214.97,Store,Net Banking,Home Office,Oct,10,Q4,0.1746226118151283
+894,2025-10-30,CUST1279,Customer 1117,South,Chennai,Monitor,Electronics,2,15709.95,0.15,26706.92,23040.86,3666.06,Store,Debit Card,Home Office,Oct,10,Q4,0.13727004087330175
+863,2025-10-30,CUST1029,Customer 1077,West,Mumbai,Desk,Furniture,3,12655.09,0.02,37205.96,28696.77,8509.19,Store,UPI,Home Office,Oct,10,Q4,0.2287050246788418
+273,2025-10-30,CUST1053,Customer 1074,West,Ahmedabad,Headphones,Electronics,1,5734.69,0.02,5620.0,4366.33,1253.67,Store,Net Banking,Consumer,Oct,10,Q4,0.2230729537366548
+390,2025-10-30,CUST1005,Customer 1020,West,Pune,Keyboard,Accessories,1,3321.12,0.0,3321.12,2578.64,742.48,Store,Debit Card,Corporate,Oct,10,Q4,0.22356313532784122
+676,2025-10-30,CUST1057,Customer 1050,East,Patna,Water Bottle,Lifestyle,2,792.72,0.1,1426.9,1352.42,74.48,Store,Credit Card,Corporate,Oct,10,Q4,0.052197070572569906
+104,2025-10-30,CUST1012,Customer 1080,Central,Indore,Water Bottle,Lifestyle,1,1454.52,0.02,1425.43,1162.96,262.47,Store,Debit Card,Home Office,Oct,10,Q4,0.18413391046912161
+127,2025-10-30,CUST1084,Customer 1262,East,Patna,Headphones,Electronics,2,7665.87,0.1,13798.57,12420.71,1377.86,Online,UPI,Consumer,Oct,10,Q4,0.09985527485819182
+856,2025-10-30,CUST1035,Customer 1215,South,Hyderabad,Notebook,Stationery,1,201.59,0.1,181.43,176.38,5.05,Online,Cash,Corporate,Oct,10,Q4,0.027834426500578734
+516,2025-10-31,CUST1298,Customer 1283,North,Lucknow,Smartphone,Electronics,1,20771.15,0.1,18694.04,17400.88,1293.16,Store,UPI,Corporate,Oct,10,Q4,0.06917498839202227
+967,2025-10-31,CUST1116,Customer 1269,South,Hyderabad,Laptop,Electronics,1,67475.44,0.1,60727.9,50070.36,10657.54,Store,Debit Card,Corporate,Oct,10,Q4,0.17549660040936704
+349,2025-10-31,CUST1291,Customer 1086,West,Ahmedabad,Water Bottle,Lifestyle,3,1319.01,0.05,3759.18,2467.45,1291.73,Store,Credit Card,Consumer,Oct,10,Q4,0.34362015120318795
+688,2025-11-01,CUST1225,Customer 1188,East,Kolkata,Mouse,Accessories,4,1472.94,0.0,5891.76,4092.3,1799.46,Store,Net Banking,Home Office,Nov,11,Q4,0.30541977269949894
+594,2025-11-01,CUST1298,Customer 1204,East,Bhubaneswar,Printer,Electronics,2,19056.91,0.05,36208.13,27498.24,8709.89,Online,Cash,Corporate,Nov,11,Q4,0.24055067190711035
+139,2025-11-01,CUST1213,Customer 1159,East,Bhubaneswar,Headphones,Electronics,2,5825.55,0.0,11651.1,9769.65,1881.45,Store,Net Banking,Consumer,Nov,11,Q4,0.16148260679249168
+249,2025-11-01,CUST1162,Customer 1042,East,Patna,Monitor,Electronics,3,9649.69,0.1,26054.16,25325.47,728.69,Store,Net Banking,Home Office,Nov,11,Q4,0.02796827838625387
+431,2025-11-01,CUST1007,Customer 1122,North,Delhi,Mouse,Accessories,2,1015.13,0.1,1827.23,1467.76,359.47,Online,Cash,Corporate,Nov,11,Q4,0.19672947576386116
+333,2025-11-01,CUST1007,Customer 1103,Central,Indore,Desk,Furniture,4,12304.88,0.15,41836.59,35530.76,6305.83,Online,UPI,Consumer,Nov,11,Q4,0.15072523836192195
+628,2025-11-02,CUST1151,Customer 1141,North,Delhi,Backpack,Lifestyle,1,2780.66,0.15,2363.56,1835.92,527.64,Online,Cash,Corporate,Nov,11,Q4,0.22323952004603226
+536,2025-11-04,CUST1019,Customer 1300,Central,Nagpur,Headphones,Electronics,1,3273.34,0.1,2946.01,2282.97,663.04,Online,UPI,Consumer,Nov,11,Q4,0.22506373026568136
+929,2025-11-04,CUST1138,Customer 1174,South,Hyderabad,Monitor,Electronics,2,14249.97,0.15,24224.95,22779.95,1445.0,Store,UPI,Home Office,Nov,11,Q4,0.059649245922076204
+227,2025-11-05,CUST1227,Customer 1222,West,Mumbai,Printer,Electronics,2,6198.46,0.0,12396.92,10343.73,2053.19,Online,Cash,Home Office,Nov,11,Q4,0.16562097682327545
+613,2025-11-05,CUST1069,Customer 1104,East,Bhubaneswar,Keyboard,Accessories,4,2379.31,0.15,8089.65,5978.25,2111.4,Store,UPI,Corporate,Nov,11,Q4,0.26100016687990213
+633,2025-11-05,CUST1100,Customer 1261,South,Hyderabad,Smartphone,Electronics,2,29675.48,0.02,58163.94,50512.16,7651.78,Online,UPI,Corporate,Nov,11,Q4,0.13155539325568383
+159,2025-11-06,CUST1172,Customer 1173,North,Jaipur,Backpack,Lifestyle,2,3286.16,0.1,5915.09,4223.57,1691.52,Store,Debit Card,Consumer,Nov,11,Q4,0.2859669083648769
+641,2025-11-06,CUST1084,Customer 1242,North,Jaipur,Smartphone,Electronics,4,29208.97,0.05,110994.09,101735.12,9258.97,Online,Debit Card,Corporate,Nov,11,Q4,0.08341858562018932
+421,2025-11-06,CUST1044,Customer 1098,Central,Indore,Office Chair,Furniture,4,6641.52,0.1,23909.47,22854.96,1054.51,Online,Net Banking,Home Office,Nov,11,Q4,0.04410428169256784
+453,2025-11-06,CUST1150,Customer 1016,East,Bhubaneswar,Headphones,Electronics,3,4325.58,0.15,11030.23,10132.74,897.49,Store,Debit Card,Consumer,Nov,11,Q4,0.08136639036538676
+55,2025-11-07,CUST1006,Customer 1197,North,Delhi,Laptop,Electronics,1,64373.86,0.0,64373.86,40140.62,24233.24,Online,Net Banking,Corporate,Nov,11,Q4,0.3764453459836027
+571,2025-11-07,CUST1235,Customer 1149,East,Kolkata,Keyboard,Accessories,4,1177.17,0.15,4002.38,3469.12,533.26,Store,Debit Card,Corporate,Nov,11,Q4,0.13323572474377746
+53,2025-11-08,CUST1286,Customer 1242,East,Kolkata,Mouse,Accessories,2,2114.66,0.0,4229.32,3082.09,1147.23,Online,Net Banking,Consumer,Nov,11,Q4,0.2712563721827623
+279,2025-11-08,CUST1096,Customer 1143,West,Ahmedabad,Notebook,Stationery,1,98.51,0.0,98.51,67.2,31.31,Store,Cash,Corporate,Nov,11,Q4,0.31783575271546033
+968,2025-11-09,CUST1057,Customer 1290,Central,Bhopal,Notebook,Stationery,2,228.64,0.1,411.55,304.01,107.54,Online,Credit Card,Corporate,Nov,11,Q4,0.26130482322925525
+989,2025-11-09,CUST1026,Customer 1262,South,Chennai,Keyboard,Accessories,2,1503.71,0.02,2947.27,2127.97,819.3,Store,Cash,Home Office,Nov,11,Q4,0.2779860684633576
+28,2025-11-09,CUST1036,Customer 1173,South,Hyderabad,Smartphone,Electronics,2,50081.68,0.1,90147.02,75417.9,14729.12,Store,UPI,Corporate,Nov,11,Q4,0.16338998227562043
+243,2025-11-09,CUST1118,Customer 1100,East,Patna,Notebook,Stationery,1,265.37,0.05,252.1,204.7,47.4,Store,UPI,Home Office,Nov,11,Q4,0.18802062673542244
+199,2025-11-10,CUST1117,Customer 1192,West,Ahmedabad,Laptop,Electronics,1,67729.81,0.15,57570.34,55128.04,2442.3,Online,Net Banking,Corporate,Nov,11,Q4,0.042422886507184086
+39,2025-11-10,CUST1114,Customer 1075,South,Chennai,Backpack,Lifestyle,1,1785.62,0.0,1785.62,1337.38,448.24,Online,Cash,Consumer,Nov,11,Q4,0.25102765426014495
+319,2025-11-10,CUST1161,Customer 1016,Central,Indore,Smartphone,Electronics,2,20313.47,0.02,39814.4,32928.57,6885.83,Store,Credit Card,Corporate,Nov,11,Q4,0.172948229786208
+14,2025-11-11,CUST1160,Customer 1096,East,Kolkata,Keyboard,Accessories,1,2669.58,0.1,2402.62,1824.58,578.04,Store,UPI,Consumer,Nov,11,Q4,0.2405873587999767
+622,2025-11-11,CUST1285,Customer 1106,Central,Bhopal,Printer,Electronics,3,9171.14,0.02,26963.15,20126.34,6836.81,Store,UPI,Corporate,Nov,11,Q4,0.25356124933474017
+189,2025-11-11,CUST1124,Customer 1114,East,Bhubaneswar,Laptop,Electronics,4,73561.67,0.0,294246.68,210905.26,83341.42,Store,Cash,Corporate,Nov,11,Q4,0.28323656871846437
+268,2025-11-12,CUST1217,Customer 1120,West,Ahmedabad,Keyboard,Accessories,4,1113.26,0.02,4363.98,3414.61,949.37,Online,Credit Card,Home Office,Nov,11,Q4,0.21754682652074483
+4,2025-11-12,CUST1014,Customer 1242,East,Kolkata,Headphones,Electronics,1,5826.09,0.02,5709.57,5049.53,660.04,Store,UPI,Corporate,Nov,11,Q4,0.11560240088132731
+958,2025-11-12,CUST1059,Customer 1213,Central,Indore,Smartphone,Electronics,1,39570.94,0.15,33635.3,34298.54,-663.24,Store,Credit Card,Corporate,Nov,11,Q4,-0.019718569479088933
+795,2025-11-12,CUST1225,Customer 1217,West,Pune,Smartphone,Electronics,1,27507.24,0.02,26957.1,18650.0,8307.1,Store,Net Banking,Home Office,Nov,11,Q4,0.30816000237414265
+392,2025-11-13,CUST1145,Customer 1050,East,Patna,Monitor,Electronics,1,20563.93,0.1,18507.54,17105.37,1402.17,Online,Debit Card,Consumer,Nov,11,Q4,0.0757620948002814
+49,2025-11-13,CUST1149,Customer 1080,North,Jaipur,Keyboard,Accessories,2,3400.7,0.15,5781.19,5931.97,-150.78,Store,Net Banking,Home Office,Nov,11,Q4,-0.026081135544758088
+24,2025-11-13,CUST1147,Customer 1004,East,Patna,Smartphone,Electronics,1,30952.9,0.1,27857.61,24574.13,3283.48,Online,UPI,Consumer,Nov,11,Q4,0.11786653628936582
+310,2025-11-14,CUST1169,Customer 1082,North,Jaipur,Backpack,Lifestyle,3,1366.35,0.02,4017.07,2662.16,1354.91,Store,Cash,Consumer,Nov,11,Q4,0.3372881229353733
+803,2025-11-14,CUST1241,Customer 1247,Central,Bhopal,Headphones,Electronics,1,2628.32,0.02,2575.75,1845.91,729.84,Online,Cash,Consumer,Nov,11,Q4,0.28335048044258954
+467,2025-11-14,CUST1144,Customer 1216,South,Hyderabad,Mouse,Accessories,2,1032.55,0.05,1961.84,1494.21,467.63,Online,Cash,Home Office,Nov,11,Q4,0.2383629653794397
+343,2025-11-14,CUST1224,Customer 1062,North,Jaipur,Smartphone,Electronics,1,22945.07,0.02,22486.17,16915.15,5571.02,Store,UPI,Home Office,Nov,11,Q4,0.2477531745068191
+658,2025-11-14,CUST1177,Customer 1228,North,Lucknow,Backpack,Lifestyle,1,2165.55,0.15,1840.72,1645.63,195.09,Online,Credit Card,Home Office,Nov,11,Q4,0.105985701247338
+871,2025-11-15,CUST1181,Customer 1057,South,Hyderabad,Monitor,Electronics,2,25212.67,0.0,50425.34,33499.46,16925.88,Store,Cash,Home Office,Nov,11,Q4,0.33566218889153754
+615,2025-11-15,CUST1214,Customer 1208,South,Hyderabad,Smartphone,Electronics,1,41056.1,0.02,40234.98,32892.35,7342.63,Online,Credit Card,Corporate,Nov,11,Q4,0.18249369081331715
+364,2025-11-15,CUST1167,Customer 1013,Central,Nagpur,Smartphone,Electronics,1,42686.86,0.02,41833.12,29949.43,11883.69,Online,UPI,Corporate,Nov,11,Q4,0.28407371957912775
+829,2025-11-15,CUST1089,Customer 1187,South,Chennai,Laptop,Electronics,3,69173.62,0.05,197144.82,178359.63,18785.19,Online,Credit Card,Consumer,Nov,11,Q4,0.09528624693258488
+890,2025-11-16,CUST1067,Customer 1249,West,Ahmedabad,Office Chair,Furniture,4,8668.02,0.02,33978.64,28114.17,5864.47,Online,Debit Card,Corporate,Nov,11,Q4,0.1725928406787323
+737,2025-11-16,CUST1199,Customer 1114,East,Bhubaneswar,Office Chair,Furniture,1,7139.52,0.02,6996.73,5947.59,1049.14,Store,Debit Card,Consumer,Nov,11,Q4,0.1499471896157205
+128,2025-11-16,CUST1281,Customer 1280,East,Patna,Laptop,Electronics,3,61414.85,0.02,180559.66,124440.1,56119.56,Store,Credit Card,Home Office,Nov,11,Q4,0.3108089592104903
+687,2025-11-16,CUST1041,Customer 1215,Central,Nagpur,Notebook,Stationery,1,319.23,0.0,319.23,258.09,61.14,Online,Cash,Consumer,Nov,11,Q4,0.19152335306832063
+387,2025-11-17,CUST1249,Customer 1191,South,Hyderabad,Monitor,Electronics,1,9572.25,0.15,8136.41,7462.84,673.57,Store,Credit Card,Consumer,Nov,11,Q4,0.08278466793094252
+547,2025-11-17,CUST1213,Customer 1109,West,Mumbai,Headphones,Electronics,1,5120.12,0.15,4352.1,4252.74,99.36,Online,Credit Card,Home Office,Nov,11,Q4,0.022830357758323566
+974,2025-11-19,CUST1297,Customer 1171,North,Jaipur,Backpack,Lifestyle,3,1307.28,0.15,3333.56,2844.92,488.64,Online,Net Banking,Corporate,Nov,11,Q4,0.14658203242179532
+257,2025-11-19,CUST1054,Customer 1298,Central,Nagpur,Office Chair,Furniture,3,5248.51,0.15,13383.7,9887.29,3496.41,Store,Net Banking,Corporate,Nov,11,Q4,0.2612439011633554
+83,2025-11-20,CUST1133,Customer 1293,North,Lucknow,Desk,Furniture,2,14465.49,0.1,26037.88,22188.17,3849.71,Store,Credit Card,Consumer,Nov,11,Q4,0.14785036262552864
+526,2025-11-21,CUST1244,Customer 1182,North,Jaipur,Keyboard,Accessories,1,1614.89,0.1,1453.4,1213.42,239.98,Store,Debit Card,Consumer,Nov,11,Q4,0.16511627906976742
+423,2025-11-21,CUST1219,Customer 1089,West,Ahmedabad,Keyboard,Accessories,3,2189.05,0.0,6567.15,4727.37,1839.78,Store,UPI,Home Office,Nov,11,Q4,0.2801489230488111
+874,2025-11-21,CUST1015,Customer 1175,West,Ahmedabad,Laptop,Electronics,4,71092.83,0.02,278683.89,232708.94,45974.95,Online,Debit Card,Home Office,Nov,11,Q4,0.164971681714361
+229,2025-11-21,CUST1276,Customer 1172,West,Ahmedabad,Water Bottle,Lifestyle,1,1494.53,0.15,1270.35,1129.23,141.12,Online,Net Banking,Consumer,Nov,11,Q4,0.11108749557208644
+245,2025-11-21,CUST1176,Customer 1116,East,Patna,Water Bottle,Lifestyle,1,791.55,0.0,791.55,630.11,161.44,Store,Cash,Corporate,Nov,11,Q4,0.20395426694460236
+937,2025-11-21,CUST1010,Customer 1288,East,Kolkata,Keyboard,Accessories,1,1237.31,0.05,1175.44,887.89,287.55,Online,Debit Card,Home Office,Nov,11,Q4,0.2446317974545702
+544,2025-11-21,CUST1246,Customer 1251,West,Mumbai,Laptop,Electronics,1,55480.82,0.1,49932.74,45198.09,4734.65,Online,UPI,Home Office,Nov,11,Q4,0.09482055260736742
+561,2025-11-22,CUST1091,Customer 1238,South,Chennai,Printer,Electronics,4,14863.67,0.0,59454.68,43896.56,15558.12,Store,Credit Card,Corporate,Nov,11,Q4,0.26168032524941687
+945,2025-11-22,CUST1230,Customer 1067,Central,Nagpur,Smartphone,Electronics,4,39225.17,0.0,156900.68,122975.51,33925.17,Store,Cash,Consumer,Nov,11,Q4,0.21622066902450646
+553,2025-11-22,CUST1178,Customer 1003,South,Chennai,Backpack,Lifestyle,1,1623.5,0.1,1461.15,1296.64,164.51,Store,Credit Card,Home Office,Nov,11,Q4,0.11258939876124968
+806,2025-11-23,CUST1051,Customer 1081,North,Delhi,Backpack,Lifestyle,1,1215.29,0.15,1033.0,883.33,149.67,Store,Debit Card,Consumer,Nov,11,Q4,0.14488867376573086
+677,2025-11-23,CUST1094,Customer 1298,West,Mumbai,Desk,Furniture,2,9147.03,0.02,17928.18,13821.26,4106.92,Online,Debit Card,Consumer,Nov,11,Q4,0.22907623640548008
+661,2025-11-23,CUST1225,Customer 1280,West,Ahmedabad,Printer,Electronics,1,8323.6,0.0,8323.6,7244.6,1079.0,Online,UPI,Home Office,Nov,11,Q4,0.12963140948627996
+650,2025-11-23,CUST1067,Customer 1062,Central,Nagpur,Notebook,Stationery,1,300.85,0.05,285.81,256.3,29.51,Online,Net Banking,Home Office,Nov,11,Q4,0.1032504111122774
+660,2025-11-23,CUST1129,Customer 1049,South,Hyderabad,Office Chair,Furniture,1,7127.78,0.1,6415.0,4541.16,1873.84,Store,Net Banking,Consumer,Nov,11,Q4,0.2921028838659392
+1,2025-11-27,CUST1088,Customer 1100,West,Mumbai,Water Bottle,Lifestyle,2,1235.63,0.02,2421.83,1632.41,789.42,Store,Debit Card,Corporate,Nov,11,Q4,0.3259601210654753
+662,2025-11-27,CUST1159,Customer 1128,West,Mumbai,Office Chair,Furniture,2,9535.32,0.0,19070.64,16016.15,3054.49,Store,Net Banking,Home Office,Nov,11,Q4,0.16016714698615253
+709,2025-11-28,CUST1015,Customer 1255,North,Lucknow,Water Bottle,Lifestyle,3,910.73,0.0,2732.19,2382.28,349.91,Store,UPI,Consumer,Nov,11,Q4,0.12806942416157002
+991,2025-11-28,CUST1165,Customer 1242,North,Delhi,Backpack,Lifestyle,3,1807.82,0.15,4609.94,4675.38,-65.44,Store,Credit Card,Home Office,Nov,11,Q4,-0.014195412521638027
+899,2025-11-29,CUST1104,Customer 1245,East,Patna,Mouse,Accessories,4,1369.61,0.15,4656.67,3456.29,1200.38,Online,UPI,Consumer,Nov,11,Q4,0.2577764797591412
+167,2025-11-29,CUST1287,Customer 1208,North,Lucknow,Smartphone,Electronics,2,34515.04,0.1,62127.07,44391.83,17735.24,Store,UPI,Home Office,Nov,11,Q4,0.2854671884574631
+142,2025-11-30,CUST1002,Customer 1293,North,Lucknow,Backpack,Lifestyle,3,2761.14,0.02,8117.75,5647.31,2470.44,Online,Net Banking,Consumer,Nov,11,Q4,0.30432570601459763
+670,2025-11-30,CUST1152,Customer 1239,North,Lucknow,Laptop,Electronics,2,60739.74,0.05,115405.51,86569.31,28836.2,Online,UPI,Corporate,Nov,11,Q4,0.24986848548219234
+484,2025-11-30,CUST1009,Customer 1251,South,Bengaluru,Monitor,Electronics,2,29834.85,0.02,58476.31,38505.78,19970.53,Online,Cash,Corporate,Nov,11,Q4,0.34151488012838016
+175,2025-11-30,CUST1020,Customer 1146,West,Mumbai,Monitor,Electronics,2,10679.27,0.1,19222.69,14973.88,4248.81,Online,Cash,Home Office,Nov,11,Q4,0.22103097953512232
+418,2025-11-30,CUST1146,Customer 1216,West,Mumbai,Notebook,Stationery,4,133.09,0.15,452.51,339.67,112.84,Store,Credit Card,Corporate,Nov,11,Q4,0.24936465492475304
+774,2025-12-02,CUST1038,Customer 1135,Central,Indore,Laptop,Electronics,2,73288.83,0.0,146577.66,123181.88,23395.78,Store,Debit Card,Consumer,Dec,12,Q4,0.15961354547480153
+947,2025-12-03,CUST1008,Customer 1027,East,Kolkata,Printer,Electronics,2,20467.06,0.05,38887.41,33946.85,4940.56,Store,Credit Card,Home Office,Dec,12,Q4,0.1270478028750179
+979,2025-12-03,CUST1173,Customer 1275,East,Kolkata,Keyboard,Accessories,1,1843.4,0.05,1751.23,1428.25,322.98,Store,Net Banking,Corporate,Dec,12,Q4,0.18443037179582353
+372,2025-12-03,CUST1116,Customer 1143,Central,Bhopal,Smartphone,Electronics,2,24316.21,0.15,41337.56,30726.82,10610.74,Online,Cash,Corporate,Dec,12,Q4,0.25668520348080537
+963,2025-12-04,CUST1175,Customer 1152,West,Pune,Water Bottle,Lifestyle,4,1278.22,0.05,4857.24,3273.46,1583.78,Store,Credit Card,Consumer,Dec,12,Q4,0.326065831624544
+444,2025-12-05,CUST1266,Customer 1029,East,Patna,Backpack,Lifestyle,2,1108.27,0.05,2105.71,1468.4,637.31,Online,Debit Card,Corporate,Dec,12,Q4,0.3026580108371998
+682,2025-12-06,CUST1053,Customer 1168,West,Ahmedabad,Printer,Electronics,3,12502.5,0.0,37507.5,31041.43,6466.07,Online,Cash,Consumer,Dec,12,Q4,0.17239405452242884
+170,2025-12-07,CUST1258,Customer 1249,Central,Bhopal,Monitor,Electronics,1,15365.7,0.15,13060.85,10965.51,2095.34,Online,UPI,Home Office,Dec,12,Q4,0.1604290685521999
+29,2025-12-08,CUST1051,Customer 1153,West,Ahmedabad,Office Chair,Furniture,1,5359.02,0.02,5251.84,3933.54,1318.3,Store,Net Banking,Corporate,Dec,12,Q4,0.2510167864976846
+95,2025-12-08,CUST1280,Customer 1081,Central,Bhopal,Printer,Electronics,2,12978.02,0.05,24658.24,22493.45,2164.79,Store,Debit Card,Corporate,Dec,12,Q4,0.08779174831618151
+711,2025-12-09,CUST1133,Customer 1055,South,Chennai,Monitor,Electronics,1,24143.58,0.0,24143.58,20257.89,3885.69,Online,UPI,Corporate,Dec,12,Q4,0.1609409209404736
+517,2025-12-09,CUST1287,Customer 1064,South,Chennai,Printer,Electronics,1,7907.37,0.0,7907.37,5011.01,2896.36,Online,UPI,Consumer,Dec,12,Q4,0.36628613559249157
+821,2025-12-09,CUST1075,Customer 1290,Central,Nagpur,Smartphone,Electronics,1,35801.65,0.0,35801.65,24145.48,11656.17,Online,Credit Card,Corporate,Dec,12,Q4,0.3255763351689098
+927,2025-12-10,CUST1062,Customer 1300,South,Bengaluru,Notebook,Stationery,1,252.81,0.0,252.81,197.75,55.06,Online,Debit Card,Home Office,Dec,12,Q4,0.21779201772081802
+246,2025-12-10,CUST1067,Customer 1075,North,Lucknow,Monitor,Electronics,1,12514.55,0.15,10637.37,8502.47,2134.9,Online,Cash,Corporate,Dec,12,Q4,0.20069810488870837
+131,2025-12-10,CUST1072,Customer 1064,West,Mumbai,Mouse,Accessories,2,883.42,0.15,1501.81,1219.01,282.8,Online,UPI,Consumer,Dec,12,Q4,0.1883061106265107
+87,2025-12-10,CUST1161,Customer 1177,West,Ahmedabad,Headphones,Electronics,1,2887.94,0.1,2599.15,2105.08,494.07,Online,Debit Card,Corporate,Dec,12,Q4,0.1900890675797857
+184,2025-12-10,CUST1173,Customer 1069,South,Hyderabad,Mouse,Accessories,4,1582.34,0.0,6329.36,4033.89,2295.47,Store,Cash,Consumer,Dec,12,Q4,0.3626701593842031
+850,2025-12-11,CUST1249,Customer 1192,North,Jaipur,Headphones,Electronics,2,3117.12,0.15,5299.1,3949.01,1350.09,Store,UPI,Corporate,Dec,12,Q4,0.2547772263214508
+311,2025-12-11,CUST1291,Customer 1208,North,Lucknow,Laptop,Electronics,1,62952.25,0.05,59804.64,42391.2,17413.44,Store,Cash,Corporate,Dec,12,Q4,0.2911720562150361
+699,2025-12-11,CUST1019,Customer 1159,Central,Indore,Printer,Electronics,4,20553.39,0.02,80569.29,55806.52,24762.77,Store,Credit Card,Consumer,Dec,12,Q4,0.30734750175904496
+63,2025-12-12,CUST1046,Customer 1034,South,Chennai,Mouse,Accessories,1,650.79,0.15,553.17,481.46,71.71,Online,Credit Card,Consumer,Dec,12,Q4,0.1296346511922194
+438,2025-12-12,CUST1087,Customer 1090,West,Pune,Monitor,Electronics,2,25452.86,0.15,43269.86,33207.32,10062.54,Online,Cash,Corporate,Dec,12,Q4,0.2325530981611681
+570,2025-12-12,CUST1230,Customer 1255,North,Lucknow,Backpack,Lifestyle,1,2620.71,0.15,2227.6,2135.57,92.03,Store,Credit Card,Consumer,Dec,12,Q4,0.041313521278506016
+787,2025-12-12,CUST1095,Customer 1245,East,Patna,Notebook,Stationery,2,248.79,0.05,472.7,308.6,164.1,Online,Credit Card,Home Office,Dec,12,Q4,0.34715464353712716
+705,2025-12-13,CUST1213,Customer 1139,East,Patna,Notebook,Stationery,4,276.91,0.1,996.88,936.14,60.74,Online,Net Banking,Consumer,Dec,12,Q4,0.06093010191798411
+455,2025-12-13,CUST1088,Customer 1168,Central,Indore,Smartphone,Electronics,1,39296.96,0.15,33402.42,29183.98,4218.44,Online,Credit Card,Home Office,Dec,12,Q4,0.1262914483441619
+557,2025-12-14,CUST1171,Customer 1022,East,Kolkata,Printer,Electronics,2,21887.1,0.1,39396.78,29710.35,9686.43,Online,Debit Card,Home Office,Dec,12,Q4,0.2458685709847353
+48,2025-12-14,CUST1190,Customer 1191,South,Chennai,Backpack,Lifestyle,2,2826.53,0.0,5653.06,4598.74,1054.32,Store,UPI,Consumer,Dec,12,Q4,0.1865043003258412
+25,2025-12-15,CUST1181,Customer 1095,West,Pune,Keyboard,Accessories,2,3185.43,0.0,6370.86,5528.62,842.24,Online,Cash,Consumer,Dec,12,Q4,0.13220193192127908
+831,2025-12-15,CUST1068,Customer 1028,South,Bengaluru,Laptop,Electronics,4,64618.83,0.05,245551.55,167524.07,78027.48,Store,Credit Card,Home Office,Dec,12,Q4,0.3177641517636521
+713,2025-12-15,CUST1271,Customer 1111,North,Lucknow,Water Bottle,Lifestyle,4,1297.49,0.05,4930.46,3690.93,1239.53,Online,Cash,Corporate,Dec,12,Q4,0.25140250605420184
+113,2025-12-15,CUST1063,Customer 1243,Central,Bhopal,Printer,Electronics,2,17893.65,0.05,33997.93,25924.71,8073.22,Online,Credit Card,Home Office,Dec,12,Q4,0.23746210431046832
+91,2025-12-15,CUST1008,Customer 1247,South,Hyderabad,Smartphone,Electronics,4,33123.16,0.1,119243.38,111074.56,8168.82,Online,Debit Card,Home Office,Dec,12,Q4,0.06850543820545844
+917,2025-12-16,CUST1110,Customer 1138,East,Kolkata,Laptop,Electronics,1,60069.14,0.05,57065.68,46876.3,10189.38,Online,Debit Card,Home Office,Dec,12,Q4,0.1785553067973605
+158,2025-12-16,CUST1263,Customer 1108,South,Chennai,Smartphone,Electronics,2,32796.49,0.1,59033.68,54706.2,4327.48,Store,Net Banking,Home Office,Dec,12,Q4,0.07330527251562158
+956,2025-12-16,CUST1126,Customer 1230,East,Bhubaneswar,Headphones,Electronics,2,3199.22,0.0,6398.44,4486.29,1912.15,Store,UPI,Corporate,Dec,12,Q4,0.2988462812810623
+704,2025-12-16,CUST1165,Customer 1139,West,Ahmedabad,Mouse,Accessories,1,892.66,0.05,848.03,640.99,207.04,Store,Debit Card,Consumer,Dec,12,Q4,0.2441423062863342
+722,2025-12-17,CUST1138,Customer 1229,South,Bengaluru,Water Bottle,Lifestyle,2,409.12,0.1,736.42,603.54,132.88,Store,Net Banking,Corporate,Dec,12,Q4,0.18044050949186605
+531,2025-12-18,CUST1218,Customer 1273,West,Pune,Notebook,Stationery,1,153.72,0.02,150.65,110.07,40.58,Store,Debit Card,Home Office,Dec,12,Q4,0.2693660803186193
+921,2025-12-18,CUST1062,Customer 1046,East,Bhubaneswar,Mouse,Accessories,4,1035.51,0.0,4142.04,2953.37,1188.67,Online,Debit Card,Home Office,Dec,12,Q4,0.2869769485567498
+313,2025-12-18,CUST1048,Customer 1233,Central,Bhopal,Mouse,Accessories,4,2140.53,0.05,8134.01,6813.45,1320.56,Online,Cash,Home Office,Dec,12,Q4,0.16235042740296604
+541,2025-12-19,CUST1193,Customer 1237,North,Delhi,Desk,Furniture,4,9666.98,0.0,38667.92,26779.16,11888.76,Online,Credit Card,Consumer,Dec,12,Q4,0.3074579651556122
+234,2025-12-19,CUST1090,Customer 1295,West,Mumbai,Mouse,Accessories,1,1952.03,0.05,1854.43,1638.57,215.86,Online,Net Banking,Consumer,Dec,12,Q4,0.11640234465577023
+971,2025-12-19,CUST1094,Customer 1106,North,Lucknow,Water Bottle,Lifestyle,3,1180.03,0.02,3469.29,2423.55,1045.74,Online,Credit Card,Consumer,Dec,12,Q4,0.3014276696384563
+77,2025-12-19,CUST1023,Customer 1063,South,Bengaluru,Smartphone,Electronics,4,48214.18,0.05,183213.88,150865.33,32348.55,Online,UPI,Consumer,Dec,12,Q4,0.17656167753229177
+321,2025-12-19,CUST1182,Customer 1037,North,Delhi,Mouse,Accessories,4,1859.52,0.0,7438.08,6284.81,1153.27,Online,Credit Card,Home Office,Dec,12,Q4,0.15504942135604888
+265,2025-12-20,CUST1127,Customer 1075,East,Patna,Desk,Furniture,4,7256.91,0.02,28447.09,19007.16,9439.93,Online,Cash,Consumer,Dec,12,Q4,0.3318416751941939
+697,2025-12-20,CUST1154,Customer 1201,Central,Indore,Monitor,Electronics,1,21297.69,0.0,21297.69,17187.06,4110.63,Store,Debit Card,Home Office,Dec,12,Q4,0.1930082558249275
+458,2025-12-21,CUST1225,Customer 1152,Central,Bhopal,Mouse,Accessories,3,540.71,0.02,1589.69,1402.79,186.9,Online,Credit Card,Consumer,Dec,12,Q4,0.11757009228214306
+340,2025-12-21,CUST1211,Customer 1192,North,Delhi,Backpack,Lifestyle,2,2324.88,0.02,4556.76,3799.83,756.93,Store,Net Banking,Home Office,Dec,12,Q4,0.1661114476075106
+270,2025-12-21,CUST1146,Customer 1256,East,Kolkata,Backpack,Lifestyle,3,1172.5,0.1,3165.75,2972.69,193.06,Store,Debit Card,Consumer,Dec,12,Q4,0.06098396904367054
+988,2025-12-22,CUST1281,Customer 1300,South,Bengaluru,Smartphone,Electronics,2,36457.49,0.05,69269.23,50361.19,18908.04,Store,Net Banking,Consumer,Dec,12,Q4,0.2729644894277012
+120,2025-12-22,CUST1191,Customer 1155,East,Patna,Printer,Electronics,2,11344.14,0.0,22688.28,19553.29,3134.99,Store,Cash,Home Office,Dec,12,Q4,0.13817662687519724
+966,2025-12-23,CUST1300,Customer 1287,Central,Bhopal,Mouse,Accessories,3,805.06,0.02,2366.88,1522.16,844.72,Online,Net Banking,Home Office,Dec,12,Q4,0.35689177313594267
+297,2025-12-23,CUST1138,Customer 1168,Central,Bhopal,Printer,Electronics,1,6000.19,0.1,5400.17,4535.26,864.91,Online,Net Banking,Consumer,Dec,12,Q4,0.16016347633500427
+260,2025-12-24,CUST1075,Customer 1072,South,Hyderabad,Desk,Furniture,1,8789.2,0.1,7910.28,6379.62,1530.66,Online,Cash,Consumer,Dec,12,Q4,0.19350263201808282
+646,2025-12-24,CUST1235,Customer 1196,North,Jaipur,Monitor,Electronics,2,27906.56,0.05,53022.46,43967.44,9055.02,Store,Net Banking,Home Office,Dec,12,Q4,0.17077706315399174
+250,2025-12-25,CUST1092,Customer 1280,South,Bengaluru,Keyboard,Accessories,2,1724.61,0.15,2931.84,3005.2,-73.36,Online,Debit Card,Consumer,Dec,12,Q4,-0.025021829294913773
+847,2025-12-25,CUST1062,Customer 1254,Central,Indore,Keyboard,Accessories,2,1140.04,0.15,1938.07,1925.98,12.09,Store,Net Banking,Corporate,Dec,12,Q4,0.006238164772170252
+96,2025-12-25,CUST1201,Customer 1246,North,Jaipur,Headphones,Electronics,1,4684.71,0.02,4591.02,3676.11,914.91,Store,Debit Card,Corporate,Dec,12,Q4,0.19928251238286915
+634,2025-12-25,CUST1053,Customer 1242,South,Bengaluru,Keyboard,Accessories,4,2955.82,0.1,10640.95,9818.48,822.47,Store,Cash,Corporate,Dec,12,Q4,0.07729291087731828
+511,2025-12-25,CUST1004,Customer 1106,South,Bengaluru,Laptop,Electronics,4,70837.83,0.05,269183.75,211207.59,57976.16,Online,UPI,Corporate,Dec,12,Q4,0.21537763702303725
+955,2025-12-25,CUST1249,Customer 1126,Central,Nagpur,Keyboard,Accessories,1,2743.18,0.05,2606.02,2152.79,453.23,Online,UPI,Home Office,Dec,12,Q4,0.17391654707177998
+698,2025-12-25,CUST1145,Customer 1275,South,Hyderabad,Monitor,Electronics,3,19657.69,0.1,53075.76,40040.19,13035.57,Online,Debit Card,Consumer,Dec,12,Q4,0.24560307756309094
+732,2025-12-25,CUST1196,Customer 1297,South,Hyderabad,Water Bottle,Lifestyle,3,883.69,0.0,2651.07,1765.26,885.81,Online,Debit Card,Home Office,Dec,12,Q4,0.33413301044483923
+460,2025-12-26,CUST1034,Customer 1045,East,Kolkata,Laptop,Electronics,1,61548.42,0.02,60317.45,41059.24,19258.21,Store,Net Banking,Corporate,Dec,12,Q4,0.31928090461383896
+380,2025-12-26,CUST1010,Customer 1211,South,Hyderabad,Backpack,Lifestyle,3,913.07,0.02,2684.43,2342.68,341.75,Online,Net Banking,Home Office,Dec,12,Q4,0.12730821813196844
+905,2025-12-27,CUST1200,Customer 1161,South,Hyderabad,Desk,Furniture,4,9926.16,0.1,35734.18,26062.59,9671.59,Online,Net Banking,Home Office,Dec,12,Q4,0.2706537550322968
+712,2025-12-27,CUST1067,Customer 1010,Central,Nagpur,Laptop,Electronics,3,59798.98,0.1,161457.25,138266.9,23190.35,Online,UPI,Home Office,Dec,12,Q4,0.14363151855986644
+151,2025-12-27,CUST1090,Customer 1220,North,Jaipur,Monitor,Electronics,1,23206.78,0.15,19725.76,18412.55,1313.21,Store,Credit Card,Corporate,Dec,12,Q4,0.06657335382768523
+647,2025-12-28,CUST1062,Customer 1240,North,Jaipur,Water Bottle,Lifestyle,4,510.4,0.05,1939.52,1567.95,371.57,Store,UPI,Consumer,Dec,12,Q4,0.1915783286586372
+98,2025-12-28,CUST1027,Customer 1287,South,Bengaluru,Keyboard,Accessories,1,2558.84,0.1,2302.96,1723.81,579.15,Store,Debit Card,Corporate,Dec,12,Q4,0.2514807030951471
+720,2025-12-28,CUST1093,Customer 1063,South,Hyderabad,Backpack,Lifestyle,1,1375.6,0.1,1238.04,859.83,378.21,Store,UPI,Consumer,Dec,12,Q4,0.3054909372879713
+121,2025-12-29,CUST1158,Customer 1039,Central,Indore,Backpack,Lifestyle,4,2110.22,0.02,8272.06,5516.17,2755.89,Online,Credit Card,Corporate,Dec,12,Q4,0.3331564326177518
+510,2025-12-30,CUST1119,Customer 1238,South,Bengaluru,Headphones,Electronics,4,3282.62,0.02,12867.87,11316.41,1551.46,Store,UPI,Corporate,Dec,12,Q4,0.12056851677861215
+219,2025-12-30,CUST1213,Customer 1216,West,Pune,Smartphone,Electronics,2,22097.69,0.1,39775.84,38754.8,1021.04,Store,Debit Card,Corporate,Dec,12,Q4,0.025669853861037255
+896,2025-12-30,CUST1103,Customer 1050,South,Bengaluru,Backpack,Lifestyle,1,2139.21,0.1,1925.29,1469.96,455.33,Store,Cash,Corporate,Dec,12,Q4,0.23649943644853502
+625,2025-12-30,CUST1130,Customer 1084,East,Patna,Water Bottle,Lifestyle,4,751.17,0.15,2553.98,2284.49,269.49,Online,Cash,Corporate,Dec,12,Q4,0.1055176626285249
+441,2025-12-30,CUST1095,Customer 1011,South,Hyderabad,Office Chair,Furniture,2,16731.24,0.15,28443.11,28625.15,-182.04,Store,Debit Card,Corporate,Dec,12,Q4,-0.006400144006755941
+726,2025-12-31,CUST1265,Customer 1287,South,Hyderabad,Smartphone,Electronics,1,28458.69,0.02,27889.52,24435.12,3454.4,Online,UPI,Consumer,Dec,12,Q4,0.12386014531623349
+926,2025-12-31,CUST1065,Customer 1069,West,Ahmedabad,Headphones,Electronics,4,2048.21,0.02,8028.98,7061.72,967.26,Online,Net Banking,Home Office,Dec,12,Q4,0.12047109346392693
+735,2025-12-31,CUST1090,Customer 1280,North,Lucknow,Water Bottle,Lifestyle,4,958.36,0.15,3258.42,2507.86,750.56,Online,UPI,Corporate,Dec,12,Q4,0.23034476832329778
+46,2025-12-31,CUST1145,Customer 1217,East,Bhubaneswar,Smartphone,Electronics,2,21009.9,0.05,39918.81,32403.12,7515.69,Online,Cash,Corporate,Dec,12,Q4,0.18827439996332557
+716,2025-12-31,CUST1140,Customer 1190,West,Mumbai,Desk,Furniture,1,5826.74,0.02,5710.21,4005.56,1704.65,Store,Cash,Consumer,Dec,12,Q4,0.29852667415033773
+215,2025-12-31,CUST1259,Customer 1283,South,Chennai,Notebook,Stationery,2,302.69,0.02,593.27,425.19,168.08,Store,Debit Card,Corporate,Dec,12,Q4,0.2833111399531411

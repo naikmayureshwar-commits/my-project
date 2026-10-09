@@ -1,0 +1,301 @@
+Customer_ID,Customer_Name,Region,City,Customer_Segment
+CUST1001,Customer 1296,West,Pune,Consumer
+CUST1002,Customer 1225,North,Delhi,Consumer
+CUST1004,Customer 1132,Central,Bhopal,Consumer
+CUST1005,Customer 1243,Central,Bhopal,Corporate
+CUST1006,Customer 1109,South,Bengaluru,Corporate
+CUST1007,Customer 1122,North,Delhi,Corporate
+CUST1008,Customer 1076,North,Delhi,Home Office
+CUST1009,Customer 1233,West,Mumbai,Home Office
+CUST1010,Customer 1288,East,Kolkata,Home Office
+CUST1011,Customer 1118,North,Delhi,Corporate
+CUST1012,Customer 1209,South,Bengaluru,Corporate
+CUST1013,Customer 1293,West,Pune,Corporate
+CUST1014,Customer 1143,West,Mumbai,Consumer
+CUST1015,Customer 1153,East,Kolkata,Corporate
+CUST1016,Customer 1280,West,Ahmedabad,Consumer
+CUST1017,Customer 1133,Central,Nagpur,Corporate
+CUST1018,Customer 1097,West,Pune,Consumer
+CUST1019,Customer 1214,North,Delhi,Corporate
+CUST1020,Customer 1050,East,Kolkata,Consumer
+CUST1021,Customer 1042,West,Pune,Consumer
+CUST1022,Customer 1007,West,Ahmedabad,Corporate
+CUST1023,Customer 1250,West,Pune,Corporate
+CUST1024,Customer 1028,Central,Bhopal,Consumer
+CUST1025,Customer 1059,South,Bengaluru,Consumer
+CUST1026,Customer 1292,East,Kolkata,Home Office
+CUST1027,Customer 1157,East,Patna,Home Office
+CUST1028,Customer 1260,West,Mumbai,Home Office
+CUST1029,Customer 1164,North,Lucknow,Corporate
+CUST1030,Customer 1144,North,Lucknow,Corporate
+CUST1031,Customer 1158,Central,Bhopal,Home Office
+CUST1032,Customer 1074,South,Bengaluru,Consumer
+CUST1033,Customer 1010,North,Jaipur,Home Office
+CUST1034,Customer 1079,East,Bhubaneswar,Consumer
+CUST1035,Customer 1125,South,Bengaluru,Corporate
+CUST1036,Customer 1109,Central,Nagpur,Consumer
+CUST1037,Customer 1071,Central,Nagpur,Home Office
+CUST1038,Customer 1142,South,Hyderabad,Corporate
+CUST1039,Customer 1126,West,Ahmedabad,Consumer
+CUST1040,Customer 1059,West,Mumbai,Home Office
+CUST1041,Customer 1173,Central,Indore,Corporate
+CUST1042,Customer 1164,Central,Indore,Corporate
+CUST1043,Customer 1017,South,Chennai,Consumer
+CUST1044,Customer 1056,Central,Bhopal,Corporate
+CUST1045,Customer 1137,Central,Indore,Corporate
+CUST1046,Customer 1114,South,Chennai,Home Office
+CUST1047,Customer 1094,East,Bhubaneswar,Consumer
+CUST1048,Customer 1183,West,Ahmedabad,Home Office
+CUST1049,Customer 1127,West,Ahmedabad,Home Office
+CUST1050,Customer 1105,West,Ahmedabad,Home Office
+CUST1051,Customer 1178,Central,Indore,Home Office
+CUST1052,Customer 1195,North,Delhi,Corporate
+CUST1053,Customer 1151,West,Pune,Home Office
+CUST1054,Customer 1161,South,Chennai,Corporate
+CUST1055,Customer 1127,East,Patna,Home Office
+CUST1056,Customer 1187,Central,Nagpur,Home Office
+CUST1057,Customer 1218,Central,Nagpur,Consumer
+CUST1058,Customer 1297,North,Lucknow,Consumer
+CUST1059,Customer 1243,South,Bengaluru,Corporate
+CUST1061,Customer 1054,Central,Bhopal,Consumer
+CUST1062,Customer 1134,West,Mumbai,Corporate
+CUST1063,Customer 1239,South,Bengaluru,Consumer
+CUST1064,Customer 1091,Central,Indore,Home Office
+CUST1065,Customer 1232,South,Hyderabad,Corporate
+CUST1066,Customer 1234,North,Jaipur,Home Office
+CUST1067,Customer 1191,South,Bengaluru,Corporate
+CUST1068,Customer 1028,South,Bengaluru,Home Office
+CUST1069,Customer 1215,Central,Bhopal,Consumer
+CUST1070,Customer 1297,South,Chennai,Consumer
+CUST1071,Customer 1243,Central,Nagpur,Consumer
+CUST1072,Customer 1087,East,Bhubaneswar,Corporate
+CUST1073,Customer 1201,West,Ahmedabad,Consumer
+CUST1074,Customer 1278,South,Bengaluru,Corporate
+CUST1075,Customer 1042,South,Chennai,Consumer
+CUST1076,Customer 1201,East,Patna,Corporate
+CUST1077,Customer 1188,West,Ahmedabad,Home Office
+CUST1078,Customer 1062,East,Kolkata,Consumer
+CUST1079,Customer 1027,West,Ahmedabad,Home Office
+CUST1080,Customer 1083,Central,Nagpur,Home Office
+CUST1081,Customer 1010,Central,Bhopal,Consumer
+CUST1082,Customer 1069,Central,Bhopal,Consumer
+CUST1083,Customer 1185,East,Patna,Home Office
+CUST1084,Customer 1034,North,Delhi,Consumer
+CUST1085,Customer 1003,North,Jaipur,Consumer
+CUST1086,Customer 1274,Central,Indore,Corporate
+CUST1087,Customer 1149,East,Bhubaneswar,Consumer
+CUST1088,Customer 1044,West,Mumbai,Consumer
+CUST1089,Customer 1213,East,Bhubaneswar,Corporate
+CUST1090,Customer 1296,South,Hyderabad,Consumer
+CUST1091,Customer 1278,West,Pune,Consumer
+CUST1092,Customer 1280,South,Bengaluru,Consumer
+CUST1093,Customer 1006,Central,Indore,Corporate
+CUST1094,Customer 1095,South,Bengaluru,Corporate
+CUST1095,Customer 1217,South,Chennai,Consumer
+CUST1096,Customer 1190,West,Ahmedabad,Corporate
+CUST1097,Customer 1289,West,Ahmedabad,Corporate
+CUST1098,Customer 1102,North,Delhi,Corporate
+CUST1099,Customer 1113,North,Delhi,Corporate
+CUST1100,Customer 1204,East,Patna,Corporate
+CUST1101,Customer 1244,East,Bhubaneswar,Home Office
+CUST1102,Customer 1226,Central,Indore,Consumer
+CUST1103,Customer 1297,East,Kolkata,Home Office
+CUST1104,Customer 1118,West,Mumbai,Consumer
+CUST1105,Customer 1027,North,Lucknow,Home Office
+CUST1106,Customer 1167,West,Ahmedabad,Home Office
+CUST1107,Customer 1117,West,Ahmedabad,Home Office
+CUST1108,Customer 1018,West,Ahmedabad,Corporate
+CUST1109,Customer 1107,West,Mumbai,Corporate
+CUST1110,Customer 1033,Central,Nagpur,Corporate
+CUST1111,Customer 1132,Central,Nagpur,Corporate
+CUST1112,Customer 1274,East,Bhubaneswar,Consumer
+CUST1113,Customer 1112,West,Pune,Home Office
+CUST1114,Customer 1040,South,Chennai,Home Office
+CUST1115,Customer 1090,North,Lucknow,Home Office
+CUST1116,Customer 1270,North,Lucknow,Consumer
+CUST1117,Customer 1199,South,Chennai,Home Office
+CUST1118,Customer 1063,South,Chennai,Home Office
+CUST1119,Customer 1019,Central,Nagpur,Corporate
+CUST1120,Customer 1210,West,Ahmedabad,Home Office
+CUST1121,Customer 1197,Central,Indore,Corporate
+CUST1122,Customer 1164,East,Patna,Corporate
+CUST1123,Customer 1184,Central,Bhopal,Corporate
+CUST1124,Customer 1038,South,Chennai,Consumer
+CUST1125,Customer 1170,Central,Bhopal,Corporate
+CUST1126,Customer 1239,North,Jaipur,Consumer
+CUST1127,Customer 1168,East,Bhubaneswar,Home Office
+CUST1128,Customer 1195,East,Bhubaneswar,Home Office
+CUST1129,Customer 1196,South,Hyderabad,Home Office
+CUST1130,Customer 1293,East,Bhubaneswar,Corporate
+CUST1131,Customer 1255,East,Kolkata,Home Office
+CUST1132,Customer 1059,East,Bhubaneswar,Home Office
+CUST1133,Customer 1106,Central,Indore,Consumer
+CUST1134,Customer 1151,West,Ahmedabad,Home Office
+CUST1135,Customer 1055,South,Chennai,Home Office
+CUST1137,Customer 1164,West,Pune,Corporate
+CUST1138,Customer 1231,East,Kolkata,Corporate
+CUST1139,Customer 1299,South,Bengaluru,Home Office
+CUST1140,Customer 1190,West,Mumbai,Consumer
+CUST1141,Customer 1117,North,Lucknow,Corporate
+CUST1142,Customer 1210,South,Hyderabad,Corporate
+CUST1143,Customer 1245,South,Chennai,Home Office
+CUST1144,Customer 1261,Central,Indore,Home Office
+CUST1145,Customer 1208,West,Pune,Consumer
+CUST1146,Customer 1293,West,Mumbai,Consumer
+CUST1147,Customer 1112,West,Ahmedabad,Corporate
+CUST1148,Customer 1071,North,Jaipur,Corporate
+CUST1149,Customer 1028,Central,Nagpur,Consumer
+CUST1150,Customer 1048,West,Pune,Corporate
+CUST1151,Customer 1221,West,Ahmedabad,Consumer
+CUST1152,Customer 1259,East,Kolkata,Consumer
+CUST1153,Customer 1174,Central,Nagpur,Home Office
+CUST1154,Customer 1149,Central,Indore,Corporate
+CUST1155,Customer 1186,South,Chennai,Consumer
+CUST1157,Customer 1015,Central,Nagpur,Consumer
+CUST1158,Customer 1139,South,Chennai,Corporate
+CUST1159,Customer 1125,Central,Bhopal,Consumer
+CUST1160,Customer 1084,Central,Indore,Corporate
+CUST1161,Customer 1005,North,Delhi,Home Office
+CUST1162,Customer 1206,West,Pune,Corporate
+CUST1163,Customer 1189,West,Pune,Home Office
+CUST1164,Customer 1259,South,Bengaluru,Consumer
+CUST1165,Customer 1278,North,Delhi,Consumer
+CUST1166,Customer 1284,East,Kolkata,Corporate
+CUST1167,Customer 1008,South,Hyderabad,Consumer
+CUST1168,Customer 1251,West,Ahmedabad,Consumer
+CUST1169,Customer 1283,West,Pune,Consumer
+CUST1170,Customer 1086,Central,Indore,Corporate
+CUST1171,Customer 1272,West,Ahmedabad,Home Office
+CUST1172,Customer 1109,East,Kolkata,Home Office
+CUST1173,Customer 1082,West,Ahmedabad,Consumer
+CUST1174,Customer 1122,North,Delhi,Corporate
+CUST1175,Customer 1179,West,Ahmedabad,Consumer
+CUST1176,Customer 1116,East,Patna,Corporate
+CUST1177,Customer 1184,South,Bengaluru,Home Office
+CUST1178,Customer 1117,North,Lucknow,Consumer
+CUST1179,Customer 1206,Central,Nagpur,Consumer
+CUST1180,Customer 1200,South,Bengaluru,Consumer
+CUST1181,Customer 1184,East,Bhubaneswar,Corporate
+CUST1182,Customer 1001,West,Ahmedabad,Home Office
+CUST1183,Customer 1134,East,Patna,Home Office
+CUST1184,Customer 1020,Central,Indore,Corporate
+CUST1185,Customer 1029,Central,Bhopal,Corporate
+CUST1187,Customer 1031,West,Mumbai,Consumer
+CUST1188,Customer 1154,West,Mumbai,Consumer
+CUST1189,Customer 1151,South,Bengaluru,Corporate
+CUST1190,Customer 1052,West,Pune,Home Office
+CUST1191,Customer 1170,South,Chennai,Consumer
+CUST1192,Customer 1077,Central,Indore,Home Office
+CUST1193,Customer 1051,East,Patna,Corporate
+CUST1195,Customer 1015,Central,Nagpur,Consumer
+CUST1196,Customer 1295,Central,Indore,Corporate
+CUST1197,Customer 1221,Central,Nagpur,Home Office
+CUST1199,Customer 1114,East,Bhubaneswar,Consumer
+CUST1200,Customer 1067,East,Kolkata,Corporate
+CUST1201,Customer 1275,West,Ahmedabad,Home Office
+CUST1202,Customer 1093,West,Mumbai,Corporate
+CUST1203,Customer 1026,West,Ahmedabad,Consumer
+CUST1204,Customer 1267,West,Pune,Consumer
+CUST1205,Customer 1048,Central,Bhopal,Consumer
+CUST1206,Customer 1081,Central,Bhopal,Corporate
+CUST1207,Customer 1177,South,Bengaluru,Home Office
+CUST1208,Customer 1022,West,Pune,Home Office
+CUST1209,Customer 1089,South,Chennai,Consumer
+CUST1210,Customer 1161,South,Hyderabad,Corporate
+CUST1211,Customer 1077,West,Mumbai,Consumer
+CUST1212,Customer 1101,Central,Bhopal,Consumer
+CUST1213,Customer 1149,East,Patna,Home Office
+CUST1214,Customer 1273,South,Chennai,Home Office
+CUST1216,Customer 1176,North,Jaipur,Corporate
+CUST1217,Customer 1034,East,Patna,Home Office
+CUST1218,Customer 1011,South,Bengaluru,Corporate
+CUST1219,Customer 1089,West,Ahmedabad,Home Office
+CUST1220,Customer 1190,South,Chennai,Corporate
+CUST1221,Customer 1060,South,Bengaluru,Corporate
+CUST1222,Customer 1204,South,Chennai,Home Office
+CUST1223,Customer 1188,Central,Nagpur,Home Office
+CUST1224,Customer 1010,South,Chennai,Home Office
+CUST1225,Customer 1188,East,Kolkata,Home Office
+CUST1226,Customer 1167,West,Pune,Corporate
+CUST1227,Customer 1189,North,Lucknow,Consumer
+CUST1228,Customer 1245,South,Chennai,Corporate
+CUST1229,Customer 1036,East,Bhubaneswar,Home Office
+CUST1230,Customer 1271,North,Delhi,Home Office
+CUST1231,Customer 1038,Central,Indore,Home Office
+CUST1232,Customer 1277,North,Delhi,Home Office
+CUST1233,Customer 1199,North,Delhi,Home Office
+CUST1234,Customer 1175,East,Bhubaneswar,Consumer
+CUST1235,Customer 1289,West,Mumbai,Consumer
+CUST1236,Customer 1289,South,Hyderabad,Consumer
+CUST1237,Customer 1246,North,Delhi,Corporate
+CUST1238,Customer 1158,Central,Indore,Home Office
+CUST1239,Customer 1234,South,Hyderabad,Corporate
+CUST1241,Customer 1043,North,Delhi,Corporate
+CUST1242,Customer 1203,North,Lucknow,Corporate
+CUST1243,Customer 1297,South,Chennai,Consumer
+CUST1244,Customer 1015,North,Lucknow,Consumer
+CUST1246,Customer 1210,East,Kolkata,Corporate
+CUST1247,Customer 1128,South,Hyderabad,Corporate
+CUST1248,Customer 1273,Central,Indore,Consumer
+CUST1249,Customer 1091,North,Delhi,Corporate
+CUST1250,Customer 1163,East,Kolkata,Home Office
+CUST1251,Customer 1086,South,Hyderabad,Home Office
+CUST1252,Customer 1077,North,Delhi,Consumer
+CUST1253,Customer 1122,East,Kolkata,Home Office
+CUST1254,Customer 1007,East,Kolkata,Consumer
+CUST1255,Customer 1265,West,Mumbai,Consumer
+CUST1256,Customer 1135,South,Hyderabad,Corporate
+CUST1257,Customer 1131,East,Bhubaneswar,Home Office
+CUST1258,Customer 1275,East,Kolkata,Corporate
+CUST1259,Customer 1130,West,Ahmedabad,Corporate
+CUST1260,Customer 1246,North,Delhi,Home Office
+CUST1261,Customer 1054,South,Bengaluru,Consumer
+CUST1262,Customer 1167,South,Bengaluru,Home Office
+CUST1263,Customer 1142,South,Bengaluru,Home Office
+CUST1264,Customer 1071,West,Mumbai,Home Office
+CUST1265,Customer 1145,Central,Nagpur,Consumer
+CUST1266,Customer 1099,South,Chennai,Consumer
+CUST1267,Customer 1181,North,Delhi,Home Office
+CUST1268,Customer 1037,Central,Indore,Consumer
+CUST1269,Customer 1278,East,Bhubaneswar,Home Office
+CUST1270,Customer 1056,West,Mumbai,Consumer
+CUST1271,Customer 1089,East,Kolkata,Corporate
+CUST1272,Customer 1009,South,Hyderabad,Consumer
+CUST1273,Customer 1014,South,Hyderabad,Consumer
+CUST1274,Customer 1254,South,Chennai,Corporate
+CUST1275,Customer 1120,East,Kolkata,Consumer
+CUST1276,Customer 1031,North,Jaipur,Consumer
+CUST1277,Customer 1059,South,Hyderabad,Home Office
+CUST1278,Customer 1082,South,Bengaluru,Corporate
+CUST1279,Customer 1217,North,Lucknow,Corporate
+CUST1280,Customer 1094,North,Delhi,Consumer
+CUST1281,Customer 1172,Central,Indore,Corporate
+CUST1282,Customer 1121,West,Ahmedabad,Consumer
+CUST1283,Customer 1013,West,Ahmedabad,Home Office
+CUST1284,Customer 1121,North,Delhi,Home Office
+CUST1285,Customer 1239,Central,Bhopal,Corporate
+CUST1286,Customer 1249,South,Hyderabad,Home Office
+CUST1287,Customer 1123,East,Patna,Corporate
+CUST1288,Customer 1281,East,Bhubaneswar,Consumer
+CUST1289,Customer 1261,North,Delhi,Consumer
+CUST1290,Customer 1251,South,Chennai,Corporate
+CUST1291,Customer 1114,South,Bengaluru,Consumer
+CUST1292,Customer 1078,West,Mumbai,Consumer
+CUST1293,Customer 1244,West,Ahmedabad,Consumer
+CUST1294,Customer 1170,South,Chennai,Consumer
+CUST1295,Customer 1108,Central,Nagpur,Consumer
+CUST1296,Customer 1011,East,Kolkata,Consumer
+CUST1297,Customer 1181,East,Patna,Consumer
+CUST1298,Customer 1240,West,Ahmedabad,Home Office
+CUST1299,Customer 1283,South,Bengaluru,Corporate
+CUST1300,Customer 1287,Central,Bhopal,Home Office
+CUST9001,New Customer 1,South,Mumbai,Corporate
+CUST9002,New Customer 2,East,Nashik,Home Office
+CUST9003,New Customer 3,West,Nagpur,Consumer
+CUST9004,New Customer 4,Central,Delhi,Corporate
+CUST9005,New Customer 5,North,Pune,Home Office
+CUST9006,New Customer 6,South,Mumbai,Consumer
+CUST9007,New Customer 7,East,Nashik,Corporate
+CUST9008,New Customer 8,West,Nagpur,Home Office
+CUST9009,New Customer 9,Central,Delhi,Consumer
+CUST9010,New Customer 10,North,Pune,Corporate
