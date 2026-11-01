@@ -1,45 +1,68 @@
- My Data Analytics & Python Portfolio
+# My Data Analytics & Python Portfolio
 
-Welcome to my GitHub portfolio! This repository showcases my projects in data analytics, SQL, Power BI, Python, and computer vision.
+Welcome to my GitHub portfolio! This repository showcases my projects in Data Analytics, SQL, Power BI, Python, and Computer Vision.
 
-Projects
+## Projects
 
-1. Retail Sales Analytics
+### 1. Retail Sales Analytics
 
-Tools: MySQL, SQL
+**Tools:** MySQL, SQL
 
 Analyzed retail transaction data to evaluate sales performance, product profitability, customer behavior, regional performance, sales channels, and monthly trends.
 
-Key skills: SQL queries, joins, CTEs, subqueries, window functions, KPI analysis, and business recommendations.
+**Key Skills:** SQL queries, joins, CTEs, subqueries, window functions, KPI analysis, and business recommendations.
 
-Project files will be added here.
+[View Project](01-Retail-Sales-Analytics/)
 
-2. Power BI Mobile Sales Dashboard
+### 2. Power BI Mobile Sales Dashboard
 
-Tools: Power BI, Excel
+**Tools:** Power BI, Excel
 
-A dashboard project focused on analyzing mobile sales performance and presenting business metrics through interactive visualizations.
+Developed an interactive dashboard to analyze mobile sales performance and present key business metrics through visualizations.
 
-Project files will be added here.
+**Key Skills:** Data visualization, dashboard development, KPI tracking, business analysis, and interactive reporting.
 
-3. AI Virtual Mouse
+[View Project](02-Power-BI-Mobile-Sales-Dashboard/)
 
-Tools: Python, OpenCV, MediaPipe, PyAutoGUI
+### 3. Enterprise Financial Performance Dashboard
 
-A computer-vision project that uses hand gestures to control mouse movements and interactions.
+**Tools:** Power BI, DAX
 
-Project files will be added here.
+Developed an enterprise financial performance dashboard to analyze financial metrics and provide insights into business performance through interactive reports and visualizations.
 
-Technical Skills
+**Key Skills:** Data modeling, DAX measures, financial KPI analysis, time intelligence, and interactive dashboard development.
 
-Programming: Python, SQL,DSA
+[View Project](03-Enterprise-Financial-PowerBI/)
 
-Data Analysis: Pandas, NumPy
+### 4. Python Dashboard Using Data Analysis Libraries
 
-Visualization: Power BI, Excel, Matplotlib, Seaborn
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-Other: Data Structures and Algorithms, OpenCV, MediaPipe
+Developed a data analysis and visualization dashboard using Python libraries to explore data, analyze trends, and communicate insights through visualizations.
 
-Contact
+**Key Skills:** Data manipulation, data analysis, exploratory data analysis (EDA), statistical analysis, and data visualization.
 
-GitHub: naikmayureshwar-commits
+[View Project](04-dashboard%20using%20python%20libraries/)
+
+### 5. AI Virtual Mouse
+
+**Tools:** Python, OpenCV, MediaPipe, PyAutoGUI
+
+Developed a computer vision application that uses hand gestures to control mouse movements and interactions.
+
+**Key Skills:** Computer vision, hand tracking, gesture recognition, real-time image processing, and Python automation.
+
+[View Project](05-%20AI%20Virtual%20Mouse%20with%20python/AI-Virtual-Mouse/)
+
+## Technical Skills
+
+- **Programming:** Python, SQL, Data Structures and Algorithms (DSA)
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Power BI, Excel, Matplotlib, Seaborn
+- **Database:** MySQL
+- **Computer Vision:** OpenCV, MediaPipe
+- **Other:** DAX, Data Modeling, KPI Analysis
+
+## Contact
+
+- **GitHub:** [naikmayureshwar-commits](https://github.com/naikmayureshwar-commits)
